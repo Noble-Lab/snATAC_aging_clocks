@@ -1,0 +1,1477 @@
+,individualID,specimenID,specimenIdSource,organ,tissue,BrodmannArea,sampleStatus,tissueWeight,tissueVolume,nucleicAcidSource,cellType,fastingState,isPostMortem,samplingAge,samplingAgeUnits,visitNumber,assay
+0,H19.33.004,M1TX_210218_155_G01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,80,years,,scrnaSeq
+1,H19.33.004,M1TX_210218_157_B01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,80,years,,scrnaSeq
+2,H19.33.004,M1TX_210310_162_C01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,80,years,,scrnaSeq
+3,H19.33.004,M1TX_210310_164_D01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,80,years,,scrnaSeq
+4,H20.33.001,M2TX_210309_204_H01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,82,years,,scrnaSeq
+5,H20.33.001,M2TX_210309_206_B01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,82,years,,scrnaSeq
+6,H20.33.002,M1TX_210316_101_A01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+7,H20.33.002,M1TX_210316_102_F01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+8,H20.33.004,M1TX_210316_104_C01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,86,years,,scrnaSeq
+9,H20.33.004,M2TX_210504_201_D01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,86,years,,scrnaSeq
+10,H20.33.005,M1TX_210218_167_B01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+11,H20.33.005,M1TX_210218_169_C01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+12,H20.33.005,M1TX_210218_171_F01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+13,H20.33.005,M2TX_210505_205_B01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+14,H20.33.008,M1TX_210309_104_H01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+15,H20.33.011,M1TX_201007_173_A01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+16,H20.33.011,M1TX_201007_175_G01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+17,H20.33.012,M1TX_201007_165_B01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+18,H20.33.012,M1TX_201007_167_H01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+19,H20.33.013,M1TX_201007_159_A01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+20,H20.33.013,M1TX_201007_161_C01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+21,H20.33.014,M1TX_201014_163_A01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,82,years,,scrnaSeq
+22,H20.33.014,M1TX_201014_164_B01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,82,years,,scrnaSeq
+23,H20.33.015,M1TX_201014_159_B01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,88,years,,scrnaSeq
+24,H20.33.015,M1TX_201014_160_C01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,88,years,,scrnaSeq
+25,H20.33.016,M1TX_201014_154_A01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+26,H20.33.016,M1TX_201014_155_D01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+27,H20.33.017,M1TX_201022_163_A01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,69,years,,scrnaSeq
+28,H20.33.017,M1TX_210120_163_A01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,69,years,,scrnaSeq
+29,H20.33.018,M1TX_201022_165_D01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,81,years,,scrnaSeq
+30,H20.33.018,M1TX_201022_167_E01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,81,years,,scrnaSeq
+31,H20.33.018,M1TX_210112_151_A01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,81,years,,scrnaSeq
+32,H20.33.018,M1TX_210112_151_B01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,81,years,,scrnaSeq
+33,H20.33.019,M1TX_201022_169_E01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,87,years,,scrnaSeq
+34,H20.33.019,M1TX_201022_171_E01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,87,years,,scrnaSeq
+35,H20.33.020,M1TX_201022_159_F01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,81,years,,scrnaSeq
+36,H20.33.020,M1TX_201104_155_F01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,81,years,,scrnaSeq
+37,H20.33.020,M1TX_201104_157_C01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,81,years,,scrnaSeq
+38,H20.33.024,M2TX_210305_207_C01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+39,H20.33.024,M2TX_210504_206_F01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+40,H20.33.025,M1TX_210309_101_G01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+41,H20.33.025,M1TX_210309_103_D01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+42,H20.33.026,M2TX_210504_204_E01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,75,years,,scrnaSeq
+43,H20.33.027,M2TX_210309_201_G01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+44,H20.33.027,M2TX_210309_202_A01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+45,H20.33.028,M1TX_210218_151_F01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+46,H20.33.028,M1TX_210218_153_A01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+47,H20.33.028,M2TX_210505_208_C01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+48,H20.33.029,M1TX_210226_101_A01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+49,H20.33.029,M1TX_210226_102_B01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+50,H20.33.030,M1TX_210709_159_E01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,86,years,,scrnaSeq
+51,H20.33.030,M1TX_210709_161_E01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,86,years,,scrnaSeq
+52,H20.33.030,M1TX_210709_161_F01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,86,years,,scrnaSeq
+53,H20.33.031,M1TX_210226_104_B01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,87,years,,scrnaSeq
+54,H20.33.031,M1TX_210226_105_C01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,87,years,,scrnaSeq
+55,H20.33.032,M1TX_210708_106_G01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+56,H20.33.032,M1TX_210708_106_H01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+57,H20.33.033,M2TX_210304_203_D01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,68,years,,scrnaSeq
+58,H20.33.033,M2TX_210304_205_A01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,68,years,,scrnaSeq
+59,H20.33.033,M2TX_210505_202_A01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,68,years,,scrnaSeq
+60,H20.33.034,M1TX_210713_103_A01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,85,years,,scrnaSeq
+61,H20.33.034,M1TX_210713_103_B01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,85,years,,scrnaSeq
+62,H20.33.035,M2TX_210226_202_C01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+63,H20.33.035,M2TX_210226_204_G01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+64,H20.33.036,M2TX_210316_201_D01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+65,H20.33.036,M2TX_210316_202_B01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+66,H20.33.036,M2TX_210414_251_A01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+67,H20.33.037,M2TX_210316_204_E01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+68,H20.33.037,M2TX_210316_205_A01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+69,H20.33.037,M2TX_210414_207_B01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+70,H20.33.038,M1TX_210809_153_B01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+71,H20.33.039,M1TX_210310_170_D01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+72,H20.33.039,M1TX_210310_172_E01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+73,H20.33.040,M2TX_210304_209_E01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+74,H20.33.040,M2TX_210304_211_D01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+75,H20.33.041,M1TX_210713_107_E01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+76,H20.33.041,M1TX_210713_107_F01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+77,H20.33.043,M1TX_210405_101_C01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,85,years,,scrnaSeq
+78,H20.33.043,M1TX_210405_103_H01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,85,years,,scrnaSeq
+79,H20.33.044,M1TX_210713_106_C01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,81,years,,scrnaSeq
+80,H20.33.044,M1TX_210713_106_D01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,81,years,,scrnaSeq
+81,H20.33.045,M2TX_210701_259_E01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,77,years,,scrnaSeq
+82,H20.33.045,M2TX_210701_259_F01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,77,years,,scrnaSeq
+83,H20.33.046,M1TX_210816_151_A01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+84,H20.33.046,M1TX_210816_151_B01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+85,H21.33.001,M1TX_210218_161_A01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,80,years,,scrnaSeq
+86,H21.33.001,M1TX_210218_163_A01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,80,years,,scrnaSeq
+87,H21.33.002,M2TX_210305_202_A01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,70,years,,scrnaSeq
+88,H21.33.002,M2TX_210305_203_E01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,70,years,,scrnaSeq
+89,H21.33.003,M2TX_210309_207_B01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,78,years,,scrnaSeq
+90,H21.33.003,M2TX_210309_208_C01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,78,years,,scrnaSeq
+91,H21.33.004,M2TX_210305_204_B01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+92,H21.33.004,M2TX_210305_205_F01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+93,H21.33.005,M1TX_210322_113_E01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+94,H21.33.005,M1TX_210811_167_G01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+95,H21.33.005,M1TX_210811_167_H01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+96,H21.33.006,M2TX_210316_206_F01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+97,H21.33.006,M2TX_210316_207_H01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+98,H21.33.007,M1TX_210405_104_B01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,86,years,,scrnaSeq
+99,H21.33.007,M1TX_210405_105_C01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,86,years,,scrnaSeq
+100,H21.33.008,M2TX_210426_201_A01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+101,H21.33.008,M2TX_210426_202_D01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+102,H21.33.009,M2TX_210426_203_B01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,65,years,,scrnaSeq
+103,H21.33.009,M2TX_210426_204_E01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,65,years,,scrnaSeq
+104,H21.33.010,M1TX_210914_153_A01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+105,H21.33.010,M1TX_210914_153_B01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+106,H21.33.010,M2TX_210329_204_D01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+107,H21.33.011,M1TX_210322_116_C01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,83,years,,scrnaSeq
+108,H21.33.011,M1TX_210322_118_A01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,83,years,,scrnaSeq
+109,H21.33.012,M2TX_210329_206_E01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+110,H21.33.012,M2TX_210329_207_G01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+111,H21.33.013,M2TX_210322_204_C01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+112,H21.33.013,M2TX_210322_205_E01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+113,H21.33.014,M1TX_210316_108_G01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+114,H21.33.014,M1TX_210316_109_C01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+115,H21.33.015,M2TX_210407_204_C01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+116,H21.33.015,M2TX_210407_256_D01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+117,H21.33.016,M2TX_210322_202_D01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+118,H21.33.017,M2TX_210426_206_C01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+119,H21.33.017,M2TX_210426_208_A01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+120,H21.33.018,M2TX_210414_215_C01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,89,years,,scrnaSeq
+121,H21.33.018,M2TX_210414_267_F01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,89,years,,scrnaSeq
+122,H21.33.019,M2TX_210407_216_E01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,75,years,,scrnaSeq
+123,H21.33.019,M2TX_210407_268_E01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,75,years,,scrnaSeq
+124,H21.33.020,M2TX_210407_210_D01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,82,years,,scrnaSeq
+125,H21.33.020,M2TX_210407_212_D01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,82,years,,scrnaSeq
+126,H21.33.021,M2TX_210322_207_D01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+127,H21.33.021,M2TX_210322_208_A01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+128,H21.33.022,M2TX_210329_201_B01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,82,years,,scrnaSeq
+129,H21.33.022,M2TX_210329_202_F01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,82,years,,scrnaSeq
+130,H21.33.023,M1TX_210322_110_A01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+131,H21.33.023,M1TX_210322_111_D01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+132,H21.33.025,M2TX_210624_205_C01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,88,years,,scrnaSeq
+133,H21.33.025,M2TX_210624_205_D01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,88,years,,scrnaSeq
+134,H21.33.026,M2TX_210701_251_A01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+135,H21.33.026,M2TX_210701_251_B01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+136,H21.33.027,M1TX_210709_151_B01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+137,H21.33.027,M1TX_210709_153_C01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+138,H21.33.027,M1TX_210709_153_D01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+139,H21.33.028,M1TX_210708_101_C01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,72,years,,scrnaSeq
+140,H21.33.028,M1TX_210708_101_D01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,72,years,,scrnaSeq
+141,H21.33.029,M1TX_210708_104_E01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,89,years,,scrnaSeq
+142,H21.33.029,M1TX_210708_104_F01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,89,years,,scrnaSeq
+143,H21.33.030,M2TX_210624_209_E01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,89,years,,scrnaSeq
+144,H21.33.030,M2TX_210624_209_F01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,89,years,,scrnaSeq
+145,H21.33.031,M2TX_210701_255_C01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,84,years,,scrnaSeq
+146,H21.33.031,M2TX_210701_255_D01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,84,years,,scrnaSeq
+147,H21.33.032,M2TX_210727_201_A01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+148,H21.33.032,M2TX_210727_201_B01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+149,H21.33.033,M1TX_210712_151_G01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,83,years,,scrnaSeq
+150,H21.33.033,M1TX_210712_151_H01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,83,years,,scrnaSeq
+151,H21.33.034,M1TX_210720_157_C01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+152,H21.33.034,M1TX_210720_157_D01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+153,H21.33.035,M1TX_210712_155_G01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+154,H21.33.035,M1TX_210712_155_H01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+155,H21.33.036,M2TX_210720_207_C01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+156,H21.33.036,M2TX_210720_207_D01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+157,H21.33.037,M2TX_210727_207_E01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,88,years,,scrnaSeq
+158,H21.33.037,M2TX_210727_207_F01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,88,years,,scrnaSeq
+159,H21.33.038,M1TX_210720_153_B01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,84,years,,scrnaSeq
+160,H21.33.039,M2TX_210727_205_C01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,88,years,,scrnaSeq
+161,H21.33.039,M2TX_210727_205_D01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,88,years,,scrnaSeq
+162,H21.33.040,M1TX_210816_155_C01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,83,years,,scrnaSeq
+163,H21.33.040,M1TX_210816_155_D01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,83,years,,scrnaSeq
+164,H21.33.041,M2TX_210720_204_G01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+165,H21.33.041,M2TX_210720_204_H01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+166,H21.33.042,M2TX_210720_201_E01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+167,H21.33.042,M2TX_210720_201_F01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+168,H21.33.043,M1TX_210816_161_E01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+169,H21.33.043,M1TX_210816_161_F01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+170,H21.33.044,M1TX_210914_157_C01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,88,years,,scrnaSeq
+171,H21.33.044,M1TX_210914_157_D01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,88,years,,scrnaSeq
+172,H21.33.045,M1TX_211014_151_A01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+173,H21.33.045,M1TX_211014_151_B01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+174,H21.33.046,M1TX_211014_157_F01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+175,H21.33.047,M1TX_211014_155_C01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+176,H21.33.047,M1TX_211014_155_D01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+177,H18.30.001,M1TX_191015_101_A01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,60,years,,scrnaSeq
+178,H18.30.001,M1TX_191216_107_D01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,60,years,,scrnaSeq
+179,H18.30.002,M1TX_190626_107_A01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,50,years,,scrnaSeq
+180,H18.30.002,M1TX_190626_107_B01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,50,years,,scrnaSeq
+181,H18.30.002,M1TX_190626_107_C01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,50,years,,scrnaSeq
+182,H18.30.002,M1TX_190626_107_D01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,50,years,,scrnaSeq
+183,H18.30.002,M1TX_190626_107_E01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,50,years,,scrnaSeq
+184,H18.30.002,M1TX_190916_106_B01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,50,years,,scrnaSeq
+185,H19.30.001,M1TX_191024_101_A01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,42,years,,scrnaSeq
+186,H19.30.001,M1TX_191024_101_B01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,42,years,,scrnaSeq
+187,H19.30.001,M1TX_191024_101_C01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,42,years,,scrnaSeq
+188,H19.30.001,M1TX_191024_101_D01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,42,years,,scrnaSeq
+189,H19.30.001,M1TX_191024_101_E01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,42,years,,scrnaSeq
+190,H19.30.001,M1TX_191106_104_A01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,42,years,,scrnaSeq
+191,H19.30.001,M1TX_191106_104_B01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,42,years,,scrnaSeq
+192,H19.30.001,M1TX_191106_104_C01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,42,years,,scrnaSeq
+193,H19.30.001,M1TX_191106_104_D01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,42,years,,scrnaSeq
+194,H19.30.002,M1TX_191024_109_A01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,29,years,,scrnaSeq
+195,H19.30.002,M1TX_191024_109_B01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,29,years,,scrnaSeq
+196,H19.30.002,M1TX_191024_109_C01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,29,years,,scrnaSeq
+197,H19.30.002,M1TX_191024_110_A01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,29,years,,scrnaSeq
+198,H19.30.002,M1TX_191024_110_B01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,29,years,,scrnaSeq
+199,H19.30.002,M1TX_191024_110_C01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,29,years,,scrnaSeq
+200,H200.1023,M1TX_190822_101_D01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,43,years,,scrnaSeq
+201,H19.33.004,M2AT_211022_206_A01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,80,years,,ATACSeq
+202,H20.33.001,M2AT_210806_201_B01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,82,years,,ATACSeq
+203,H20.33.001,M2AT_211102_216_A01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,82,years,,ATACSeq
+204,H20.33.002,M2AT_210809_201_A01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,90+,years,,ATACSeq
+205,H20.33.002,M2AT_211102_216_B01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,90+,years,,ATACSeq
+206,H20.33.004,M2AT_210827_201_A01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,86,years,,ATACSeq
+207,H20.33.004,M2AT_211026_206_B01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,86,years,,ATACSeq
+208,H20.33.005,M2AT_211001_217_B01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,90+,years,,ATACSeq
+209,H20.33.005,M2AT_211026_206_D01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,90+,years,,ATACSeq
+210,H20.33.008,M2AT_210730_201_B01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,90+,years,,ATACSeq
+211,H20.33.008,M2AT_211026_206_C01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,90+,years,,ATACSeq
+212,H20.33.011,M1AT_201007_151_A01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,90+,years,,ATACSeq
+213,H20.33.012,M1AT_201007_153_B01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,90+,years,,ATACSeq
+214,H20.33.013,M1AT_201007_155_C01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,90+,years,,ATACSeq
+215,H20.33.014,M1AT_201014_151_A01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,82,years,,ATACSeq
+216,H20.33.015,M1AT_201014_152_B01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,88,years,,ATACSeq
+217,H20.33.016,M1AT_201014_153_C01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,90+,years,,ATACSeq
+218,H20.33.017,M1AT_201022_151_A01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,69,years,,ATACSeq
+219,H20.33.018,M1AT_201022_153_B01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,81,years,,ATACSeq
+220,H20.33.019,M1AT_201022_155_C01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,87,years,,ATACSeq
+221,H20.33.020,M1AT_201022_157_D01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,81,years,,ATACSeq
+222,H20.33.024,M2AT_211022_206_C01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,90+,years,,ATACSeq
+223,H20.33.025,M2AT_210730_201_A01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,90+,years,,ATACSeq
+224,H20.33.025,M2AT_211026_206_A01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,90+,years,,ATACSeq
+225,H20.33.026,M2AT_211029_216_A01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,75,years,,ATACSeq
+226,H20.33.027,M2AT_210806_201_A01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,90+,years,,ATACSeq
+227,H20.33.027,M2AT_211029_216_C01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,90+,years,,ATACSeq
+228,H20.33.028,M2AT_211015_216_A01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,90+,years,,ATACSeq
+229,H20.33.028,M2AT_211102_216_C01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,90+,years,,ATACSeq
+230,H20.33.029,M1AT_211102_201_E01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,90+,years,,ATACSeq
+231,H20.33.030,M1AT_211102_201_F01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,86,years,,ATACSeq
+232,H20.33.031,M1AT_211102_201_G01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,87,years,,ATACSeq
+233,H20.33.032,M1AT_211102_201_H01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,90+,years,,ATACSeq
+234,H20.33.033,M2AT_211109_216_A01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,68,years,,ATACSeq
+235,H20.33.034,M2AT_211109_216_B01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,85,years,,ATACSeq
+236,H20.33.035,M2AT_211109_216_C01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,90+,years,,ATACSeq
+237,H20.33.036,M2AT_211109_216_D01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,90+,years,,ATACSeq
+238,H20.33.037,M2AT_211109_211_E01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,90+,years,,ATACSeq
+239,H20.33.038,M2AT_210827_201_B01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,90+,years,,ATACSeq
+240,H20.33.039,M2AT_210809_201_B01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,90+,years,,ATACSeq
+241,H20.33.039,M2AT_211116_216_B01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,90+,years,,ATACSeq
+242,H20.33.040,M2AT_210820_207_A01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,90+,years,,ATACSeq
+243,H20.33.040,M2AT_211122_211_C01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,90+,years,,ATACSeq
+244,H20.33.041,M2AT_211029_216_B01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,90+,years,,ATACSeq
+245,H20.33.043,M2AT_211015_216_B01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,85,years,,ATACSeq
+246,H20.33.043,M2AT_211109_211_F01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,85,years,,ATACSeq
+247,H20.33.044,M2AT_211019_211_B01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,81,years,,ATACSeq
+248,H20.33.045,M2AT_211019_211_A01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,77,years,,ATACSeq
+249,H20.33.046,M2AT_211019_211_C01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,90+,years,,ATACSeq
+250,H21.33.001,M2AT_211022_206_B01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,80,years,,ATACSeq
+251,H21.33.002,M2AT_211122_211_D01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,70,years,,ATACSeq
+252,H21.33.003,M2AT_210913_207_A01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,78,years,,ATACSeq
+253,H21.33.003,M2AT_211130_216_A01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,78,years,,ATACSeq
+254,H21.33.004,M2AT_210820_207_B01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,90+,years,,ATACSeq
+255,H21.33.004,M2AT_211130_206_F01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,90+,years,,ATACSeq
+256,H21.33.005,M2AT_211019_211_D01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,90+,years,,ATACSeq
+257,H21.33.006,M2AT_211008_216_A01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,90+,years,,ATACSeq
+258,H21.33.006,M2AT_211102_216_D01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,90+,years,,ATACSeq
+259,H21.33.007,M2AT_211022_206_D01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,86,years,,ATACSeq
+260,H21.33.008,M2AT_211008_216_B01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,90+,years,,ATACSeq
+261,H21.33.008,M2AT_211029_216_D01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,90+,years,,ATACSeq
+262,H21.33.009,M2AT_211116_216_C01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,65,years,,ATACSeq
+263,H21.33.010,M2AT_211116_216_A01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,90+,years,,ATACSeq
+264,H21.33.011,M2AT_211109_211_H01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,83,years,,ATACSeq
+265,H21.33.012,M2AT_211109_211_G01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,90+,years,,ATACSeq
+266,H21.33.013,M2AT_211130_216_C01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,90+,years,,ATACSeq
+267,H21.33.014,M2AT_211130_216_B01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,90+,years,,ATACSeq
+268,H21.33.015,M2AT_211122_211_B01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,90+,years,,ATACSeq
+269,H21.33.016,M2AT_211122_211_A01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,90+,years,,ATACSeq
+270,H21.33.017,M2AT_211116_216_D01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,90+,years,,ATACSeq
+271,H21.33.018,M2AT_211214_216_A01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,89,years,,ATACSeq
+272,H21.33.019,M2AT_211001_217_A01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,75,years,,ATACSeq
+273,H21.33.019,M2AT_211130_206_H01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,75,years,,ATACSeq
+274,H21.33.020,M2AT_211130_206_E01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,82,years,,ATACSeq
+275,H21.33.021,M2AT_211130_216_D01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,90+,years,,ATACSeq
+276,H21.33.022,M2AT_211130_206_G01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,82,years,,ATACSeq
+277,H21.33.023,M2AT_211214_216_B01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,90+,years,,ATACSeq
+278,H21.33.025,M2AT_211214_216_C01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,88,years,,ATACSeq
+279,H21.33.026,M1AT_211214_211_E01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,90+,years,,ATACSeq
+280,H21.33.027,M1AT_211214_211_F01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,90+,years,,ATACSeq
+281,H21.33.028,M1AT_211214_211_G01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,72,years,,ATACSeq
+282,H21.33.029,M1AT_211214_211_H01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,89,years,,ATACSeq
+283,H21.33.030,M2AT_211221_206_A01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,89,years,,ATACSeq
+284,H21.33.031,M2AT_211221_206_B01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,84,years,,ATACSeq
+285,H21.33.032,M2AT_211221_206_C01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,90+,years,,ATACSeq
+286,H21.33.033,M2AT_211221_206_D01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,83,years,,ATACSeq
+287,H21.33.034,M2AT_220104_216_A01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,90+,years,,ATACSeq
+288,H21.33.035,M2AT_220104_216_B01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,90+,years,,ATACSeq
+289,H21.33.036,M2AT_220104_216_C01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,90+,years,,ATACSeq
+290,H21.33.037,M2AT_220104_216_D01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,88,years,,ATACSeq
+291,H21.33.038,M2AT_220111_211_A01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,84,years,,ATACSeq
+292,H21.33.039,M2AT_220111_211_B01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,88,years,,ATACSeq
+293,H21.33.040,M2AT_220111_211_C01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,83,years,,ATACSeq
+294,H21.33.041,M2AT_220111_211_D01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,90+,years,,ATACSeq
+295,H21.33.042,M2AT_220111_211_E01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,90+,years,,ATACSeq
+296,H21.33.043,M2AT_220121_206_A01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,90+,years,,ATACSeq
+297,H21.33.044,M2AT_211214_216_D01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,88,years,,ATACSeq
+298,H21.33.045,M2AT_220121_206_B01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,90+,years,,ATACSeq
+299,H21.33.046,M2AT_220121_206_C01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,90+,years,,ATACSeq
+300,H18.30.002,M2AT_220121_206_D01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,50,years,,ATACSeq
+301,H20.33.012,M2XM_210708_201-R_A01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,90+,years,,"scrnaSeq,ATACSeq"
+302,H20.33.011,M2XM_210708_201-R_B01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,90+,years,,"scrnaSeq,ATACSeq"
+303,H20.33.014,M2XM_210708_201-R_C01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,82,years,,"scrnaSeq,ATACSeq"
+304,H20.33.018,M2XM_210716_201-R_A01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,81,years,,"scrnaSeq,ATACSeq"
+305,H20.33.015,M2XM_210716_201-R_B01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,88,years,,"scrnaSeq,ATACSeq"
+306,H20.33.013,M2XM_210716_201-R_C01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,90+,years,,"scrnaSeq,ATACSeq"
+307,H20.33.016,M2XM_210723_201-R_A01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,90+,years,,"scrnaSeq,ATACSeq"
+308,H20.33.020,M2XM_210723_201-R_B01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,81,years,,"scrnaSeq,ATACSeq"
+309,H20.33.019,M2XM_210723_201-R_C01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,87,years,,"scrnaSeq,ATACSeq"
+310,H20.33.017,M2XM_210723_201-R_D01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,69,years,,"scrnaSeq,ATACSeq"
+311,H20.33.025,M2XM_210730_201-R_A01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,90+,years,,"scrnaSeq,ATACSeq"
+312,H20.33.008,M2XM_210730_201-R_B01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,90+,years,,"scrnaSeq,ATACSeq"
+313,H20.33.027,M2XM_210806_201-R_A01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,90+,years,,"scrnaSeq,ATACSeq"
+314,H20.33.001,M2XM_210806_201-R_B01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,82,years,,"scrnaSeq,ATACSeq"
+315,H20.33.002,M2XM_210809_201-R_A01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,90+,years,,"scrnaSeq,ATACSeq"
+316,H20.33.039,M2XM_210809_201-R_B01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,90+,years,,"scrnaSeq,ATACSeq"
+317,H20.33.040,M2XM_210820_206-R_A01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,90+,years,,"scrnaSeq,ATACSeq"
+318,H20.33.004,M2XM_210827_202-R_A01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,86,years,,"scrnaSeq,ATACSeq"
+319,H20.33.038,M2XM_210827_202-R_B01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,90+,years,,"scrnaSeq,ATACSeq"
+320,H21.33.003,M2XM_210913_206-R_A01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,78,years,,"scrnaSeq,ATACSeq"
+321,H20.33.044,M2XM_210924_211-R_A01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,81,years,,"scrnaSeq,ATACSeq"
+322,H21.33.001,M2XM_210924_211-R_B01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,80,years,,"scrnaSeq,ATACSeq"
+323,H21.33.019,M2XM_211001_216-R_A01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,75,years,,"scrnaSeq,ATACSeq"
+324,H20.33.005,M2XM_211001_216-R_B01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,90+,years,,"scrnaSeq,ATACSeq"
+325,H21.33.006,M2XM_211008_217-R_A01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,90+,years,,"scrnaSeq,ATACSeq"
+326,H21.33.008,M2XM_211008_217-R_B01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,90+,years,,"scrnaSeq,ATACSeq"
+327,H20.33.028,M2XM_211015_217-R_A01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,90+,years,,"scrnaSeq,ATACSeq"
+328,H20.33.043,M2XM_211015_217-R_B01,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,single nucleus,,False,True,85,years,,"scrnaSeq,ATACSeq"
+329,H200.1023,M1TX_191025_105_B01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,43,years,,scrnaSeq
+330,H18.30.002,M1TX_191118_104_F01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,50,years,,scrnaSeq
+331,H18.30.002,M1TX_191118_104_G01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,50,years,,scrnaSeq
+332,H18.30.002,M1TX_191118_104_H01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,50,years,,scrnaSeq
+333,H18.30.002,M1TX_191118_105_A01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,50,years,,scrnaSeq
+334,H18.30.002,M1TX_191204_103_F01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,50,years,,scrnaSeq
+335,H18.30.001,M1TX_191216_105_C01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,60,years,,scrnaSeq
+336,H19.30.001,M1TX_200113_101_A01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,42,years,,scrnaSeq
+337,H19.30.001,M1TX_200113_102_F01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,42,years,,scrnaSeq
+338,H19.30.001,M1TX_200113_103_A01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,42,years,,scrnaSeq
+339,H19.30.001,M1TX_200113_103_B01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,42,years,,scrnaSeq
+340,H19.30.002,M1TX_200113_105_G01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,29,years,,scrnaSeq
+341,H19.30.002,M1TX_200113_105_H01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,29,years,,scrnaSeq
+342,H19.30.002,M1TX_200113_106_E01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,29,years,,scrnaSeq
+343,H19.30.002,M1TX_200113_106_F01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,29,years,,scrnaSeq
+344,H19.33.004,H19.33.004,Individual ID,brain,dorsolateral prefrontal cortex,9.0,frozen,,,bulk cell,,False,True,80,years,,snpArray
+345,H20.33.001,H20.33.001,Individual ID,brain,dorsolateral prefrontal cortex,9.0,frozen,,,bulk cell,,False,True,82,years,,snpArray
+346,H20.33.002,H20.33.002,Individual ID,brain,dorsolateral prefrontal cortex,9.0,frozen,,,bulk cell,,False,True,90+,years,,snpArray
+347,H20.33.004,H20.33.004,Individual ID,brain,dorsolateral prefrontal cortex,9.0,frozen,,,bulk cell,,False,True,86,years,,snpArray
+348,H20.33.005,H20.33.005,Individual ID,brain,dorsolateral prefrontal cortex,9.0,frozen,,,bulk cell,,False,True,90+,years,,snpArray
+349,H20.33.008,H20.33.008,Individual ID,brain,dorsolateral prefrontal cortex,9.0,frozen,,,bulk cell,,False,True,90+,years,,snpArray
+350,H20.33.011,H20.33.011,Individual ID,brain,dorsolateral prefrontal cortex,9.0,frozen,,,bulk cell,,False,True,90+,years,,snpArray
+351,H20.33.012,H20.33.012,Individual ID,brain,dorsolateral prefrontal cortex,9.0,frozen,,,bulk cell,,False,True,90+,years,,snpArray
+352,H20.33.013,H20.33.013,Individual ID,brain,dorsolateral prefrontal cortex,9.0,frozen,,,bulk cell,,False,True,90+,years,,snpArray
+353,H20.33.014,H20.33.014,Individual ID,brain,dorsolateral prefrontal cortex,9.0,frozen,,,bulk cell,,False,True,82,years,,snpArray
+354,H20.33.015,H20.33.015,Individual ID,brain,dorsolateral prefrontal cortex,9.0,frozen,,,bulk cell,,False,True,88,years,,snpArray
+355,H20.33.016,H20.33.016,Individual ID,brain,dorsolateral prefrontal cortex,9.0,frozen,,,bulk cell,,False,True,90+,years,,snpArray
+356,H20.33.017,H20.33.017,Individual ID,brain,dorsolateral prefrontal cortex,9.0,frozen,,,bulk cell,,False,True,69,years,,snpArray
+357,H20.33.018,H20.33.018,Individual ID,brain,dorsolateral prefrontal cortex,9.0,frozen,,,bulk cell,,False,True,81,years,,snpArray
+358,H20.33.019,H20.33.019,Individual ID,brain,dorsolateral prefrontal cortex,9.0,frozen,,,bulk cell,,False,True,87,years,,snpArray
+359,H20.33.020,H20.33.020,Individual ID,brain,dorsolateral prefrontal cortex,9.0,frozen,,,bulk cell,,False,True,81,years,,snpArray
+360,H20.33.024,H20.33.024,Individual ID,brain,dorsolateral prefrontal cortex,9.0,frozen,,,bulk cell,,False,True,90+,years,,snpArray
+361,H20.33.025,H20.33.025,Individual ID,brain,dorsolateral prefrontal cortex,9.0,frozen,,,bulk cell,,False,True,90+,years,,snpArray
+362,H20.33.026,H20.33.026,Individual ID,brain,dorsolateral prefrontal cortex,9.0,frozen,,,bulk cell,,False,True,75,years,,snpArray
+363,H20.33.027,H20.33.027,Individual ID,brain,dorsolateral prefrontal cortex,9.0,frozen,,,bulk cell,,False,True,90+,years,,snpArray
+364,H20.33.028,H20.33.028,Individual ID,brain,dorsolateral prefrontal cortex,9.0,frozen,,,bulk cell,,False,True,90+,years,,snpArray
+365,H20.33.029,H20.33.029,Individual ID,brain,dorsolateral prefrontal cortex,9.0,frozen,,,bulk cell,,False,True,90+,years,,snpArray
+366,H20.33.030,H20.33.030,Individual ID,brain,dorsolateral prefrontal cortex,9.0,frozen,,,bulk cell,,False,True,86,years,,snpArray
+367,H20.33.031,H20.33.031,Individual ID,brain,dorsolateral prefrontal cortex,9.0,frozen,,,bulk cell,,False,True,87,years,,snpArray
+368,H20.33.032,H20.33.032,Individual ID,brain,dorsolateral prefrontal cortex,9.0,frozen,,,bulk cell,,False,True,90+,years,,snpArray
+369,H20.33.033,H20.33.033,Individual ID,brain,dorsolateral prefrontal cortex,9.0,frozen,,,bulk cell,,False,True,68,years,,snpArray
+370,H20.33.034,H20.33.034,Individual ID,brain,dorsolateral prefrontal cortex,9.0,frozen,,,bulk cell,,False,True,85,years,,snpArray
+371,H20.33.035,H20.33.035,Individual ID,brain,dorsolateral prefrontal cortex,9.0,frozen,,,bulk cell,,False,True,90+,years,,snpArray
+372,H20.33.036,H20.33.036,Individual ID,brain,dorsolateral prefrontal cortex,9.0,frozen,,,bulk cell,,False,True,90+,years,,snpArray
+373,H20.33.037,H20.33.037,Individual ID,brain,dorsolateral prefrontal cortex,9.0,frozen,,,bulk cell,,False,True,90+,years,,snpArray
+374,H20.33.038,H20.33.038,Individual ID,brain,dorsolateral prefrontal cortex,9.0,frozen,,,bulk cell,,False,True,90+,years,,snpArray
+375,H20.33.039,H20.33.039,Individual ID,brain,dorsolateral prefrontal cortex,9.0,frozen,,,bulk cell,,False,True,90+,years,,snpArray
+376,H20.33.040,H20.33.040,Individual ID,brain,dorsolateral prefrontal cortex,9.0,frozen,,,bulk cell,,False,True,90+,years,,snpArray
+377,H20.33.041,H20.33.041,Individual ID,brain,dorsolateral prefrontal cortex,9.0,frozen,,,bulk cell,,False,True,90+,years,,snpArray
+378,H20.33.043,H20.33.043,Individual ID,brain,dorsolateral prefrontal cortex,9.0,frozen,,,bulk cell,,False,True,85,years,,snpArray
+379,H20.33.044,H20.33.044,Individual ID,brain,dorsolateral prefrontal cortex,9.0,frozen,,,bulk cell,,False,True,81,years,,snpArray
+380,H20.33.045,H20.33.045,Individual ID,brain,dorsolateral prefrontal cortex,9.0,frozen,,,bulk cell,,False,True,77,years,,snpArray
+381,H20.33.046,H20.33.046,Individual ID,brain,dorsolateral prefrontal cortex,9.0,frozen,,,bulk cell,,False,True,90+,years,,snpArray
+382,H21.33.001,H21.33.001,Individual ID,brain,dorsolateral prefrontal cortex,9.0,frozen,,,bulk cell,,False,True,80,years,,snpArray
+383,H21.33.002,H21.33.002,Individual ID,brain,dorsolateral prefrontal cortex,9.0,frozen,,,bulk cell,,False,True,70,years,,snpArray
+384,H21.33.003,H21.33.003,Individual ID,brain,dorsolateral prefrontal cortex,9.0,frozen,,,bulk cell,,False,True,78,years,,snpArray
+385,H21.33.004,H21.33.004,Individual ID,brain,dorsolateral prefrontal cortex,9.0,frozen,,,bulk cell,,False,True,90+,years,,snpArray
+386,H21.33.005,H21.33.005,Individual ID,brain,dorsolateral prefrontal cortex,9.0,frozen,,,bulk cell,,False,True,90+,years,,snpArray
+387,H21.33.006,H21.33.006,Individual ID,brain,dorsolateral prefrontal cortex,9.0,frozen,,,bulk cell,,False,True,90+,years,,snpArray
+388,H21.33.007,H21.33.007,Individual ID,brain,dorsolateral prefrontal cortex,9.0,frozen,,,bulk cell,,False,True,86,years,,snpArray
+389,H21.33.008,H21.33.008,Individual ID,brain,dorsolateral prefrontal cortex,9.0,frozen,,,bulk cell,,False,True,90+,years,,snpArray
+390,H21.33.009,H21.33.009,Individual ID,brain,dorsolateral prefrontal cortex,9.0,frozen,,,bulk cell,,False,True,65,years,,snpArray
+391,H21.33.010,H21.33.010,Individual ID,brain,dorsolateral prefrontal cortex,9.0,frozen,,,bulk cell,,False,True,90+,years,,snpArray
+392,H21.33.011,H21.33.011,Individual ID,brain,dorsolateral prefrontal cortex,9.0,frozen,,,bulk cell,,False,True,83,years,,snpArray
+393,H21.33.012,H21.33.012,Individual ID,brain,dorsolateral prefrontal cortex,9.0,frozen,,,bulk cell,,False,True,90+,years,,snpArray
+394,H21.33.013,H21.33.013,Individual ID,brain,dorsolateral prefrontal cortex,9.0,frozen,,,bulk cell,,False,True,90+,years,,snpArray
+395,H21.33.014,H21.33.014,Individual ID,brain,dorsolateral prefrontal cortex,9.0,frozen,,,bulk cell,,False,True,90+,years,,snpArray
+396,H21.33.015,H21.33.015,Individual ID,brain,dorsolateral prefrontal cortex,9.0,frozen,,,bulk cell,,False,True,90+,years,,snpArray
+397,H21.33.016,H21.33.016,Individual ID,brain,dorsolateral prefrontal cortex,9.0,frozen,,,bulk cell,,False,True,90+,years,,snpArray
+398,H21.33.017,H21.33.017,Individual ID,brain,dorsolateral prefrontal cortex,9.0,frozen,,,bulk cell,,False,True,90+,years,,snpArray
+399,H21.33.018,H21.33.018,Individual ID,brain,dorsolateral prefrontal cortex,9.0,frozen,,,bulk cell,,False,True,89,years,,snpArray
+400,H21.33.019,H21.33.019,Individual ID,brain,dorsolateral prefrontal cortex,9.0,frozen,,,bulk cell,,False,True,75,years,,snpArray
+401,H21.33.020,H21.33.020,Individual ID,brain,dorsolateral prefrontal cortex,9.0,frozen,,,bulk cell,,False,True,82,years,,snpArray
+402,H21.33.021,H21.33.021,Individual ID,brain,dorsolateral prefrontal cortex,9.0,frozen,,,bulk cell,,False,True,90+,years,,snpArray
+403,H21.33.022,H21.33.022,Individual ID,brain,dorsolateral prefrontal cortex,9.0,frozen,,,bulk cell,,False,True,82,years,,snpArray
+404,H21.33.023,H21.33.023,Individual ID,brain,dorsolateral prefrontal cortex,9.0,frozen,,,bulk cell,,False,True,90+,years,,snpArray
+405,H21.33.025,H21.33.025,Individual ID,brain,dorsolateral prefrontal cortex,9.0,frozen,,,bulk cell,,False,True,88,years,,snpArray
+406,H21.33.026,H21.33.026,Individual ID,brain,dorsolateral prefrontal cortex,9.0,frozen,,,bulk cell,,False,True,90+,years,,snpArray
+407,H21.33.027,H21.33.027,Individual ID,brain,dorsolateral prefrontal cortex,9.0,frozen,,,bulk cell,,False,True,90+,years,,snpArray
+408,H21.33.028,H21.33.028,Individual ID,brain,dorsolateral prefrontal cortex,9.0,frozen,,,bulk cell,,False,True,72,years,,snpArray
+409,H21.33.029,H21.33.029,Individual ID,brain,dorsolateral prefrontal cortex,9.0,frozen,,,bulk cell,,False,True,89,years,,snpArray
+410,H21.33.030,H21.33.030,Individual ID,brain,dorsolateral prefrontal cortex,9.0,frozen,,,bulk cell,,False,True,89,years,,snpArray
+411,H21.33.031,H21.33.031,Individual ID,brain,dorsolateral prefrontal cortex,9.0,frozen,,,bulk cell,,False,True,84,years,,snpArray
+412,H21.33.032,H21.33.032,Individual ID,brain,dorsolateral prefrontal cortex,9.0,frozen,,,bulk cell,,False,True,90+,years,,snpArray
+413,H21.33.033,H21.33.033,Individual ID,brain,dorsolateral prefrontal cortex,9.0,frozen,,,bulk cell,,False,True,83,years,,snpArray
+414,H21.33.034,H21.33.034,Individual ID,brain,dorsolateral prefrontal cortex,9.0,frozen,,,bulk cell,,False,True,90+,years,,snpArray
+415,H21.33.035,H21.33.035,Individual ID,brain,dorsolateral prefrontal cortex,9.0,frozen,,,bulk cell,,False,True,90+,years,,snpArray
+416,H21.33.036,H21.33.036,Individual ID,brain,dorsolateral prefrontal cortex,9.0,frozen,,,bulk cell,,False,True,90+,years,,snpArray
+417,H21.33.037,H21.33.037,Individual ID,brain,dorsolateral prefrontal cortex,9.0,frozen,,,bulk cell,,False,True,88,years,,snpArray
+418,H21.33.038,H21.33.038,Individual ID,brain,dorsolateral prefrontal cortex,9.0,frozen,,,bulk cell,,False,True,84,years,,snpArray
+419,H21.33.039,H21.33.039,Individual ID,brain,dorsolateral prefrontal cortex,9.0,frozen,,,bulk cell,,False,True,88,years,,snpArray
+420,H21.33.040,H21.33.040,Individual ID,brain,dorsolateral prefrontal cortex,9.0,frozen,,,bulk cell,,False,True,83,years,,snpArray
+421,H21.33.041,H21.33.041,Individual ID,brain,dorsolateral prefrontal cortex,9.0,frozen,,,bulk cell,,False,True,90+,years,,snpArray
+422,H21.33.042,H21.33.042,Individual ID,brain,dorsolateral prefrontal cortex,9.0,frozen,,,bulk cell,,False,True,90+,years,,snpArray
+423,H21.33.043,H21.33.043,Individual ID,brain,dorsolateral prefrontal cortex,9.0,frozen,,,bulk cell,,False,True,90+,years,,snpArray
+424,H21.33.044,H21.33.044,Individual ID,brain,dorsolateral prefrontal cortex,9.0,frozen,,,bulk cell,,False,True,88,years,,snpArray
+425,H21.33.045,H21.33.045,Individual ID,brain,dorsolateral prefrontal cortex,9.0,frozen,,,bulk cell,,False,True,90+,years,,snpArray
+426,H21.33.046,H21.33.046,Individual ID,brain,dorsolateral prefrontal cortex,9.0,frozen,,,bulk cell,,False,True,90+,years,,snpArray
+427,H21.33.047,H21.33.047,Individual ID,brain,dorsolateral prefrontal cortex,9.0,frozen,,,bulk cell,,False,True,90+,years,,snpArray
+428,H18.30.001,H18.30.001,Individual ID,brain,dorsolateral prefrontal cortex,9.0,frozen,,,bulk cell,,False,True,60,years,,snpArray
+429,H18.30.002,H18.30.002,Individual ID,brain,dorsolateral prefrontal cortex,9.0,frozen,,,bulk cell,,False,True,50,years,,snpArray
+430,H19.30.001,H19.30.001,Individual ID,brain,dorsolateral prefrontal cortex,9.0,frozen,,,bulk cell,,False,True,42,years,,snpArray
+431,H19.30.002,H19.30.002,Individual ID,brain,dorsolateral prefrontal cortex,9.0,frozen,,,bulk cell,,False,True,29,years,,snpArray
+432,H200.1023,H200.1023,Individual ID,brain,dorsolateral prefrontal cortex,9.0,frozen,,,bulk cell,,False,True,43,years,,snpArray
+433,H200.1030,H200.1030,Individual ID,brain,dorsolateral prefrontal cortex,9.0,frozen,,,bulk cell,,False,True,54,years,,snpArray
+434,H200.1025,H200.1025,Individual ID,brain,dorsolateral prefrontal cortex,9.0,frozen,,,bulk cell,,False,True,50,years,,snpArray
+435,H20.30.001,H20.30.001,Individual ID,brain,dorsolateral prefrontal cortex,9.0,frozen,,,bulk cell,,False,True,25,years,,snpArray
+436,H20.30.002,H20.30.002,Individual ID,brain,dorsolateral prefrontal cortex,9.0,frozen,,,bulk cell,,False,True,38,years,,snpArray
+437,H19.30.004,H19.30.004,Individual ID,brain,dorsolateral prefrontal cortex,9.0,frozen,,,bulk cell,,False,True,58,years,,snpArray
+438,H22.30.001,H22.30.001,Individual ID,brain,dorsolateral prefrontal cortex,9.0,frozen,,,bulk cell,,False,True,50,years,,snpArray
+439,H20.33.039,M1TX_210908_151_A01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+440,H20.33.039,M1TX_210908_151_B01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+441,H20.33.044,M1TX_210614_104_E01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,81,years,,scrnaSeq
+442,H20.33.044,M1TX_210614_104_F01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,81,years,,scrnaSeq
+443,H20.33.018,M2TX_210517_201_E01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,81,years,,scrnaSeq
+444,H20.33.018,M2TX_210517_201_F01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,81,years,,scrnaSeq
+445,H20.33.020,M1TX_210727_107_G01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,81,years,,scrnaSeq
+446,H20.33.020,M1TX_210727_107_H01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,81,years,,scrnaSeq
+447,H20.33.033,M1TX_210723_153_A01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,68,years,,scrnaSeq
+448,H20.33.033,M1TX_210723_153_B01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,68,years,,scrnaSeq
+449,H20.33.035,M1TX_210726_161_F01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+450,H20.33.035,M1TX_210726_159_E01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+451,H21.33.045,M1TX_211012_153_C01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+452,H21.33.045,M1TX_211012_153_D01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+453,H21.33.006,M1TX_210614_103_C01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+454,H21.33.006,M1TX_210614_103_D01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+455,H21.33.021,M2TX_210811_201_A01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+456,H21.33.021,M2TX_210811_201_B01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+457,H21.33.012,M1TX_210914_159_E01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+458,H21.33.012,M1TX_210914_159_F01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+459,H21.33.027,M1TX_210909_159_C01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+460,H21.33.027,M1TX_210909_159_D01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+461,H21.33.011,M2TX_210916_255_A01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,83,years,,scrnaSeq
+462,H21.33.011,M2TX_210916_255_B01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,83,years,,scrnaSeq
+463,H21.33.020,M1TX_210726_151_C01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,82,years,,scrnaSeq
+464,H21.33.020,M1TX_210726_153_D01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,82,years,,scrnaSeq
+465,H20.33.005,M1TX_210607_101_E01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+466,H20.33.005,M1TX_210607_101_F01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+467,H21.33.008,M2TX_210517_205_G01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+468,H21.33.008,M2TX_210517_205_H01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+469,H20.33.034,M2TX_210916_251_G01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,85,years,,scrnaSeq
+470,H20.33.034,M2TX_210916_251_H01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,85,years,,scrnaSeq
+471,H20.33.045,M2TX_210511_203_F01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,77,years,,scrnaSeq
+472,H20.33.045,M2TX_210511_203_G01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,77,years,,scrnaSeq
+473,H20.33.045,M2TX_210511_201_F01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,77,years,,scrnaSeq
+474,H21.33.022,M2TX_210811_203_C01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,82,years,,scrnaSeq
+475,H21.33.022,M2TX_210811_203_D01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,82,years,,scrnaSeq
+476,H21.33.019,M2TX_210811_207_G01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,75,years,,scrnaSeq
+477,H21.33.019,M2TX_210811_207_H01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,75,years,,scrnaSeq
+478,H20.33.041,M2TX_210524_204_G01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+479,H20.33.041,M2TX_210524_204_H01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+480,H21.33.033,M2TX_210916_259_C01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,83,years,,scrnaSeq
+481,H21.33.033,M2TX_210916_259_D01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,83,years,,scrnaSeq
+482,H20.33.015,M2TX_210518_201_E01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,88,years,,scrnaSeq
+483,H20.33.015,M2TX_210518_201_F01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,88,years,,scrnaSeq
+484,H20.33.046,M2TX_210512_207_F01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+485,H20.33.046,M2TX_210512_207_E01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+486,H21.33.025,M2TX_210901_434_C01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,88,years,,scrnaSeq
+487,H21.33.025,M2TX_210901_434_D01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,88,years,,scrnaSeq
+488,H21.33.014,M1TX_210923_153_A01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+489,H21.33.014,M1TX_210923_151_G01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+490,H21.33.023,M1TX_210923_155_C01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+491,H21.33.023,M1TX_210923_155_D01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+492,H20.33.024,M2TX_210517_207_G01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+493,H20.33.024,M2TX_210517_207_H01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+494,H21.33.016,M1TX_210909_155_A01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+495,H21.33.016,M1TX_210909_155_B01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+496,H20.33.008,M2TX_210525_206_E01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+497,H20.33.008,M2TX_210525_206_F01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+498,H21.33.037,M1TX_210831_155_F01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,88,years,,scrnaSeq
+499,H21.33.037,M1TX_210831_157_G01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,88,years,,scrnaSeq
+500,H21.33.013,M1TX_210811_163_E01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+501,H21.33.013,M1TX_210811_163_F01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+502,H21.33.035,M1TX_210921_157_G01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+503,H21.33.035,M1TX_210921_157_H01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+504,H21.33.046,M2TX_211115_253_C01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+505,H21.33.046,M2TX_211115_253_D01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+506,H21.33.044,M2TX_210907_436_E01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,88,years,,scrnaSeq
+507,H21.33.044,M2TX_210907_436_F01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,88,years,,scrnaSeq
+508,H21.33.038,M1TX_210825_155_A01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,84,years,,scrnaSeq
+509,H21.33.038,M1TX_210825_155_B01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,84,years,,scrnaSeq
+510,H21.33.043,M2TX_210907_434_C01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+511,H21.33.043,M2TX_210907_434_D01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+512,H21.33.034,M2TX_210824_437_E01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+513,H21.33.034,M2TX_210824_437_F01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+514,H21.33.005,M2TX_210525_204_C01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+515,H21.33.005,M2TX_210525_204_D01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+516,H20.33.036,M1TX_210825_151_G01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+517,H20.33.036,M1TX_210825_151_H01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+518,H20.33.014,M2TX_210520_205_E01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,82,years,,scrnaSeq
+519,H20.33.014,M2TX_210520_205_F01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,82,years,,scrnaSeq
+520,H20.33.002,M2TX_210511_204_G01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+521,H20.33.002,M2TX_210511_204_H01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+522,H21.33.001,M2TX_210622_203_C01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,80,years,,scrnaSeq
+523,H21.33.001,M2TX_210622_203_D01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,80,years,,scrnaSeq
+524,H20.33.026,M1TX_210614_107_G01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,75,years,,scrnaSeq
+525,H20.33.026,M1TX_210614_107_H01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,75,years,,scrnaSeq
+526,H21.33.017,M1TX_210908_155_C01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+527,H21.33.017,M1TX_210908_155_D01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+528,H20.33.004,M2TX_210525_201_A01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,86,years,,scrnaSeq
+529,H20.33.004,M2TX_210525_201_B01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,86,years,,scrnaSeq
+530,H20.33.029,M1TX_210607_107_A01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+531,H20.33.029,M1TX_210607_107_B01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+532,H21.33.030,M2TX_210824_433_C01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,89,years,,scrnaSeq
+533,H21.33.030,M2TX_210824_433_D01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,89,years,,scrnaSeq
+534,H20.33.032,M1TX_210811_159_A01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+535,H20.33.032,M1TX_210811_159_B01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+536,H20.33.013,M2TX_210524_201_G01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+537,H20.33.013,M2TX_210524_201_H01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+538,H21.33.042,M1TX_210727_103_A01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+539,H21.33.042,M1TX_210727_103_B01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+540,H20.33.001,M2TX_210512_204_C01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,82,years,,scrnaSeq
+541,H20.33.001,M2TX_210512_204_D01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,82,years,,scrnaSeq
+542,H20.33.037,M1TX_210818_157_B01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+543,H20.33.037,M1TX_210818_159_A01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+544,H20.33.037,M1TX_210818_159_B01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+545,H21.33.007,M2TX_210622_201_A01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,86,years,,scrnaSeq
+546,H21.33.007,M2TX_210622_201_B01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,86,years,,scrnaSeq
+547,H21.33.028,M1TX_210921_151_C01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,72,years,,scrnaSeq
+548,H21.33.028,M1TX_210921_151_D01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,72,years,,scrnaSeq
+549,H21.33.003,M1TX_210818_161_A01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,78,years,,scrnaSeq
+550,H21.33.003,M1TX_220207_155_G01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,78,years,,scrnaSeq
+551,H21.33.003,M1TX_220207_155_H01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,78,years,,scrnaSeq
+552,H20.33.027,M2TX_210624_203_A01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+553,H20.33.027,M2TX_210624_203_B01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+554,H21.33.002,M1TX_210802_151_E01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,70,years,,scrnaSeq
+555,H21.33.002,M1TX_220113_153_A01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,70,years,,scrnaSeq
+556,H21.33.002,M1TX_220113_153_B01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,70,years,,scrnaSeq
+557,H21.33.031,M2TX_210901_431_A01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,84,years,,scrnaSeq
+558,H21.33.031,M2TX_210901_431_B01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,84,years,,scrnaSeq
+559,H20.33.031,M1TX_210726_155_C01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,87,years,,scrnaSeq
+560,H20.33.031,M1TX_210726_155_D01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,87,years,,scrnaSeq
+561,H20.33.011,M2TX_210622_204_E01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+562,H20.33.011,M2TX_210622_204_F01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+563,H21.33.029,M1TX_210921_153_E01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,89,years,,scrnaSeq
+564,H21.33.029,M1TX_210921_153_F01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,89,years,,scrnaSeq
+565,H20.33.019,M2TX_210512_202_A01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,87,years,,scrnaSeq
+566,H20.33.019,M2TX_210512_202_B01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,87,years,,scrnaSeq
+567,H19.33.004,M1TX_210607_104_G01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,80,years,,scrnaSeq
+568,H19.33.004,M1TX_210607_104_H01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,80,years,,scrnaSeq
+569,H21.33.032,M2TX_210901_438_E01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+570,H21.33.032,M2TX_210901_438_F01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+571,H21.33.032,M2TX_210901_437_A01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+572,H21.33.032,M2TX_210901_437_B01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+573,H20.33.025,M2TX_210524_208_A01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+574,H20.33.025,M2TX_210524_208_B01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+575,H21.33.047,M1TX_211012_151_A01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+576,H21.33.047,M1TX_211012_151_B01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+577,H21.33.036,M1TX_210831_151_C01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+578,H21.33.036,M1TX_210831_151_D01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+579,H20.33.016,M1TX_210723_159_G01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+580,H20.33.016,M1TX_210723_159_H01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+581,H20.33.030,M1TX_210909_153_G01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,86,years,,scrnaSeq
+582,H20.33.030,M1TX_210909_153_H01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,86,years,,scrnaSeq
+583,H20.33.012,M2TX_210520_203_C01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+584,H20.33.012,M2TX_210520_203_D01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+585,H20.33.017,M2TX_210518_203_G01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,69,years,,scrnaSeq
+586,H20.33.017,M1TX_220207_151_C01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,69,years,,scrnaSeq
+587,H20.33.017,M1TX_220207_151_D01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,69,years,,scrnaSeq
+588,H21.33.026,M2TX_210824_431_A01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+589,H21.33.026,M2TX_210824_431_B01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+590,H21.33.026,M2TX_210824_430_H01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+591,H21.33.040,M2TX_210907_432_A01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,83,years,,scrnaSeq
+592,H21.33.040,M2TX_210907_432_B01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,83,years,,scrnaSeq
+593,H20.33.038,M1TX_211012_157_D01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+594,H20.33.038,M1TX_211012_157_E01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+595,H20.33.040,M1TX_210802_157_G01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+596,H20.33.040,M1TX_210802_157_H01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+597,H20.33.028,M2TX_210518_204_H01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+598,H20.33.028,M1TX_220207_153_E01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+599,H20.33.028,M1TX_220207_153_F01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+600,H21.33.004,M1TX_210818_163_E01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+601,H21.33.004,M1TX_210818_163_F01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+602,H21.33.041,M1TX_210723_155_A01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+603,H21.33.041,M1TX_210723_157_B01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+604,H21.33.018,M1TX_210727_104_C01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,89,years,,scrnaSeq
+605,H21.33.018,M1TX_210727_104_D01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,89,years,,scrnaSeq
+606,H21.33.015,M1TX_210908_161_E01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+607,H21.33.015,M1TX_210908_161_F01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+608,H20.33.011,M2AT_220207_216_A01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,90+,years,,ATACSeq
+609,H21.33.001,M2AT_220207_216_B01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,80,years,,ATACSeq
+610,H20.33.012,M2AT_220207_216_C01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,90+,years,,ATACSeq
+611,H19.33.004,M2AT_220321_211_B01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,80,years,,ATACSeq
+612,H21.33.038,M2AT_220328_221_C01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,84,years,,ATACSeq
+613,H21.33.019,M2AT_220321_211_C01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,75,years,,ATACSeq
+614,H21.33.018,M2AT_220321_211_D01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,89,years,,ATACSeq
+615,H20.33.028,M2AT_220322_206_A01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,90+,years,,ATACSeq
+616,H20.33.029,M2AT_220322_206_B01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,90+,years,,ATACSeq
+617,H21.33.026,M2AT_220322_206_C01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,90+,years,,ATACSeq
+618,H21.33.027,M2AT_220322_206_D01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,90+,years,,ATACSeq
+619,H21.33.035,M2AT_220328_221_A01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,90+,years,,ATACSeq
+620,H21.33.036,M2AT_220328_221_B01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,90+,years,,ATACSeq
+621,H20.33.025,M2AT_220215_216_A01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,90+,years,,ATACSeq
+622,H20.33.017,M2AT_220215_216_B01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,69,years,,ATACSeq
+623,H20.33.013,M2AT_220215_216_C01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,90+,years,,ATACSeq
+624,H20.33.015,M2AT_220214_207_A01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,88,years,,ATACSeq
+625,H20.33.018,M2AT_220214_207_B01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,81,years,,ATACSeq
+626,H20.33.005,M2AT_220221_211_B01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,90+,years,,ATACSeq
+627,H20.33.026,M2AT_220221_211_C01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,75,years,,ATACSeq
+628,H20.33.027,M2AT_220222_207_A01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,90+,years,,ATACSeq
+629,H20.33.019,M2AT_220222_207_B01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,87,years,,ATACSeq
+630,H20.33.008,M2AT_220221_211_A01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,90+,years,,ATACSeq
+631,H20.33.001,M2AT_220222_207_C01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,82,years,,ATACSeq
+632,H20.33.033,M2AT_220228_216_B01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,68,years,,ATACSeq
+633,H20.33.031,M2AT_220228_216_A01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,87,years,,ATACSeq
+634,H21.33.019,M2AT_220307_207_C01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,75,years,,ATACSeq
+635,H20.33.040,M2AT_220307_207_A01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,90+,years,,ATACSeq
+636,H21.33.004,M2AT_220307_207_B01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,90+,years,,ATACSeq
+637,H20.33.035,M2AT_220302_221_A01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,90+,years,,ATACSeq
+638,H20.33.016,M2AT_220302_221_B01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,90+,years,,ATACSeq
+639,H20.33.039,M2AT_220302_221_C01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,90+,years,,ATACSeq
+640,H21.33.002,M2AT_220315_216_A01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,70,years,,ATACSeq
+641,H20.33.037,M2AT_220315_216_C01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,90+,years,,ATACSeq
+642,H20.33.036,M2AT_220315_216_B01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,90+,years,,ATACSeq
+643,H20.33.046,M2AT_220321_211_A01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,90+,years,,ATACSeq
+644,H21.33.013,M2AT_220315_216_D01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,90+,years,,ATACSeq
+645,H21.33.003,M2AT_220328_221_D01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,78,years,,ATACSeq
+646,H21.33.032,M2AT_220404_206_B01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,90+,years,,ATACSeq
+647,H21.33.028,M2AT_220404_206_A01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,72,years,,ATACSeq
+648,H21.33.033,M2AT_220404_206_C01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,83,years,,ATACSeq
+649,H21.33.034,M2AT_220404_206_D01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,90+,years,,ATACSeq
+650,H21.33.022,M2AT_220826_211_A01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,82,years,,ATACSeq
+651,H20.33.020,M2AT_220826_211_B01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,81,years,,ATACSeq
+652,H20.33.039,1122_C03,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,90+,years,,"scrnaSeq,ATACSeq"
+653,H20.33.018,1085_B01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,81,years,,"scrnaSeq,ATACSeq"
+654,H20.33.035,1122_A03,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,90+,years,,"scrnaSeq,ATACSeq"
+655,H20.33.005,1101_B01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,90+,years,,"scrnaSeq,ATACSeq"
+656,H21.33.019,1135_C01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,75,years,,"scrnaSeq,ATACSeq"
+657,H20.33.015,1085_A01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,88,years,,"scrnaSeq,ATACSeq"
+658,H20.33.008,1101_A01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,90+,years,,"scrnaSeq,ATACSeq"
+659,H21.33.001,1070_B01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,80,years,,"scrnaSeq,ATACSeq"
+660,H20.33.026,1101_C01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,75,years,,"scrnaSeq,ATACSeq"
+661,H20.33.013,1087_C02,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,90+,years,,"scrnaSeq,ATACSeq"
+662,H20.33.001,1103_C02,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,82,years,,"scrnaSeq,ATACSeq"
+663,H21.33.003,1181_A01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,78,years,,"scrnaSeq,ATACSeq"
+664,H20.33.027,1103_A02,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,90+,years,,"scrnaSeq,ATACSeq"
+665,H20.33.011,1070_A01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,90+,years,,"scrnaSeq,ATACSeq"
+666,H20.33.019,1103_B02,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,87,years,,"scrnaSeq,ATACSeq"
+667,H20.33.025,1087_A02,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,90+,years,,"scrnaSeq,ATACSeq"
+668,H20.33.016,1122_B03,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,90+,years,,"scrnaSeq,ATACSeq"
+669,H20.33.012,1070_C01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,90+,years,,"scrnaSeq,ATACSeq"
+670,H20.33.017,1087_B02,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,69,years,,"scrnaSeq,ATACSeq"
+671,H20.33.040,1135_A01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,90+,years,,"scrnaSeq,ATACSeq"
+672,H21.33.004,1135_B01,FACS well ,brain,dorsolateral prefrontal cortex,9.0,frozen,,,single nucleus,,False,True,90+,years,,"scrnaSeq,ATACSeq"
+673,H20.33.014,SQ_BTR3002-02-1,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,bulk cell,,False,True,82,years,,rnaSeq
+674,H20.33.011,SQ_BTR3002-02-2,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,bulk cell,,False,True,90+,years,,rnaSeq
+675,H20.33.012,SQ_BTR3002-02-3,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,bulk cell,,False,True,90+,years,,rnaSeq
+676,H20.33.017,SQ_BTR3002-02-4,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,bulk cell,,False,True,69,years,,rnaSeq
+677,H20.33.013,SQ_BTR3002-02-5,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,bulk cell,,False,True,90+,years,,rnaSeq
+678,H20.33.015,SQ_BTR3002-02-6,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,bulk cell,,False,True,88,years,,rnaSeq
+679,H20.33.018,SQ_BTR3002-02-7,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,bulk cell,,False,True,81,years,,rnaSeq
+680,H20.33.019,SQ_BTR3002-02-8,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,bulk cell,,False,True,87,years,,rnaSeq
+681,H20.33.020,SQ_BTR3002-02-9,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,bulk cell,,False,True,81,years,,rnaSeq
+682,H20.33.016,SQ_BTR3002-02-10,FACS well ,brain,middle temporal gyrus,21.0,frozen,,,bulk cell,,False,True,90+,years,,rnaSeq
+683,H20.30.002,M2AT_220819_221_C01,FACS well,brain,primary visual cortex,17.0,frozen,,,single nucleus,,False,True,38,years,,ATACSeq
+684,H20.30.002,M2AT_220819_221_D01,FACS well,brain,primary visual cortex,17.0,frozen,,,single nucleus,,False,True,38,years,,ATACSeq
+685,H20.30.002,M2AT_220819_221_A01,FACS well,brain,primary visual cortex,17.0,frozen,,,single nucleus,,False,True,38,years,,ATACSeq
+686,H20.30.002,M2AT_220819_221_B01,FACS well,brain,primary visual cortex,17.0,frozen,,,single nucleus,,False,True,38,years,,ATACSeq
+687,H20.30.001,M1AT_230118_153_A01,FACS well,brain,primary visual cortex,17.0,frozen,,,single nucleus,,False,True,25,years,,ATACSeq
+688,H20.30.001,M1AT_230118_153_B01,FACS well,brain,primary visual cortex,17.0,frozen,,,single nucleus,,False,True,25,years,,ATACSeq
+689,H19.30.002,M1AT_230120_153_A01,FACS well,brain,primary visual cortex,17.0,frozen,,,single nucleus,,False,True,29,years,,ATACSeq
+690,H19.30.002,M1AT_230120_153_B01,FACS well,brain,primary visual cortex,17.0,frozen,,,single nucleus,,False,True,29,years,,ATACSeq
+691,H20.30.001,1577_A03,FACS well,brain,primary visual cortex,17.0,frozen,,,single nucleus,,False,True,25,years,,"scrnaSeq,ATACSeq"
+692,H20.30.001,1577_B03,FACS well,brain,primary visual cortex,17.0,frozen,,,single nucleus,,False,True,25,years,,"scrnaSeq,ATACSeq"
+693,H19.30.002,1582_A06,FACS well,brain,primary visual cortex,17.0,frozen,,,single nucleus,,False,True,29,years,,"scrnaSeq,ATACSeq"
+694,H19.30.002,1582_B06,FACS well,brain,primary visual cortex,17.0,frozen,,,single nucleus,,False,True,29,years,,"scrnaSeq,ATACSeq"
+695,H20.30.002,1387_A07,FACS well,brain,primary visual cortex,17.0,frozen,,,single nucleus,,False,True,38,years,,"scrnaSeq,ATACSeq"
+696,H20.30.002,1387_B07,FACS well,brain,primary visual cortex,17.0,frozen,,,single nucleus,,False,True,38,years,,"scrnaSeq,ATACSeq"
+697,H20.30.001,1625_A02,FACS well,brain,primary visual cortex,17.0,frozen,,,single nucleus,,False,True,25,years,,"scrnaSeq,ATACSeq"
+698,H20.30.001,1625_B02,FACS well,brain,primary visual cortex,17.0,frozen,,,single nucleus,,False,True,25,years,,"scrnaSeq,ATACSeq"
+699,H18.30.002,M1TX_181211_101_A01_A01,FACS well,brain,primary visual cortex,17.0,frozen,,,single nucleus,,False,True,50,years,,scrnaSeq
+700,H18.30.002,M1TX_181211_101_B01_B01,FACS well,brain,primary visual cortex,17.0,frozen,,,single nucleus,,False,True,50,years,,scrnaSeq
+701,H200.1023,M1TX_190909_103_D01,FACS well,brain,primary visual cortex,17.0,frozen,,,single nucleus,,False,True,43,years,,scrnaSeq
+702,H200.1023,M1TX_190909_103_E01,FACS well,brain,primary visual cortex,17.0,frozen,,,single nucleus,,False,True,43,years,,scrnaSeq
+703,H18.30.002,M1TX_190911_104_F01,FACS well,brain,primary visual cortex,17.0,frozen,,,single nucleus,,False,True,50,years,,scrnaSeq
+704,H18.30.002,M1TX_190911_104_G01,FACS well,brain,primary visual cortex,17.0,frozen,,,single nucleus,,False,True,50,years,,scrnaSeq
+705,H18.30.002,M1TX_191030_103_F01,FACS well,brain,primary visual cortex,17.0,frozen,,,single nucleus,,False,True,50,years,,scrnaSeq
+706,H200.1023,M1TX_191030_105_C01,FACS well,brain,primary visual cortex,17.0,frozen,,,single nucleus,,False,True,43,years,,scrnaSeq
+707,H200.1023,M1TX_191030_105_D01,FACS well,brain,primary visual cortex,17.0,frozen,,,single nucleus,,False,True,43,years,,scrnaSeq
+708,H200.1023,M1TX_191118_107_D01,FACS well,brain,primary visual cortex,17.0,frozen,,,single nucleus,,False,True,43,years,,scrnaSeq
+709,H200.1023,M1TX_191118_107_E01,FACS well,brain,primary visual cortex,17.0,frozen,,,single nucleus,,False,True,43,years,,scrnaSeq
+710,H200.1023,M1TX_191118_107_F01,FACS well,brain,primary visual cortex,17.0,frozen,,,single nucleus,,False,True,43,years,,scrnaSeq
+711,H18.30.002,M1TX_191118_108_F01,FACS well,brain,primary visual cortex,17.0,frozen,,,single nucleus,,False,True,50,years,,scrnaSeq
+712,H18.30.001,M1TX_191204_101_E01,FACS well,brain,primary visual cortex,17.0,frozen,,,single nucleus,,False,True,60,years,,scrnaSeq
+713,H18.30.001,M1TX_191204_101_F01,FACS well,brain,primary visual cortex,17.0,frozen,,,single nucleus,,False,True,60,years,,scrnaSeq
+714,H18.30.001,M1TX_191204_101_G01,FACS well,brain,primary visual cortex,17.0,frozen,,,single nucleus,,False,True,60,years,,scrnaSeq
+715,H18.30.001,M1TX_191204_101_H01,FACS well,brain,primary visual cortex,17.0,frozen,,,single nucleus,,False,True,60,years,,scrnaSeq
+716,H18.30.002,M1TX_191216_109_E01,FACS well,brain,primary visual cortex,17.0,frozen,,,single nucleus,,False,True,50,years,,scrnaSeq
+717,H19.30.001,M1TX_200117_103_C01,FACS well,brain,primary visual cortex,17.0,frozen,,,single nucleus,,False,True,42,years,,scrnaSeq
+718,H19.30.001,M1TX_200117_103_D01,FACS well,brain,primary visual cortex,17.0,frozen,,,single nucleus,,False,True,42,years,,scrnaSeq
+719,H19.30.001,M1TX_200117_106_E01,FACS well,brain,primary visual cortex,17.0,frozen,,,single nucleus,,False,True,42,years,,scrnaSeq
+720,H19.30.001,M1TX_200117_106_F01,FACS well,brain,primary visual cortex,17.0,frozen,,,single nucleus,,False,True,42,years,,scrnaSeq
+721,H19.30.002,M1TX_200117_110_G01,FACS well,brain,primary visual cortex,17.0,frozen,,,single nucleus,,False,True,29,years,,scrnaSeq
+722,H19.30.002,M1TX_200117_110_H01,FACS well,brain,primary visual cortex,17.0,frozen,,,single nucleus,,False,True,29,years,,scrnaSeq
+723,H19.30.001,M1TX_200124_103_A01_A01,FACS well,brain,primary visual cortex,17.0,frozen,,,single nucleus,,False,True,42,years,,scrnaSeq
+724,H19.30.001,M1TX_200124_103_B01_B01,FACS well,brain,primary visual cortex,17.0,frozen,,,single nucleus,,False,True,42,years,,scrnaSeq
+725,H19.30.002,M1TX_200124_107_A01_A01,FACS well,brain,primary visual cortex,17.0,frozen,,,single nucleus,,False,True,29,years,,scrnaSeq
+726,H19.30.002,M1TX_200124_107_B01_B01,FACS well,brain,primary visual cortex,17.0,frozen,,,single nucleus,,False,True,29,years,,scrnaSeq
+727,H18.30.002,M1TX_180926_004_A01_A01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,50,years,,scrnaSeq
+728,H18.30.002,M1TX_180926_004_B01_B01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,50,years,,scrnaSeq
+729,H19.30.002,M1TX_200206_108_A01_A01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,29,years,,scrnaSeq
+730,H19.30.002,M1TX_200206_108_B01_B01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,29,years,,scrnaSeq
+731,H19.30.001,M1TX_200218_102_A01_A01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,42,years,,scrnaSeq
+732,H19.30.001,M1TX_200218_102_B01_B01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,42,years,,scrnaSeq
+733,H19.30.001,M1TX_200218_103_H01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,42,years,,scrnaSeq
+734,H19.30.002,M1TX_200709_101_A01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,29,years,,scrnaSeq
+735,H19.30.002,M1TX_200709_101_B01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,29,years,,scrnaSeq
+736,H19.30.002,M1TX_200709_102_E01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,29,years,,scrnaSeq
+737,H19.30.002,M1TX_200709_102_F01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,29,years,,scrnaSeq
+738,H19.30.002,M1TX_200709_103_G01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,29,years,,scrnaSeq
+739,H19.30.002,M1TX_200709_104_H01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,29,years,,scrnaSeq
+740,H19.30.001,M1TX_200709_105_C01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,42,years,,scrnaSeq
+741,H19.30.001,M1TX_200709_105_D01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,42,years,,scrnaSeq
+742,H19.30.001,M1TX_200709_106_G01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,42,years,,scrnaSeq
+743,H18.30.002,M1TX_180914_002_A01_A01,FACS well,brain,lateral entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,50,years,,scrnaSeq
+744,H18.30.002,M1TX_180914_002_B01_B01,FACS well,brain,lateral entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,50,years,,scrnaSeq
+745,H19.30.002,M1TX_200206_109_A01_A01,FACS well,brain,lateral entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,29,years,,scrnaSeq
+746,H19.30.002,M1TX_200206_109_B01_B01,FACS well,brain,lateral entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,29,years,,scrnaSeq
+747,H19.30.001,M1TX_200218_101_A01_A01,FACS well,brain,lateral entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,42,years,,scrnaSeq
+748,H19.30.001,M1TX_200218_101_B01_B01,FACS well,brain,lateral entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,42,years,,scrnaSeq
+749,H20.33.027,M2AT_221028_221_A01,FACS well,brain,primary visual cortex,17.0,frozen,,,single nucleus,,False,True,90+,years,,ATACSeq
+750,H20.33.036,M2AT_221102_221_C01,FACS well,brain,primary visual cortex,17.0,frozen,,,single nucleus,,False,True,90+,years,,ATACSeq
+751,H20.33.037,M2AT_221102_221_D01,FACS well,brain,primary visual cortex,17.0,frozen,,,single nucleus,,False,True,90+,years,,ATACSeq
+752,H20.33.019,M2AT_221028_221_B01,FACS well,brain,primary visual cortex,17.0,frozen,,,single nucleus,,False,True,87,years,,ATACSeq
+753,H20.33.001,M2AT_221028_221_C01,FACS well,brain,primary visual cortex,17.0,frozen,,,single nucleus,,False,True,82,years,,ATACSeq
+754,H21.33.002,M1AT_221101_226_A01,FACS well,brain,primary visual cortex,17.0,frozen,,,single nucleus,,False,True,70,years,,ATACSeq
+755,H21.33.013,M1AT_221101_226_B01,FACS well,brain,primary visual cortex,17.0,frozen,,,single nucleus,,False,True,90+,years,,ATACSeq
+756,H21.33.022,M1AT_221101_226_C01,FACS well,brain,primary visual cortex,17.0,frozen,,,single nucleus,,False,True,82,years,,ATACSeq
+757,H21.33.018,M1AT_221101_226_D01,FACS well,brain,primary visual cortex,17.0,frozen,,,single nucleus,,False,True,89,years,,ATACSeq
+758,H20.33.020,M2AT_221102_221_A01,FACS well,brain,primary visual cortex,17.0,frozen,,,single nucleus,,False,True,81,years,,ATACSeq
+759,H20.33.033,M2AT_221102_221_B01,FACS well,brain,primary visual cortex,17.0,frozen,,,single nucleus,,False,True,68,years,,ATACSeq
+760,H21.33.027,M1AT_221107_221_A01,FACS well,brain,primary visual cortex,17.0,frozen,,,single nucleus,,False,True,90+,years,,ATACSeq
+761,H21.33.028,M1AT_221107_221_B01,FACS well,brain,primary visual cortex,17.0,frozen,,,single nucleus,,False,True,72,years,,ATACSeq
+762,H21.33.032,M1AT_221107_221_C01,FACS well,brain,primary visual cortex,17.0,frozen,,,single nucleus,,False,True,90+,years,,ATACSeq
+763,H21.33.033,M1AT_221108_201_A01,FACS well,brain,primary visual cortex,17.0,frozen,,,single nucleus,,False,True,83,years,,ATACSeq
+764,H21.33.035,M1AT_221108_201_B01,FACS well,brain,primary visual cortex,17.0,frozen,,,single nucleus,,False,True,90+,years,,ATACSeq
+765,H21.33.036,M1AT_221108_201_C01,FACS well,brain,primary visual cortex,17.0,frozen,,,single nucleus,,False,True,90+,years,,ATACSeq
+766,H21.33.038,M1AT_221108_201_D01,FACS well,brain,primary visual cortex,17.0,frozen,,,single nucleus,,False,True,84,years,,ATACSeq
+767,H21.33.039,M2AT_221114_221_A01,FACS well,brain,primary visual cortex,17.0,frozen,,,single nucleus,,False,True,88,years,,ATACSeq
+768,H20.33.031,M2AT_221114_221_B01,FACS well,brain,primary visual cortex,17.0,frozen,,,single nucleus,,False,True,87,years,,ATACSeq
+769,H20.33.017,M1AT_220902_207_A01,FACS well,brain,primary visual cortex,17.0,frozen,,,single nucleus,,False,True,69,years,,ATACSeq
+770,H20.33.013,M1AT_220902_207_B01,FACS well,brain,primary visual cortex,17.0,frozen,,,single nucleus,,False,True,90+,years,,ATACSeq
+771,H20.33.015,M1AT_220902_207_C01,FACS well,brain,primary visual cortex,17.0,frozen,,,single nucleus,,False,True,88,years,,ATACSeq
+772,H20.33.011,M2AT_220909_207_A01,FACS well,brain,primary visual cortex,17.0,frozen,,,single nucleus,,False,True,90+,years,,ATACSeq
+773,H21.33.001,M2AT_220909_207_B01,FACS well,brain,primary visual cortex,17.0,frozen,,,single nucleus,,False,True,80,years,,ATACSeq
+774,H20.33.025,M2AT_220909_207_C01,FACS well,brain,primary visual cortex,17.0,frozen,,,single nucleus,,False,True,90+,years,,ATACSeq
+775,H20.33.018,M1AT_220916_222_A01,FACS well,brain,primary visual cortex,17.0,frozen,,,single nucleus,,False,True,81,years,,ATACSeq
+776,H20.33.008,M1AT_220916_222_B01,FACS well,brain,primary visual cortex,17.0,frozen,,,single nucleus,,False,True,90+,years,,ATACSeq
+777,H20.33.005,M1AT_220916_222_C01,FACS well,brain,primary visual cortex,17.0,frozen,,,single nucleus,,False,True,90+,years,,ATACSeq
+778,H20.33.027,M2AT_220923_222_A01,FACS well,brain,primary visual cortex,17.0,frozen,,,single nucleus,,False,True,90+,years,,ATACSeq
+779,H20.33.019,M2AT_220923_222_B01,FACS well,brain,primary visual cortex,17.0,frozen,,,single nucleus,,False,True,87,years,,ATACSeq
+780,H20.33.001,M2AT_220923_222_C01,FACS well,brain,primary visual cortex,17.0,frozen,,,single nucleus,,False,True,82,years,,ATACSeq
+781,H20.33.016,M2AT_220930_206_A01,FACS well,brain,primary visual cortex,17.0,frozen,,,single nucleus,,False,True,90+,years,,ATACSeq
+782,H20.33.039,M2AT_220930_206_B01,FACS well,brain,primary visual cortex,17.0,frozen,,,single nucleus,,False,True,90+,years,,ATACSeq
+783,H20.33.040,M2AT_220930_206_C01,FACS well,brain,primary visual cortex,17.0,frozen,,,single nucleus,,False,True,90+,years,,ATACSeq
+784,H21.33.003,M2AT_221007_221_A01,FACS well,brain,primary visual cortex,17.0,frozen,,,single nucleus,,False,True,78,years,,ATACSeq
+785,H21.33.004,M2AT_221007_221_B01,FACS well,brain,primary visual cortex,17.0,frozen,,,single nucleus,,False,True,90+,years,,ATACSeq
+786,H21.33.019,M2AT_221007_221_C01,FACS well,brain,primary visual cortex,17.0,frozen,,,single nucleus,,False,True,75,years,,ATACSeq
+787,H20.33.012,M2AT_221014_227_A01,FACS well,brain,primary visual cortex,17.0,frozen,,,single nucleus,,False,True,90+,years,,ATACSeq
+788,H20.33.035,M2AT_221014_227_B01,FACS well,brain,primary visual cortex,17.0,frozen,,,single nucleus,,False,True,90+,years,,ATACSeq
+789,H20.33.046,M2AT_221017_221_A01,FACS well,brain,primary visual cortex,17.0,frozen,,,single nucleus,,False,True,90+,years,,ATACSeq
+790,H19.33.004,M2AT_221017_221_B01,FACS well,brain,primary visual cortex,17.0,frozen,,,single nucleus,,False,True,80,years,,ATACSeq
+791,H20.33.026,M2AT_221017_221_C01,FACS well,brain,primary visual cortex,17.0,frozen,,,single nucleus,,False,True,75,years,,ATACSeq
+792,H20.33.028,M2AT_221024_206_A01,FACS well,brain,primary visual cortex,17.0,frozen,,,single nucleus,,False,True,90+,years,,ATACSeq
+793,H20.33.029,M2AT_221024_206_B01,FACS well,brain,primary visual cortex,17.0,frozen,,,single nucleus,,False,True,90+,years,,ATACSeq
+794,H21.33.026,M1AT_221212_206_B01,FACS well,brain,primary visual cortex,17.0,frozen,,,single nucleus,,False,True,90+,years,,ATACSeq
+795,H20.33.017,1406_A09,FACS well,brain,primary visual cortex,17.0,frozen,,,single nucleus,,False,True,69,years,,"scrnaSeq,ATACSeq"
+796,H20.33.013,1406_B09,FACS well,brain,primary visual cortex,17.0,frozen,,,single nucleus,,False,True,90+,years,,"scrnaSeq,ATACSeq"
+797,H20.33.015,1406_C09,FACS well,brain,primary visual cortex,17.0,frozen,,,single nucleus,,False,True,88,years,,"scrnaSeq,ATACSeq"
+798,H20.33.018,1423_A06,FACS well,brain,primary visual cortex,17.0,frozen,,,single nucleus,,False,True,81,years,,"scrnaSeq,ATACSeq"
+799,H20.33.008,1423_B06,FACS well,brain,primary visual cortex,17.0,frozen,,,single nucleus,,False,True,90+,years,,"scrnaSeq,ATACSeq"
+800,H20.33.005,1423_C06,FACS well,brain,primary visual cortex,17.0,frozen,,,single nucleus,,False,True,90+,years,,"scrnaSeq,ATACSeq"
+801,H20.33.011,1413_A06,FACS well,brain,primary visual cortex,17.0,frozen,,,single nucleus,,False,True,90+,years,,"scrnaSeq,ATACSeq"
+802,H21.33.001,1413_B06,FACS well,brain,primary visual cortex,17.0,frozen,,,single nucleus,,False,True,80,years,,"scrnaSeq,ATACSeq"
+803,H20.33.025,1413_C06,FACS well,brain,primary visual cortex,17.0,frozen,,,single nucleus,,False,True,90+,years,,"scrnaSeq,ATACSeq"
+804,H20.33.027,1434_A08,FACS well,brain,primary visual cortex,17.0,frozen,,,single nucleus,,False,True,90+,years,,"scrnaSeq,ATACSeq"
+805,H20.33.019,1434_B08,FACS well,brain,primary visual cortex,17.0,frozen,,,single nucleus,,False,True,87,years,,"scrnaSeq,ATACSeq"
+806,H20.33.001,1434_C08,FACS well,brain,primary visual cortex,17.0,frozen,,,single nucleus,,False,True,82,years,,"scrnaSeq,ATACSeq"
+807,H20.33.016,1448_A11,FACS well,brain,primary visual cortex,17.0,frozen,,,single nucleus,,False,True,90+,years,,"scrnaSeq,ATACSeq"
+808,H20.33.039,1448_B11,FACS well,brain,primary visual cortex,17.0,frozen,,,single nucleus,,False,True,90+,years,,"scrnaSeq,ATACSeq"
+809,H20.33.040,1448_C11,FACS well,brain,primary visual cortex,17.0,frozen,,,single nucleus,,False,True,90+,years,,"scrnaSeq,ATACSeq"
+810,H21.33.003,1457_A08,FACS well,brain,primary visual cortex,17.0,frozen,,,single nucleus,,False,True,78,years,,"scrnaSeq,ATACSeq"
+811,H21.33.004,1457_B08,FACS well,brain,primary visual cortex,17.0,frozen,,,single nucleus,,False,True,90+,years,,"scrnaSeq,ATACSeq"
+812,H21.33.019,1457_C08,FACS well,brain,primary visual cortex,17.0,frozen,,,single nucleus,,False,True,75,years,,"scrnaSeq,ATACSeq"
+813,H20.33.012,1467_A08,FACS well,brain,primary visual cortex,17.0,frozen,,,single nucleus,,False,True,90+,years,,"scrnaSeq,ATACSeq"
+814,H20.33.035,1467_B08,FACS well,brain,primary visual cortex,17.0,frozen,,,single nucleus,,False,True,90+,years,,"scrnaSeq,ATACSeq"
+815,H21.33.033,M1HX_220516_401_1_B01,FACS well,brain,primary visual cortex,17.0,frozen,,,single nucleus,,False,True,83,years,,scrnaSeq
+816,H20.33.018,M1HX_220516_404_1_C01,FACS well,brain,primary visual cortex,17.0,frozen,,,single nucleus,,False,True,81,years,,scrnaSeq
+817,H20.33.039,M1HX_220516_406_2_A01,FACS well,brain,primary visual cortex,17.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+818,H20.33.011,M1HX_220616_151_1_B01,FACS well,brain,primary visual cortex,17.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+819,H20.33.037,M1HX_220616_155_2_A01,FACS well,brain,primary visual cortex,17.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+820,H20.33.040,M1HX_220616_159_2_B01,FACS well,brain,primary visual cortex,17.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+821,H21.33.028,M1HX_220707_159_2_C01,FACS well,brain,primary visual cortex,17.0,frozen,,,single nucleus,,False,True,72,years,,scrnaSeq
+822,H21.33.028,M1HX_220707_161_1_B01,FACS well,brain,primary visual cortex,17.0,frozen,,,single nucleus,,False,True,72,years,,scrnaSeq
+823,H21.33.013,M2HX_220512_431_2_B01,FACS well,brain,primary visual cortex,17.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+824,H20.33.012,M2HX_220512_434_1_A01,FACS well,brain,primary visual cortex,17.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+825,H21.33.019,M2HX_220512_435_2_C01,FACS well,brain,primary visual cortex,17.0,frozen,,,single nucleus,,False,True,75,years,,scrnaSeq
+826,H20.33.013,M2HX_220517_433_2_C01,FACS well,brain,primary visual cortex,17.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+827,H20.33.046,M2HX_220517_435_1_A01,FACS well,brain,primary visual cortex,17.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+828,H19.33.004,M2HX_220523_431_1_A01,FACS well,brain,primary visual cortex,17.0,frozen,,,single nucleus,,False,True,80,years,,scrnaSeq
+829,H21.33.035,M2HX_220523_433_1_B01,FACS well,brain,primary visual cortex,17.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+830,H21.33.032,M2HX_220524_431_2_A01,FACS well,brain,primary visual cortex,17.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+831,H20.33.017,M2HX_220524_433_2_B01,FACS well,brain,primary visual cortex,17.0,frozen,,,single nucleus,,False,True,69,years,,scrnaSeq
+832,H20.33.019,M2HX_220524_434_2_C01,FACS well,brain,primary visual cortex,17.0,frozen,,,single nucleus,,False,True,87,years,,scrnaSeq
+833,H20.33.031,M2HX_220526_251_2_A01,FACS well,brain,primary visual cortex,17.0,frozen,,,single nucleus,,False,True,87,years,,scrnaSeq
+834,H20.33.033,M2HX_220526_255_2_B01,FACS well,brain,primary visual cortex,17.0,frozen,,,single nucleus,,False,True,68,years,,scrnaSeq
+835,H20.33.035,M2HX_220526_259_2_C01,FACS well,brain,primary visual cortex,17.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+836,H21.33.027,M2HX_220531_431_1_B01,FACS well,brain,primary visual cortex,17.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+837,H20.33.036,M2HX_220531_433_2_A01,FACS well,brain,primary visual cortex,17.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+838,H20.33.016,M2HX_220531_435_2_B01,FACS well,brain,primary visual cortex,17.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+839,H21.33.022,M2HX_220613_431_1_A01,FACS well,brain,primary visual cortex,17.0,frozen,,,single nucleus,,False,True,82,years,,scrnaSeq
+840,H21.33.038,M2HX_220613_433_1_B01,FACS well,brain,primary visual cortex,17.0,frozen,,,single nucleus,,False,True,84,years,,scrnaSeq
+841,H21.33.026,M2HX_220613_435_1_C01,FACS well,brain,primary visual cortex,17.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+842,H20.33.027,M2HX_220614_431_2_A01,FACS well,brain,primary visual cortex,17.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+843,H20.33.025,M2HX_220614_433_2_B01,FACS well,brain,primary visual cortex,17.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+844,H20.33.008,M2HX_220614_435_2_C01,FACS well,brain,primary visual cortex,17.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+845,H21.33.036,M2HX_220623_432_2_B01,FACS well,brain,primary visual cortex,17.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+846,H21.33.003,M2HX_220623_434_1_A01,FACS well,brain,primary visual cortex,17.0,frozen,,,single nucleus,,False,True,78,years,,scrnaSeq
+847,H21.33.039,M2HX_220627_431_1_B01,FACS well,brain,primary visual cortex,17.0,frozen,,,single nucleus,,False,True,88,years,,scrnaSeq
+848,H20.33.015,M2HX_220627_434_2_A01,FACS well,brain,primary visual cortex,17.0,frozen,,,single nucleus,,False,True,88,years,,scrnaSeq
+849,H20.33.005,M2HX_220628_431_2_B01,FACS well,brain,primary visual cortex,17.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+850,H20.33.026,M2HX_220628_433_1_A01,FACS well,brain,primary visual cortex,17.0,frozen,,,single nucleus,,False,True,75,years,,scrnaSeq
+851,H21.33.001,M2HX_220628_435_1_B01,FACS well,brain,primary visual cortex,17.0,frozen,,,single nucleus,,False,True,80,years,,scrnaSeq
+852,H20.33.001,M2HX_220711_431_1_A01,FACS well,brain,primary visual cortex,17.0,frozen,,,single nucleus,,False,True,82,years,,scrnaSeq
+853,H21.33.002,M2HX_220711_433_1_B01,FACS well,brain,primary visual cortex,17.0,frozen,,,single nucleus,,False,True,70,years,,scrnaSeq
+854,H20.33.028,M2HX_220711_435_2_A01,FACS well,brain,primary visual cortex,17.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+855,H20.33.020,M2HX_220714_431_2_B01,FACS well,brain,primary visual cortex,17.0,frozen,,,single nucleus,,False,True,81,years,,scrnaSeq
+856,H21.33.018,M2HX_220714_433_2_A01,FACS well,brain,primary visual cortex,17.0,frozen,,,single nucleus,,False,True,89,years,,scrnaSeq
+857,H21.33.004,M2HX_220714_435_2_B01,FACS well,brain,primary visual cortex,17.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+858,H19.30.004,M1TX_200723_153_E01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,58,years,,scrnaSeq
+859,H19.30.004,M1TX_200723_153_F01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,58,years,,scrnaSeq
+860,H19.30.004,M1TX_200723_154_G01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,58,years,,scrnaSeq
+861,H19.30.004,M1TX_200723_154_H01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,58,years,,scrnaSeq
+862,H20.33.024,M1TX_210902_151_B01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+863,H20.33.004,M1TX_210902_153_A01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,86,years,,scrnaSeq
+864,H19.33.004,M1TX_210915_155_D01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,80,years,,scrnaSeq
+865,H21.33.001,M1TX_210915_157_A01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,80,years,,scrnaSeq
+866,H21.33.001,M1TX_210915_157_B01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,80,years,,scrnaSeq
+867,H20.33.038,M1TX_210928_153_E01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+868,H20.33.038,M1TX_210928_153_F01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+869,H20.33.030,M1TX_210930_151_A01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,86,years,,scrnaSeq
+870,H20.33.030,M1TX_210930_151_B01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,86,years,,scrnaSeq
+871,H21.33.041,M1TX_211005_151_F01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+872,H21.33.041,M1TX_211005_151_G01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+873,H21.33.043,M1TX_211005_153_D01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+874,H21.33.043,M1TX_211005_153_E01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+875,H20.33.041,M1TX_211019_151_A01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+876,H20.33.041,M1TX_211019_151_B01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+877,H20.33.034,M1TX_211019_155_B01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,85,years,,scrnaSeq
+878,H20.33.034,M1TX_211019_155_C01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,85,years,,scrnaSeq
+879,H21.33.040,M1TX_211019_157_C01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,83,years,,scrnaSeq
+880,H21.33.040,M1TX_211019_157_D01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,83,years,,scrnaSeq
+881,H21.33.036,M1TX_211020_151_G01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+882,H21.33.036,M1TX_211020_151_H01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+883,H21.33.010,M1TX_211020_155_A01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+884,H21.33.005,M1TX_211021_151_A01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+885,H21.33.005,M1TX_211021_151_B01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+886,H21.33.007,M1TX_211021_155_C01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,86,years,,scrnaSeq
+887,H21.33.007,M1TX_211021_155_D01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,86,years,,scrnaSeq
+888,H21.33.038,M1TX_211021_159_E01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,84,years,,scrnaSeq
+889,H21.33.038,M1TX_211021_159_F01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,84,years,,scrnaSeq
+890,H21.33.006,M1TX_211026_153_A01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+891,H21.33.006,M1TX_211026_153_B01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+892,H20.33.002,M1TX_211026_155_D01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+893,H20.33.002,M1TX_211026_157_D01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+894,H20.33.002,M1TX_211026_157_E01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+895,H20.33.031,M1TX_211026_159_C01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,87,years,,scrnaSeq
+896,H20.33.031,M1TX_211026_159_D01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,87,years,,scrnaSeq
+897,H20.33.044,M1TX_211102_151_A01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,81,years,,scrnaSeq
+898,H20.33.044,M1TX_211102_151_B01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,81,years,,scrnaSeq
+899,H20.33.027,M1TX_211102_155_C01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+900,H20.33.027,M1TX_211102_155_D01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+901,H20.33.001,M1TX_211102_157_E01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,82,years,,scrnaSeq
+902,H20.33.001,M1TX_211102_157_F01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,82,years,,scrnaSeq
+903,H21.33.011,M1TX_211105_151_A01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,83,years,,scrnaSeq
+904,H21.33.011,M1TX_211105_151_B01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,83,years,,scrnaSeq
+905,H21.33.017,M1TX_211105_153_C01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+906,H21.33.017,M1TX_211105_153_D01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+907,H21.33.015,M1TX_211105_157_E01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+908,H21.33.015,M1TX_211105_157_F01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+909,H21.33.003,M1TX_211109_151_E01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,78,years,,scrnaSeq
+910,H21.33.003,M1TX_211109_151_F01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,78,years,,scrnaSeq
+911,H21.33.021,M1TX_211109_155_C01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+912,H21.33.014,M1TX_211109_157_G01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+913,H21.33.014,M1TX_211109_157_H01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+914,H21.33.004,M1TX_211111_153_C01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+915,H21.33.004,M1TX_211111_153_D01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+916,H21.33.042,M1TX_211116_151_A01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+917,H20.33.011,M1TX_211117_251_H01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+918,H20.33.026,M1TX_211123_151_A01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,75,years,,scrnaSeq
+919,H20.33.026,M1TX_211123_153_B01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,75,years,,scrnaSeq
+920,H20.33.026,M1TX_211123_153_C01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,75,years,,scrnaSeq
+921,H20.33.016,M1TX_211123_155_C01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+922,H20.33.016,M1TX_211123_155_D01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+923,H20.33.016,M1TX_211123_157_G01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+924,H20.33.016,M1TX_211123_157_H01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+925,H20.33.020,M1TX_211130_151_E01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,81,years,,scrnaSeq
+926,H20.33.020,M1TX_211130_151_F01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,81,years,,scrnaSeq
+927,H21.33.023,M1TX_211130_155_G01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+928,H21.33.023,M1TX_211130_155_H01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+929,H21.33.023,M1TX_211130_157_F01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+930,H21.33.030,M1TX_211130_159_C01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,89,years,,scrnaSeq
+931,H21.33.030,M1TX_211130_159_D01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,89,years,,scrnaSeq
+932,H21.33.042,M1TX_220113_155_E01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+933,H21.33.042,M1TX_220113_157_C01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+934,H21.33.042,M1TX_220113_157_D01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+935,H21.33.046,M1TX_220222_151_B01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+936,H21.33.044,M1TX_220222_155_C01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,88,years,,scrnaSeq
+937,H21.33.044,M1TX_220222_155_D01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,88,years,,scrnaSeq
+938,H21.33.037,M1TX_220222_159_E01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,88,years,,scrnaSeq
+939,H21.33.037,M1TX_220222_159_F01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,88,years,,scrnaSeq
+940,H21.33.008,M1TX_220301_151_A01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+941,H21.33.008,M1TX_220301_151_B01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+942,H20.33.036,M1TX_220301_155_C01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+943,H20.33.036,M1TX_220301_155_D01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+944,H20.33.039,M1TX_220301_159_E01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+945,H20.33.039,M1TX_220301_159_F01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+946,H20.33.040,M1TX_220303_151_A01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+947,H20.33.040,M1TX_220303_151_B01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+948,H21.33.027,M1TX_220303_155_C01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+949,H21.33.027,M1TX_220303_155_D01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+950,H21.33.029,M1TX_220303_159_E01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,89,years,,scrnaSeq
+951,H21.33.029,M1TX_220303_159_F01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,89,years,,scrnaSeq
+952,H21.33.029,M1TX_220303_161_C01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,89,years,,scrnaSeq
+953,H21.33.029,M1TX_220303_161_D01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,89,years,,scrnaSeq
+954,H20.33.015,M1TX_220308_151_A01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,88,years,,scrnaSeq
+955,H20.33.015,M1TX_220308_153_A01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,88,years,,scrnaSeq
+956,H20.33.033,M1TX_220308_155_C01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,68,years,,scrnaSeq
+957,H20.33.033,M1TX_220308_155_D01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,68,years,,scrnaSeq
+958,H21.33.009,M1TX_220308_159_F01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,65,years,,scrnaSeq
+959,H20.33.014,M1TX_220310_151_A01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,82,years,,scrnaSeq
+960,H20.33.014,M1TX_220310_151_B01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,82,years,,scrnaSeq
+961,H20.33.008,M1TX_220310_155_C01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+962,H20.33.008,M1TX_220310_155_D01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+963,H20.33.008,M1TX_220310_157_A01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+964,H20.33.008,M1TX_220310_157_B01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+965,H20.33.028,M1TX_220310_159_E01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+966,H20.33.028,M1TX_220310_159_F01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+967,H20.33.013,M1TX_220328_151_A01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+968,H20.33.013,M1TX_220328_153_A01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+969,H21.33.039,M1TX_220407_151_F01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,88,years,,scrnaSeq
+970,H20.33.045,M1TX_220412_151_A01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,77,years,,scrnaSeq
+971,H20.33.045,M1TX_220412_151_B01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,77,years,,scrnaSeq
+972,H21.33.020,M1TX_220412_155_C01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,82,years,,scrnaSeq
+973,H21.33.020,M1TX_220412_155_D01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,82,years,,scrnaSeq
+974,H21.33.028,M1TX_220412_159_E01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,72,years,,scrnaSeq
+975,H21.33.028,M1TX_220412_159_F01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,72,years,,scrnaSeq
+976,H21.33.026,M1TX_220414_151_A01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+977,H21.33.026,M1TX_220414_151_B01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+978,H21.33.035,M1TX_220414_155_C01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+979,H21.33.035,M1TX_220414_155_D01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+980,H20.33.043,M1TX_220502_153_A01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,85,years,,scrnaSeq
+981,H20.33.043,M1TX_220502_153_B01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,85,years,,scrnaSeq
+982,H21.33.010,M1TX_220502_155_C01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+983,H21.33.010,M1TX_220502_155_D01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+984,H21.33.025,M1TX_220502_159_B01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,88,years,,scrnaSeq
+985,H21.33.025,M1TX_220502_159_C01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,88,years,,scrnaSeq
+986,H20.33.043,M2TX_211104_253_B01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,85,years,,scrnaSeq
+987,H21.33.012,M2TX_211104_255_C01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+988,H20.33.035,M2TX_211108_251_G01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+989,H20.33.035,M2TX_211108_251_H01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+990,H21.33.002,M2TX_211108_255_E01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,70,years,,scrnaSeq
+991,H21.33.022,M2TX_211111_253_F01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,82,years,,scrnaSeq
+992,H21.33.022,M2TX_211111_255_C01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,82,years,,scrnaSeq
+993,H21.33.022,M2TX_211111_255_D01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,82,years,,scrnaSeq
+994,H21.33.025,M2TX_211115_251_A01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,88,years,,scrnaSeq
+995,H21.33.033,M2TX_211116_251_F01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,83,years,,scrnaSeq
+996,H21.33.033,M2TX_211116_251_G01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,83,years,,scrnaSeq
+997,H21.33.034,M2TX_211116_257_H01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+998,H20.33.011,M2TX_211117_253_G01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+999,H20.33.012,M2TX_211117_255_A01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+1000,H20.33.012,M2TX_211117_255_B01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+1001,H20.33.017,M2TX_211117_259_C01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,69,years,,scrnaSeq
+1002,H20.33.017,M2TX_211117_259_D01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,69,years,,scrnaSeq
+1003,H20.33.019,M2TX_211122_255_E01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,87,years,,scrnaSeq
+1004,H20.33.019,M2TX_211122_255_F01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,87,years,,scrnaSeq
+1005,H21.33.047,M2TX_211202_251_G01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+1006,H21.33.047,M2TX_211202_253_A01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+1007,H21.33.032,M2TX_211202_255_C01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+1008,H21.33.032,M2TX_211202_257_A01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+1009,H21.33.032,M2TX_211202_257_B01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+1010,H20.33.029,M2TX_220217_251_A01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+1011,H20.33.029,M2TX_220217_251_B01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+1012,H20.33.032,M2TX_220217_255_C01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+1013,H20.33.032,M2TX_220217_255_D01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+1014,H21.33.019,M2TX_220217_259_E01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,75,years,,scrnaSeq
+1015,H21.33.019,M2TX_220217_259_F01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,75,years,,scrnaSeq
+1016,H21.33.019,M2TX_220217_261_G01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,75,years,,scrnaSeq
+1017,H21.33.019,M2TX_220217_261_H01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,75,years,,scrnaSeq
+1018,H20.33.025,M2TX_220224_251_A01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+1019,H20.33.025,M2TX_220224_251_B01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+1020,H21.33.016,M2TX_220224_255_C01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+1021,H21.33.016,M2TX_220224_255_D01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+1022,H21.33.018,M2TX_220224_259_E01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,89,years,,scrnaSeq
+1023,H21.33.018,M2TX_220224_259_F01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,89,years,,scrnaSeq
+1024,H21.33.045,M2TX_220331_151_B01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+1025,H20.33.046,M2TX_220331_155_D01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+1026,H20.33.046,M2TX_220331_157_B01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+1027,H20.33.025,M2TX_220331_159_E01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+1028,H20.33.025,M2TX_220331_159_F01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+1029,H20.33.005,M2TX_220407_251_A01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+1030,H20.33.005,M2TX_220407_251_B01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+1031,H21.33.031,M2TX_220407_255_C01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,84,years,,scrnaSeq
+1032,H21.33.031,M2TX_220407_255_D01,FACS well,brain,medial entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,84,years,,scrnaSeq
+1033,H19.33.004,M1HX_221129_151_1_B01,FACS well,brain,superior temporal gyrus,22.0,frozen,,,single nucleus,,False,True,80,years,,scrnaSeq
+1034,H20.33.012,M1HX_221129_153_1_C01,FACS well,brain,superior temporal gyrus,22.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+1035,H20.33.019,M1HX_221207_154_1_A01,FACS well,brain,superior temporal gyrus,22.0,frozen,,,single nucleus,,False,True,87,years,,scrnaSeq
+1036,H20.33.001,M1HX_221207_158_1_B01,FACS well,brain,superior temporal gyrus,22.0,frozen,,,single nucleus,,False,True,82,years,,scrnaSeq
+1037,H20.33.028,M1HX_221207_162_1_C01,FACS well,brain,superior temporal gyrus,22.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+1038,H20.33.028,M1HX_221207_164_2_B01,FACS well,brain,superior temporal gyrus,22.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+1039,H20.33.035,M1HX_230105_402_1_A01,FACS well,brain,superior temporal gyrus,22.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+1040,H20.33.033,M1HX_230105_404_2_A01,FACS well,brain,superior temporal gyrus,22.0,frozen,,,single nucleus,,False,True,68,years,,scrnaSeq
+1041,H20.33.027,M1HX_230110_401_1_A01,FACS well,brain,superior temporal gyrus,22.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+1042,H20.33.026,M1HX_230110_402_1_B01,FACS well,brain,superior temporal gyrus,22.0,frozen,,,single nucleus,,False,True,75,years,,scrnaSeq
+1043,H20.33.037,M1HX_230110_404_1_C01,FACS well,brain,superior temporal gyrus,22.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+1044,H20.33.031,M1HX_230112_401_2_A01,FACS well,brain,superior temporal gyrus,22.0,frozen,,,single nucleus,,False,True,87,years,,scrnaSeq
+1045,H20.33.020,M1HX_230112_403_2_B01,FACS well,brain,superior temporal gyrus,22.0,frozen,,,single nucleus,,False,True,81,years,,scrnaSeq
+1046,H20.33.029,M1HX_230112_405_2_C01,FACS well,brain,superior temporal gyrus,22.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+1047,H20.33.016,M1HX_230117_431_1_A01,FACS well,brain,superior temporal gyrus,22.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+1048,H20.33.039,M1HX_230117_433_1_B01,FACS well,brain,superior temporal gyrus,22.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+1049,H20.33.040,M1HX_230117_435_1_C01,FACS well,brain,superior temporal gyrus,22.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+1050,H21.33.002,M1HX_230119_431_2_A01,FACS well,brain,superior temporal gyrus,22.0,frozen,,,single nucleus,,False,True,70,years,,scrnaSeq
+1051,H21.33.003,M1HX_230119_433_2_B01,FACS well,brain,superior temporal gyrus,22.0,frozen,,,single nucleus,,False,True,78,years,,scrnaSeq
+1052,H21.33.026,M1HX_230119_435_2_C01,FACS well,brain,superior temporal gyrus,22.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+1053,H21.33.022,M1HX_230123_401_1_A01,FACS well,brain,superior temporal gyrus,22.0,frozen,,,single nucleus,,False,True,82,years,,scrnaSeq
+1054,H21.33.013,M1HX_230123_403_1_B01,FACS well,brain,superior temporal gyrus,22.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+1055,H21.33.019,M1HX_230123_405_2_A01,FACS well,brain,superior temporal gyrus,22.0,frozen,,,single nucleus,,False,True,75,years,,scrnaSeq
+1056,H21.33.018,M1HX_230130_401_1_A01,FACS well,brain,superior temporal gyrus,22.0,frozen,,,single nucleus,,False,True,89,years,,scrnaSeq
+1057,H21.33.004,M1HX_230130_403_1_B01,FACS well,brain,superior temporal gyrus,22.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+1058,H21.33.027,M1HX_230201_151_2_A01,FACS well,brain,superior temporal gyrus,22.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+1059,H21.33.032,M1HX_230201_155_2_B01,FACS well,brain,superior temporal gyrus,22.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+1060,H21.33.033,M1HX_230207_401_1_A01,FACS well,brain,superior temporal gyrus,22.0,frozen,,,single nucleus,,False,True,83,years,,scrnaSeq
+1061,H21.33.035,M1HX_230207_403_1_B01,FACS well,brain,superior temporal gyrus,22.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+1062,H21.33.036,M1HX_230207_405_1_C01,FACS well,brain,superior temporal gyrus,22.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+1063,H20.33.018,M1HX_230209_151_2_A01,FACS well,brain,superior temporal gyrus,22.0,frozen,,,single nucleus,,False,True,81,years,,scrnaSeq
+1064,H21.33.028,M1HX_230209_155_2_B01,FACS well,brain,superior temporal gyrus,22.0,frozen,,,single nucleus,,False,True,72,years,,scrnaSeq
+1065,H21.33.038,M1HX_230209_159_2_C01,FACS well,brain,superior temporal gyrus,22.0,frozen,,,single nucleus,,False,True,84,years,,scrnaSeq
+1066,H20.33.008,M1HX_230213_431_1_A01,FACS well,brain,superior temporal gyrus,22.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+1067,H20.33.005,M1HX_230213_433_1_B01,FACS well,brain,superior temporal gyrus,22.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+1068,H21.33.039,M1HX_230213_435_2_A01,FACS well,brain,superior temporal gyrus,22.0,frozen,,,single nucleus,,False,True,88,years,,scrnaSeq
+1069,H20.33.036,M1HX_230523_403_2_B01,FACS well,brain,superior temporal gyrus,22.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+1070,H20.33.017,M1HX_230523_405_2_C01,FACS well,brain,superior temporal gyrus,22.0,frozen,,,single nucleus,,False,True,69,years,,scrnaSeq
+1071,H20.33.013,M2HX_221201_253_2_A01,FACS well,brain,superior temporal gyrus,22.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+1072,H20.33.025,M2HX_221201_255_2_B01,FACS well,brain,superior temporal gyrus,22.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+1073,H20.33.015,M2HX_221201_259_2_C01,FACS well,brain,superior temporal gyrus,22.0,frozen,,,single nucleus,,False,True,88,years,,scrnaSeq
+1074,H20.33.046,M2HX_221212_251_2_A01,FACS well,brain,superior temporal gyrus,22.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+1075,H20.33.011,M2HX_221212_255_2_B01,FACS well,brain,superior temporal gyrus,22.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+1076,H21.33.001,M2HX_221212_259_2_C01,FACS well,brain,superior temporal gyrus,22.0,frozen,,,single nucleus,,False,True,80,years,,scrnaSeq
+1077,H18.30.002,M1TX_190228_104_A01_A01,FACS well,brain,hippocampus,,frozen,,,single nucleus,,False,True,50,years,,scrnaSeq
+1078,H18.30.002,M1TX_190228_104_B01_B01,FACS well,brain,hippocampus,,frozen,,,single nucleus,,False,True,50,years,,scrnaSeq
+1079,H18.30.002,M1TX_190306_102_A01_A01,FACS well,brain,hippocampus,,frozen,,,single nucleus,,False,True,50,years,,scrnaSeq
+1080,H18.30.002,M1TX_190306_102_B01_B01,FACS well,brain,hippocampus,,frozen,,,single nucleus,,False,True,50,years,,scrnaSeq
+1081,H18.30.002,M1TX_190307_101_A01_A01,FACS well,brain,hippocampus,,frozen,,,single nucleus,,False,True,50,years,,scrnaSeq
+1082,H18.30.002,M1TX_190307_101_B01_B01,FACS well,brain,hippocampus,,frozen,,,single nucleus,,False,True,50,years,,scrnaSeq
+1083,H18.30.002,M1TX_190429_101_A01_A01,FACS well,brain,hippocampus,,frozen,,,single nucleus,,False,True,50,years,,scrnaSeq
+1084,H18.30.002,M1TX_190429_101_B01_B01,FACS well,brain,hippocampus,,frozen,,,single nucleus,,False,True,50,years,,scrnaSeq
+1085,H18.30.002,M1TX_190429_102_A01_A01,FACS well,brain,hippocampus,,frozen,,,single nucleus,,False,True,50,years,,scrnaSeq
+1086,H18.30.002,M1TX_190429_102_B01_B01,FACS well,brain,hippocampus,,frozen,,,single nucleus,,False,True,50,years,,scrnaSeq
+1087,H18.30.002,M1TX_190530_102_A01_A01,FACS well,brain,hippocampus,,frozen,,,single nucleus,,False,True,50,years,,scrnaSeq
+1088,H18.30.002,M1TX_190530_102_B01_B01,FACS well,brain,hippocampus,,frozen,,,single nucleus,,False,True,50,years,,scrnaSeq
+1089,H18.30.002,M1TX_190531_101_A01_A01,FACS well,brain,hippocampus,,frozen,,,single nucleus,,False,True,50,years,,scrnaSeq
+1090,H18.30.002,M1TX_190531_101_B01_B01,FACS well,brain,hippocampus,,frozen,,,single nucleus,,False,True,50,years,,scrnaSeq
+1091,H18.30.002,M1TX_190531_103_A01_A01,FACS well,brain,hippocampus,,frozen,,,single nucleus,,False,True,50,years,,scrnaSeq
+1092,H18.30.002,M1TX_190531_103_B01_B01,FACS well,brain,hippocampus,,frozen,,,single nucleus,,False,True,50,years,,scrnaSeq
+1093,H19.30.002,M1TX_190722_105_A01_A01,FACS well,brain,hippocampus,,frozen,,,single nucleus,,False,True,29,years,,scrnaSeq
+1094,H19.30.002,M1TX_190722_105_B01_B01,FACS well,brain,hippocampus,,frozen,,,single nucleus,,False,True,29,years,,scrnaSeq
+1095,H19.30.002,M1TX_190722_107_A01_A01,FACS well,brain,hippocampus,,frozen,,,single nucleus,,False,True,29,years,,scrnaSeq
+1096,H19.30.002,M1TX_190722_107_B01_B01,FACS well,brain,hippocampus,,frozen,,,single nucleus,,False,True,29,years,,scrnaSeq
+1097,H19.30.002,M1TX_190802_105_A01_A01,FACS well,brain,hippocampus,,frozen,,,single nucleus,,False,True,29,years,,scrnaSeq
+1098,H19.30.002,M1TX_190802_105_B01_B01,FACS well,brain,hippocampus,,frozen,,,single nucleus,,False,True,29,years,,scrnaSeq
+1099,H19.30.002,M1TX_190816_101_A01_A01,FACS well,brain,hippocampus,,frozen,,,single nucleus,,False,True,29,years,,scrnaSeq
+1100,H19.30.002,M1TX_190816_101_B01_B01,FACS well,brain,hippocampus,,frozen,,,single nucleus,,False,True,29,years,,scrnaSeq
+1101,H19.30.002,M1TX_190816_103_A01_A01,FACS well,brain,hippocampus,,frozen,,,single nucleus,,False,True,29,years,,scrnaSeq
+1102,H19.30.002,M1TX_190816_103_B01_B01,FACS well,brain,hippocampus,,frozen,,,single nucleus,,False,True,29,years,,scrnaSeq
+1103,H19.30.002,M1TX_190816_105_A01_A01,FACS well,brain,hippocampus,,frozen,,,single nucleus,,False,True,29,years,,scrnaSeq
+1104,H19.30.002,M1TX_190816_105_B01_B01,FACS well,brain,hippocampus,,frozen,,,single nucleus,,False,True,29,years,,scrnaSeq
+1105,H19.30.001,M1TX_210526_153_A01_A01,FACS well,brain,hippocampus,,frozen,,,single nucleus,,False,True,42,years,,scrnaSeq
+1106,H19.30.001,M1TX_210526_153_B01_B01,FACS well,brain,hippocampus,,frozen,,,single nucleus,,False,True,42,years,,scrnaSeq
+1107,H19.30.001,M1TX_210611_151_A01_A01,FACS well,brain,hippocampus,,frozen,,,single nucleus,,False,True,42,years,,scrnaSeq
+1108,H19.30.001,M1TX_210611_151_B01_B01,FACS well,brain,hippocampus,,frozen,,,single nucleus,,False,True,42,years,,scrnaSeq
+1109,H19.30.001,M1TX_210611_152_A01_A01,FACS well,brain,hippocampus,,frozen,,,single nucleus,,False,True,42,years,,scrnaSeq
+1110,H19.30.001,M1TX_210611_152_B01_B01,FACS well,brain,hippocampus,,frozen,,,single nucleus,,False,True,42,years,,scrnaSeq
+1111,H19.30.001,M1TX_210611_154_A01_A01,FACS well,brain,hippocampus,,frozen,,,single nucleus,,False,True,42,years,,scrnaSeq
+1112,H19.30.001,M1TX_210611_154_B01_B01,FACS well,brain,hippocampus,,frozen,,,single nucleus,,False,True,42,years,,scrnaSeq
+1113,H19.30.001,M1TX_210624_156_A01_A01,FACS well,brain,hippocampus,,frozen,,,single nucleus,,False,True,42,years,,scrnaSeq
+1114,H19.30.001,M1TX_210624_156_B01_B01,FACS well,brain,hippocampus,,frozen,,,single nucleus,,False,True,42,years,,scrnaSeq
+1115,H19.30.001,M1TX_210624_157_A01_A01,FACS well,brain,hippocampus,,frozen,,,single nucleus,,False,True,42,years,,scrnaSeq
+1116,H19.30.001,M1TX_210624_157_B01_B01,FACS well,brain,hippocampus,,frozen,,,single nucleus,,False,True,42,years,,scrnaSeq
+1117,H19.30.002,M1TX_210625_152_A01_A01,FACS well,brain,hippocampus,,frozen,,,single nucleus,,False,True,29,years,,scrnaSeq
+1118,H19.30.002,M1TX_210625_152_B01_B01,FACS well,brain,hippocampus,,frozen,,,single nucleus,,False,True,29,years,,scrnaSeq
+1119,H19.30.001,M1TX_210630_153_A01_A01,FACS well,brain,hippocampus,,frozen,,,single nucleus,,False,True,42,years,,scrnaSeq
+1120,H19.30.001,M1TX_210630_153_B01_B01,FACS well,brain,hippocampus,,frozen,,,single nucleus,,False,True,42,years,,scrnaSeq
+1121,H19.30.002,M1TX_210701_157_A01_A01,FACS well,brain,hippocampus,,frozen,,,single nucleus,,False,True,29,years,,scrnaSeq
+1122,H19.30.002,M1TX_210701_157_B01_B01,FACS well,brain,hippocampus,,frozen,,,single nucleus,,False,True,29,years,,scrnaSeq
+1123,H19.30.002,M1TX_210701_158_A01_A01,FACS well,brain,hippocampus,,frozen,,,single nucleus,,False,True,29,years,,scrnaSeq
+1124,H19.30.002,M1TX_210701_158_B01_B01,FACS well,brain,hippocampus,,frozen,,,single nucleus,,False,True,29,years,,scrnaSeq
+1125,H19.33.004,1354_B01,FACS well,brain,hippocampus,,frozen,,,single nucleus,,False,True,80,years,,"scrnaSeq,ATACSeq"
+1126,H20.33.016,1354_A01,FACS well,brain,hippocampus,,frozen,,,single nucleus,,False,True,90+,years,,"scrnaSeq,ATACSeq"
+1127,H20.33.020,1361_A01,FACS well,brain,hippocampus,,frozen,,,single nucleus,,False,True,81,years,,"scrnaSeq,ATACSeq"
+1128,H20.33.013,1362_A02,FACS well,brain,hippocampus,,frozen,,,single nucleus,,False,True,90+,years,,"scrnaSeq,ATACSeq"
+1129,H20.33.026,1370_A01,FACS well,brain,hippocampus,,frozen,,,single nucleus,,False,True,75,years,,"scrnaSeq,ATACSeq"
+1130,H20.33.033,1370_B01,FACS well,brain,hippocampus,,frozen,,,single nucleus,,False,True,68,years,,"scrnaSeq,ATACSeq"
+1131,H20.33.025,1388_A01,FACS well,brain,hippocampus,,frozen,,,single nucleus,,False,True,90+,years,,"scrnaSeq,ATACSeq"
+1132,H20.33.001,1393_B04,FACS well,brain,hippocampus,,frozen,,,single nucleus,,False,True,82,years,,"scrnaSeq,ATACSeq"
+1133,H21.33.019,1393_A04,FACS well,brain,hippocampus,,frozen,,,single nucleus,,False,True,75,years,,"scrnaSeq,ATACSeq"
+1134,H20.33.008,1398_A03,FACS well,brain,hippocampus,,frozen,,,single nucleus,,False,True,90+,years,,"scrnaSeq,ATACSeq"
+1135,H20.33.037,1408_B02,FACS well,brain,hippocampus,,frozen,,,single nucleus,,False,True,90+,years,,"scrnaSeq,ATACSeq"
+1136,H20.33.035,1408_A02,FACS well,brain,hippocampus,,frozen,,,single nucleus,,False,True,90+,years,,"scrnaSeq,ATACSeq"
+1137,H21.33.033,1411_B05,FACS well,brain,hippocampus,,frozen,,,single nucleus,,False,True,83,years,,"scrnaSeq,ATACSeq"
+1138,H21.33.036,1411_A05,FACS well,brain,hippocampus,,frozen,,,single nucleus,,False,True,90+,years,,"scrnaSeq,ATACSeq"
+1139,H20.33.018,1450_A02,FACS well,brain,hippocampus,,frozen,,,single nucleus,,False,True,81,years,,"scrnaSeq,ATACSeq"
+1140,H20.33.015,1450_B02,FACS well,brain,hippocampus,,frozen,,,single nucleus,,False,True,88,years,,"scrnaSeq,ATACSeq"
+1141,H21.33.028,1460_B02,FACS well,brain,hippocampus,,frozen,,,single nucleus,,False,True,72,years,,"scrnaSeq,ATACSeq"
+1142,H21.33.035,1460_A02,FACS well,brain,hippocampus,,frozen,,,single nucleus,,False,True,90+,years,,"scrnaSeq,ATACSeq"
+1143,H20.33.035,1738_A03,FACS well,brain,lateral entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,90+,years,,"scrnaSeq,ATACSeq"
+1144,H21.33.022,1738_B03,FACS well,brain,lateral entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,82,years,,"scrnaSeq,ATACSeq"
+1145,H21.33.028,1740_A04,FACS well,brain,lateral entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,72,years,,"scrnaSeq,ATACSeq"
+1146,H21.33.033,1740_B04,FACS well,brain,lateral entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,83,years,,"scrnaSeq,ATACSeq"
+1147,H20.33.046,1758_A01,FACS well,brain,lateral entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,90+,years,,"scrnaSeq,ATACSeq"
+1148,H20.33.008,1758_B01,FACS well,brain,lateral entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,90+,years,,"scrnaSeq,ATACSeq"
+1149,H20.33.026,1758_C01,FACS well,brain,lateral entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,75,years,,"scrnaSeq,ATACSeq"
+1150,H20.33.016,1768.1_C02,FACS well,brain,lateral entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,90+,years,,"scrnaSeq,ATACSeq"
+1151,H21.33.027,1768_B02,FACS well,brain,lateral entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,90+,years,,"scrnaSeq,ATACSeq"
+1152,H21.33.026,1779_A05,FACS well,brain,lateral entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,90+,years,,"scrnaSeq,ATACSeq"
+1153,H21.33.032,1779_B05,FACS well,brain,lateral entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,90+,years,,"scrnaSeq,ATACSeq"
+1154,H21.33.001,1784.1_C02,FACS well,brain,lateral entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,80,years,,"scrnaSeq,ATACSeq"
+1155,H21.33.038,1784_B02,FACS well,brain,lateral entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,84,years,,"scrnaSeq,ATACSeq"
+1156,H20.33.005,1789_A05,FACS well,brain,lateral entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,90+,years,,"scrnaSeq,ATACSeq"
+1157,H20.33.012,1793_A03,FACS well,brain,lateral entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,90+,years,,"scrnaSeq,ATACSeq"
+1158,H20.33.031,1793_B03,FACS well,brain,lateral entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,87,years,,"scrnaSeq,ATACSeq"
+1159,H20.33.013,1800_A04,FACS well,brain,lateral entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,90+,years,,"scrnaSeq,ATACSeq"
+1160,H21.33.019,1800_B04,FACS well,brain,lateral entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,75,years,,"scrnaSeq,ATACSeq"
+1161,H20.33.046,1804_A06,FACS well,brain,hippocampus,,frozen,,,single nucleus,,False,True,90+,years,,"scrnaSeq,ATACSeq"
+1162,H21.33.004,1817_A08,FACS well,brain,lateral entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,90+,years,,"scrnaSeq,ATACSeq"
+1163,H21.33.018,1817_B08,FACS well,brain,lateral entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,89,years,,"scrnaSeq,ATACSeq"
+1164,H19.33.004,1824_A06,FACS well,brain,lateral entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,80,years,,"scrnaSeq,ATACSeq"
+1165,H20.33.029,1824_B06,FACS well,brain,lateral entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,90+,years,,"scrnaSeq,ATACSeq"
+1166,H20.33.039,1836_A04,FACS well,brain,lateral entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,90+,years,,"scrnaSeq,ATACSeq"
+1167,H20.33.040,1836_B04,FACS well,brain,lateral entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,90+,years,,"scrnaSeq,ATACSeq"
+1168,H21.33.036,1888_A05,FACS well,brain,lateral entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,90+,years,,"scrnaSeq,ATACSeq"
+1169,H20.33.046,1888_B05,FACS well,brain,hippocampus,,frozen,,,single nucleus,,False,True,90+,years,,"scrnaSeq,ATACSeq"
+1170,H20.33.017,1894_A08,FACS well,brain,lateral entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,69,years,,"scrnaSeq,ATACSeq"
+1171,H20.33.036,1894_B08,FACS well,brain,lateral entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,90+,years,,"scrnaSeq,ATACSeq"
+1172,H20.33.011,1900_A06,FACS well,brain,lateral entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,90+,years,,"scrnaSeq,ATACSeq"
+1173,H21.33.003,1900_B06,FACS well,brain,lateral entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,78,years,,"scrnaSeq,ATACSeq"
+1174,H20.33.020,1902_A08,FACS well,brain,lateral entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,81,years,,"scrnaSeq,ATACSeq"
+1175,H20.33.012,1346_A01,FACS well,brain,hippocampus,,frozen,,,single nucleus,,False,True,90+,years,,"scrnaSeq,ATACSeq"
+1176,H21.33.001,1347_A02,FACS well,brain,hippocampus,,frozen,,,single nucleus,,False,True,80,years,,"scrnaSeq,ATACSeq"
+1177,H20.33.011,1347_B02,FACS well,brain,hippocampus,,frozen,,,single nucleus,,False,True,90+,years,,"scrnaSeq,ATACSeq"
+1178,H20.33.019,1361_B01,FACS well,brain,hippocampus,,frozen,,,single nucleus,,False,True,87,years,,"scrnaSeq,ATACSeq"
+1179,H20.33.017,1362_B02,FACS well,brain,hippocampus,,frozen,,,single nucleus,,False,True,69,years,,"scrnaSeq,ATACSeq"
+1180,H20.33.031,1365_A04,FACS well,brain,hippocampus,,frozen,,,single nucleus,,False,True,87,years,,"scrnaSeq,ATACSeq"
+1181,H20.33.027,1365_B04,FACS well,brain,hippocampus,,frozen,,,single nucleus,,False,True,90+,years,,"scrnaSeq,ATACSeq"
+1182,H21.33.004,1380_A02,FACS well,brain,hippocampus,,frozen,,,single nucleus,,False,True,90+,years,,"scrnaSeq,ATACSeq"
+1183,H21.33.003,1380_B02,FACS well,brain,hippocampus,,frozen,,,single nucleus,,False,True,78,years,,"scrnaSeq,ATACSeq"
+1184,H21.33.002,1403_B08,FACS well,brain,hippocampus,,frozen,,,single nucleus,,False,True,70,years,,"scrnaSeq,ATACSeq"
+1185,H20.33.036,1403_A08,FACS well,brain,hippocampus,,frozen,,,single nucleus,,False,True,90+,years,,"scrnaSeq,ATACSeq"
+1186,H21.33.026,1415_A01,FACS well,brain,hippocampus,,frozen,,,single nucleus,,False,True,90+,years,,"scrnaSeq,ATACSeq"
+1187,H21.33.032,1426_B02,FACS well,brain,hippocampus,,frozen,,,single nucleus,,False,True,90+,years,,"scrnaSeq,ATACSeq"
+1188,H20.33.029,1426_A02,FACS well,brain,hippocampus,,frozen,,,single nucleus,,False,True,90+,years,,"scrnaSeq,ATACSeq"
+1189,H20.33.039,1428_A04,FACS well,brain,hippocampus,,frozen,,,single nucleus,,False,True,90+,years,,"scrnaSeq,ATACSeq"
+1190,H20.33.005,1428_B04,FACS well,brain,hippocampus,,frozen,,,single nucleus,,False,True,90+,years,,"scrnaSeq,ATACSeq"
+1191,H21.33.027,1438_B02,FACS well,brain,hippocampus,,frozen,,,single nucleus,,False,True,90+,years,,"scrnaSeq,ATACSeq"
+1192,H21.33.018,1438_A02,FACS well,brain,hippocampus,,frozen,,,single nucleus,,False,True,89,years,,"scrnaSeq,ATACSeq"
+1193,H20.33.040,1440_B04,FACS well,brain,hippocampus,,frozen,,,single nucleus,,False,True,90+,years,,"scrnaSeq,ATACSeq"
+1194,H21.33.038,1440_A04,FACS well,brain,hippocampus,,frozen,,,single nucleus,,False,True,84,years,,"scrnaSeq,ATACSeq"
+1195,H21.33.013,1444_A08,FACS well,brain,hippocampus,,frozen,,,single nucleus,,False,True,90+,years,,"scrnaSeq,ATACSeq"
+1196,H21.33.039,1444_B08,FACS well,brain,hippocampus,,frozen,,,single nucleus,,False,True,88,years,,"scrnaSeq,ATACSeq"
+1197,H20.33.027,1765_A06,FACS well,brain,lateral entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,90+,years,,"scrnaSeq,ATACSeq"
+1198,H20.33.019,1765_B06,FACS well,brain,lateral entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,87,years,,"scrnaSeq,ATACSeq"
+1199,H20.33.033,1772_A05,FACS well,brain,lateral entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,68,years,,"scrnaSeq,ATACSeq"
+1200,H21.33.002,1772_B05,FACS well,brain,lateral entorhinal cortex,28.0,frozen,,,single nucleus,,False,True,70,years,,"scrnaSeq,ATACSeq"
+1201,H21.33.003,M1HX_230213_437_2_B01,FACS well,brain,inferior temporal gyrus,20.0,frozen,,,single nucleus,,False,True,78,years,,scrnaSeq
+1202,H21.33.026,M1HX_230220_401_1_A01,FACS well,brain,inferior temporal gyrus,20.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+1203,H21.33.022,M1HX_230220_403_1_B01,FACS well,brain,inferior temporal gyrus,20.0,frozen,,,single nucleus,,False,True,82,years,,scrnaSeq
+1204,H21.33.013,M1HX_230220_405_2_A01,FACS well,brain,inferior temporal gyrus,20.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+1205,H21.33.019,M1HX_230220_407_2_B01,FACS well,brain,inferior temporal gyrus,20.0,frozen,,,single nucleus,,False,True,75,years,,scrnaSeq
+1206,H21.33.018,M1HX_230224_431_1_A01,FACS well,brain,inferior temporal gyrus,20.0,frozen,,,single nucleus,,False,True,89,years,,scrnaSeq
+1207,H21.33.004,M1HX_230224_433_1_B01,FACS well,brain,inferior temporal gyrus,20.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+1208,H21.33.002,M1HX_230224_435_1_C01,FACS well,brain,inferior temporal gyrus,20.0,frozen,,,single nucleus,,False,True,70,years,,scrnaSeq
+1209,H20.33.039,M1HX_230224_437_1_D01,FACS well,brain,inferior temporal gyrus,20.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+1210,H20.33.040,M1HX_230309_401_1_A01,FACS well,brain,inferior temporal gyrus,20.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+1211,H20.33.040,M1HX_230309_402_1_A01,FACS well,brain,inferior temporal gyrus,20.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+1212,H20.33.016,M1HX_230309_403_1_B01,FACS well,brain,inferior temporal gyrus,20.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+1213,H20.33.035,M1HX_230309_405_2_A01,FACS well,brain,inferior temporal gyrus,20.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+1214,H20.33.017,M1HX_230309_407_2_B01,FACS well,brain,inferior temporal gyrus,20.0,frozen,,,single nucleus,,False,True,69,years,,scrnaSeq
+1215,H21.33.001,M1HX_230313_402_1_B01,FACS well,brain,inferior temporal gyrus,20.0,frozen,,,single nucleus,,False,True,80,years,,scrnaSeq
+1216,H20.33.013,M1HX_230313_404_2_B01,FACS well,brain,inferior temporal gyrus,20.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+1217,H20.33.011,M1HX_230313_406_1_A01,FACS well,brain,inferior temporal gyrus,20.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+1218,H21.33.033,M1HX_230323_401_1_B01,FACS well,brain,inferior temporal gyrus,20.0,frozen,,,single nucleus,,False,True,83,years,,scrnaSeq
+1219,H21.33.032,M1HX_230323_403_2_A01,FACS well,brain,inferior temporal gyrus,20.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+1220,H21.33.036,M1HX_230323_405_2_B01,FACS well,brain,inferior temporal gyrus,20.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+1221,H21.33.039,M1HX_230323_407_1_B01,FACS well,brain,inferior temporal gyrus,20.0,frozen,,,single nucleus,,False,True,88,years,,scrnaSeq
+1222,H20.33.005,M1HX_230327_401_1_C01,FACS well,brain,inferior temporal gyrus,20.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+1223,H21.33.035,M1HX_230327_403_2_A01,FACS well,brain,inferior temporal gyrus,20.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+1224,H21.33.028,M1HX_230327_405_2_B01,FACS well,brain,inferior temporal gyrus,20.0,frozen,,,single nucleus,,False,True,72,years,,scrnaSeq
+1225,H20.33.019,M1HX_230327_407_2_C01,FACS well,brain,inferior temporal gyrus,20.0,frozen,,,single nucleus,,False,True,87,years,,scrnaSeq
+1226,H20.33.001,M1HX_230331_431_1_A01,FACS well,brain,inferior temporal gyrus,20.0,frozen,,,single nucleus,,False,True,82,years,,scrnaSeq
+1227,H20.33.028,M1HX_230331_432_1_B01,FACS well,brain,inferior temporal gyrus,20.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+1228,H20.33.027,M1HX_230331_434_1_C01,FACS well,brain,inferior temporal gyrus,20.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+1229,H20.33.026,M1HX_230331_436_1_D01,FACS well,brain,inferior temporal gyrus,20.0,frozen,,,single nucleus,,False,True,75,years,,scrnaSeq
+1230,H20.33.046,M1HX_230403_401_2_A01,FACS well,brain,inferior temporal gyrus,20.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+1231,H20.33.018,M1HX_230403_403_2_B01,FACS well,brain,inferior temporal gyrus,20.0,frozen,,,single nucleus,,False,True,81,years,,scrnaSeq
+1232,H21.33.038,M1HX_230403_405_2_C01,FACS well,brain,inferior temporal gyrus,20.0,frozen,,,single nucleus,,False,True,84,years,,scrnaSeq
+1233,H20.33.012,M1HX_230403_407_2_D01,FACS well,brain,inferior temporal gyrus,20.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+1234,H20.33.015,M1HX_230405_401_1_A01,FACS well,brain,inferior temporal gyrus,20.0,frozen,,,single nucleus,,False,True,88,years,,scrnaSeq
+1235,H20.33.025,M1HX_230405_403_2_A01,FACS well,brain,inferior temporal gyrus,20.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+1236,H20.33.008,M1HX_230522_430_1_A01,FACS well,brain,inferior temporal gyrus,20.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+1237,H21.33.027,M1HX_230522_432_1_B01,FACS well,brain,inferior temporal gyrus,20.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+1238,H19.33.004,M1HX_230522_434_1_C01,FACS well,brain,inferior temporal gyrus,20.0,frozen,,,single nucleus,,False,True,80,years,,scrnaSeq
+1239,H20.33.036,M1HX_230522_436_1_D01,FACS well,brain,inferior temporal gyrus,20.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+1240,H20.33.037,M1HX_230523_401_2_A01,FACS well,brain,inferior temporal gyrus,20.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+1241,H20.33.029,M2HX_230227_401_2_A01,FACS well,brain,inferior temporal gyrus,20.0,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+1242,H20.33.031,M2HX_230227_403_2_B01,FACS well,brain,inferior temporal gyrus,20.0,frozen,,,single nucleus,,False,True,87,years,,scrnaSeq
+1243,H20.33.020,M2HX_230227_405_2_C01,FACS well,brain,inferior temporal gyrus,20.0,frozen,,,single nucleus,,False,True,81,years,,scrnaSeq
+1244,H20.33.033,M2HX_230227_407_2_D01,FACS well,brain,inferior temporal gyrus,20.0,frozen,,,single nucleus,,False,True,68,years,,scrnaSeq
+1245,H20.33.033,M2HX_230227_408_1_A01,FACS well,brain,inferior temporal gyrus,20.0,frozen,,,single nucleus,,False,True,68,years,,scrnaSeq
+1246,H20.30.001,980_C02,FACS well,brain,caudate nucleus,,frozen,,,single nucleus,,False,True,25,years,,"scrnaSeq,ATACSeq"
+1247,H20.30.002,988_C05,FACS well,brain,caudate nucleus,,frozen,,,single nucleus,,False,True,38,years,,"scrnaSeq,ATACSeq"
+1248,H20.30.002,897_E03,FACS well,brain,caudate nucleus,,frozen,,,single nucleus,,False,True,38,years,,"scrnaSeq,ATACSeq"
+1249,H18.30.001,988_D05,FACS well,brain,caudate nucleus,,frozen,,,single nucleus,,False,True,60,years,,"scrnaSeq,ATACSeq"
+1250,H20.30.002,930_A05,FACS well,brain,caudate nucleus,,frozen,,,single nucleus,,False,True,38,years,,"scrnaSeq,ATACSeq"
+1251,H18.30.001,891_A06,FACS well,brain,caudate nucleus,,frozen,,,single nucleus,,False,True,60,years,,"scrnaSeq,ATACSeq"
+1252,H20.30.001,930_E05,FACS well,brain,caudate nucleus,,frozen,,,single nucleus,,False,True,25,years,,"scrnaSeq,ATACSeq"
+1253,H18.30.001,847_A04,FACS well,brain,caudate nucleus,,frozen,,,single nucleus,,False,True,60,years,,"scrnaSeq,ATACSeq"
+1254,H20.30.001,930_C05,FACS well,brain,caudate nucleus,,frozen,,,single nucleus,,False,True,25,years,,"scrnaSeq,ATACSeq"
+1255,H18.30.002,M1TX_181114_001_A01_A01,FACS well,brain,caudate nucleus,,frozen,,,single nucleus,,False,True,50,years,,scrnaSeq
+1256,H18.30.002,M1TX_181114_001_B01_B01,FACS well,brain,caudate nucleus,,frozen,,,single nucleus,,False,True,50,years,,scrnaSeq
+1257,H19.30.002,M2TX_201106_201_A01_A01,FACS well,brain,caudate nucleus,,frozen,,,single nucleus,,False,True,29,years,,scrnaSeq
+1258,H19.30.002,M2TX_201106_201_B01_B01,FACS well,brain,caudate nucleus,,frozen,,,single nucleus,,False,True,29,years,,scrnaSeq
+1259,H19.30.001,M2TX_201120_202_A01_A01,FACS well,brain,caudate nucleus,,frozen,,,single nucleus,,False,True,42,years,,scrnaSeq
+1260,H19.30.001,M2TX_201120_202_B01_B01,FACS well,brain,caudate nucleus,,frozen,,,single nucleus,,False,True,42,years,,scrnaSeq
+1261,H20.33.027,M2AT_221028_221_A01,FACS well,brain,caudate nucleus,,frozen,,,single nucleus,,False,True,90+,years,,ATACSeq
+1262,H20.33.016,M2AT_221104_206_A01,FACS well,brain,caudate nucleus,,frozen,,,single nucleus,,False,True,90+,years,,ATACSeq
+1263,H20.33.019,M2AT_221028_221_B01,FACS well,brain,caudate nucleus,,frozen,,,single nucleus,,False,True,87,years,,ATACSeq
+1264,H20.33.001,M2AT_221028_221_C01,FACS well,brain,caudate nucleus,,frozen,,,single nucleus,,False,True,82,years,,ATACSeq
+1265,H20.33.039,M2AT_221104_206_B01,FACS well,brain,caudate nucleus,,frozen,,,single nucleus,,False,True,90+,years,,ATACSeq
+1266,H21.33.003,M1AT_221110_206_A01,FACS well,brain,caudate nucleus,,frozen,,,single nucleus,,False,True,78,years,,ATACSeq
+1267,H20.33.040,M2AT_221104_206_C01,FACS well,brain,caudate nucleus,,frozen,,,single nucleus,,False,True,90+,years,,ATACSeq
+1268,H21.33.004,M1AT_221110_206_B01,FACS well,brain,caudate nucleus,,frozen,,,single nucleus,,False,True,90+,years,,ATACSeq
+1269,H20.33.031,M2AT_221115_226_D01,FACS well,brain,caudate nucleus,,frozen,,,single nucleus,,False,True,87,years,,ATACSeq
+1270,H21.33.019,M1AT_221110_206_C01,FACS well,brain,caudate nucleus,,frozen,,,single nucleus,,False,True,75,years,,ATACSeq
+1271,H20.33.046,M2AT_221114_221_C01,FACS well,brain,caudate nucleus,,frozen,,,single nucleus,,False,True,90+,years,,ATACSeq
+1272,H19.33.004,M2AT_221114_221_D01,FACS well,brain,caudate nucleus,,frozen,,,single nucleus,,False,True,80,years,,ATACSeq
+1273,H20.33.026,M2AT_221115_226_A01,FACS well,brain,caudate nucleus,,frozen,,,single nucleus,,False,True,75,years,,ATACSeq
+1274,H20.33.028,M2AT_221115_226_B01,FACS well,brain,caudate nucleus,,frozen,,,single nucleus,,False,True,90+,years,,ATACSeq
+1275,H20.33.029,M2AT_221115_226_C01,FACS well,brain,caudate nucleus,,frozen,,,single nucleus,,False,True,90+,years,,ATACSeq
+1276,H20.33.012,M1AT_221117_206_A01,FACS well,brain,caudate nucleus,,frozen,,,single nucleus,,False,True,90+,years,,ATACSeq
+1277,H21.33.001,M1AT_221117_206_B01,FACS well,brain,caudate nucleus,,frozen,,,single nucleus,,False,True,80,years,,ATACSeq
+1278,H20.33.020,M2AT_221121_226_A01,FACS well,brain,caudate nucleus,,frozen,,,single nucleus,,False,True,81,years,,ATACSeq
+1279,H20.33.033,M2AT_221121_226_B01,FACS well,brain,caudate nucleus,,frozen,,,single nucleus,,False,True,68,years,,ATACSeq
+1280,H20.33.036,M2AT_221121_226_C01,FACS well,brain,caudate nucleus,,frozen,,,single nucleus,,False,True,90+,years,,ATACSeq
+1281,H20.33.037,M2AT_221121_226_D01,FACS well,brain,caudate nucleus,,frozen,,,single nucleus,,False,True,90+,years,,ATACSeq
+1282,H21.33.013,M2AT_221122_221_B01,FACS well,brain,caudate nucleus,,frozen,,,single nucleus,,False,True,90+,years,,ATACSeq
+1283,H21.33.022,M2AT_221122_221_C01,FACS well,brain,caudate nucleus,,frozen,,,single nucleus,,False,True,82,years,,ATACSeq
+1284,H21.33.018,M2AT_221122_221_D01,FACS well,brain,caudate nucleus,,frozen,,,single nucleus,,False,True,89,years,,ATACSeq
+1285,H21.33.026,M1AT_221129_221_A01,FACS well,brain,caudate nucleus,,frozen,,,single nucleus,,False,True,90+,years,,ATACSeq
+1286,H20.33.013,M2AT_221202_226_B01,FACS well,brain,caudate nucleus,,frozen,,,single nucleus,,False,True,90+,years,,ATACSeq
+1287,H20.33.035,M2AT_221202_226_C01,FACS well,brain,caudate nucleus,,frozen,,,single nucleus,,False,True,90+,years,,ATACSeq
+1288,H21.33.027,M1AT_221129_221_B01,FACS well,brain,caudate nucleus,,frozen,,,single nucleus,,False,True,90+,years,,ATACSeq
+1289,H21.33.028,M1AT_221129_221_C01,FACS well,brain,caudate nucleus,,frozen,,,single nucleus,,False,True,72,years,,ATACSeq
+1290,H21.33.032,M1AT_221129_221_D01,FACS well,brain,caudate nucleus,,frozen,,,single nucleus,,False,True,90+,years,,ATACSeq
+1291,H21.33.033,M1AT_221201_221_A01,FACS well,brain,caudate nucleus,,frozen,,,single nucleus,,False,True,83,years,,ATACSeq
+1292,H21.33.035,M1AT_221201_221_B01,FACS well,brain,caudate nucleus,,frozen,,,single nucleus,,False,True,90+,years,,ATACSeq
+1293,H21.33.036,M1AT_221201_221_C01,FACS well,brain,caudate nucleus,,frozen,,,single nucleus,,False,True,90+,years,,ATACSeq
+1294,H21.33.038,M1AT_221201_221_D01,FACS well,brain,caudate nucleus,,frozen,,,single nucleus,,False,True,84,years,,ATACSeq
+1295,H20.33.018,M2AT_221202_226_A01,FACS well,brain,caudate nucleus,,frozen,,,single nucleus,,False,True,81,years,,ATACSeq
+1296,H20.33.011,M2AT_221014_227_C01,FACS well,brain,caudate nucleus,,frozen,,,single nucleus,,False,True,90+,years,,ATACSeq
+1297,H20.33.025,M2AT_221021_206_A01,FACS well,brain,caudate nucleus,,frozen,,,single nucleus,,False,True,90+,years,,ATACSeq
+1298,H20.33.017,M2AT_221021_206_B01,FACS well,brain,caudate nucleus,,frozen,,,single nucleus,,False,True,69,years,,ATACSeq
+1299,H20.33.015,M2AT_221021_206_C01,FACS well,brain,caudate nucleus,,frozen,,,single nucleus,,False,True,88,years,,ATACSeq
+1300,H21.33.039,M1AT_221212_206_A01,FACS well,brain,caudate nucleus,,frozen,,,single nucleus,,False,True,88,years,,ATACSeq
+1301,H21.33.003,1510_A05,FACS well,brain,caudate nucleus,,frozen,,,single nucleus,,False,True,78,years,,"scrnaSeq,ATACSeq"
+1302,H21.33.004,1510_B05,FACS well,brain,caudate nucleus,,frozen,,,single nucleus,,False,True,90+,years,,"scrnaSeq,ATACSeq"
+1303,H21.33.019,1510_C05,FACS well,brain,caudate nucleus,,frozen,,,single nucleus,,False,True,75,years,,"scrnaSeq,ATACSeq"
+1304,H20.33.012,1520_A04,FACS well,brain,caudate nucleus,,frozen,,,single nucleus,,False,True,90+,years,,"scrnaSeq,ATACSeq"
+1305,H21.33.001,1520_B04,FACS well,brain,caudate nucleus,,frozen,,,single nucleus,,False,True,80,years,,"scrnaSeq,ATACSeq"
+1306,H20.33.016,1804_B06,FACS well,brain,caudate nucleus,,frozen,,,single nucleus,,False,True,90+,years,,"scrnaSeq,ATACSeq"
+1307,H21.33.036,1902_B08,FACS well,brain,angular gyrus,39.0,frozen,,,single nucleus,,False,True,90+,years,,"scrnaSeq,ATACSeq"
+1308,H19.33.004,1922_A05,FACS well,brain,angular gyrus,39.0,frozen,,,single nucleus,,False,True,80,years,,"scrnaSeq,ATACSeq"
+1309,H20.33.008,1922_B05,FACS well,brain,angular gyrus,39.0,frozen,,,single nucleus,,False,True,90+,years,,"scrnaSeq,ATACSeq"
+1310,H20.33.026,1922_C05,FACS well,brain,angular gyrus,39.0,frozen,,,single nucleus,,False,True,75,years,,"scrnaSeq,ATACSeq"
+1311,H20.33.029,1928_A10,FACS well,brain,angular gyrus,39.0,frozen,,,single nucleus,,False,True,90+,years,,"scrnaSeq,ATACSeq"
+1312,H20.33.040,1928_B10,FACS well,brain,angular gyrus,39.0,frozen,,,single nucleus,,False,True,90+,years,,"scrnaSeq,ATACSeq"
+1313,H21.33.003,1928_C10,FACS well,brain,angular gyrus,39.0,frozen,,,single nucleus,,False,True,78,years,,"scrnaSeq,ATACSeq"
+1314,H20.33.046,1936_A05,FACS well,brain,angular gyrus,39.0,frozen,,,single nucleus,,False,True,90+,years,,"scrnaSeq,ATACSeq"
+1315,H21.33.019,1936_B05,FACS well,brain,angular gyrus,39.0,frozen,,,single nucleus,,False,True,75,years,,"scrnaSeq,ATACSeq"
+1316,H21.33.035,1936_C05,FACS well,brain,angular gyrus,39.0,frozen,,,single nucleus,,False,True,90+,years,,"scrnaSeq,ATACSeq"
+1317,H20.33.027,1954_A05,FACS well,brain,angular gyrus,39.0,frozen,,,single nucleus,,False,True,90+,years,,"scrnaSeq,ATACSeq"
+1318,H20.33.019,1954_B05,FACS well,brain,angular gyrus,39.0,frozen,,,single nucleus,,False,True,87,years,,"scrnaSeq,ATACSeq"
+1319,H20.33.031,1954.1_D05,FACS well,brain,angular gyrus,39.0,frozen,,,single nucleus,,False,True,87,years,,"scrnaSeq,ATACSeq"
+1320,H20.33.035,1957_A08,FACS well,brain,angular gyrus,39.0,frozen,,,single nucleus,,False,True,90+,years,,"scrnaSeq,ATACSeq"
+1321,H20.33.016,1957_B08,FACS well,brain,angular gyrus,39.0,frozen,,,single nucleus,,False,True,90+,years,,"scrnaSeq,ATACSeq"
+1322,H20.33.039,1957_C08,FACS well,brain,angular gyrus,39.0,frozen,,,single nucleus,,False,True,90+,years,,"scrnaSeq,ATACSeq"
+1323,H21.33.002,1963_A06,FACS well,brain,angular gyrus,39.0,frozen,,,single nucleus,,False,True,70,years,,"scrnaSeq,ATACSeq"
+1324,H21.33.018,1963_B06,FACS well,brain,angular gyrus,39.0,frozen,,,single nucleus,,False,True,89,years,,"scrnaSeq,ATACSeq"
+1325,H21.33.027,1963_C06,FACS well,brain,angular gyrus,39.0,frozen,,,single nucleus,,False,True,90+,years,,"scrnaSeq,ATACSeq"
+1326,H20.33.012,1967_A09,FACS well,brain,angular gyrus,39.0,frozen,,,single nucleus,,False,True,90+,years,,"scrnaSeq,ATACSeq"
+1327,H21.33.028,1967_B09,FACS well,brain,angular gyrus,39.0,frozen,,,single nucleus,,False,True,72,years,,"scrnaSeq,ATACSeq"
+1328,H21.33.036,1967_C09,FACS well,brain,angular gyrus,39.0,frozen,,,single nucleus,,False,True,90+,years,,"scrnaSeq,ATACSeq"
+1329,H20.33.025,1971_A04,FACS well,brain,angular gyrus,39.0,frozen,,,single nucleus,,False,True,90+,years,,"scrnaSeq,ATACSeq"
+1330,H20.33.036,1971_B04,FACS well,brain,angular gyrus,39.0,frozen,,,single nucleus,,False,True,90+,years,,"scrnaSeq,ATACSeq"
+1331,H21.33.033,1971_C04,FACS well,brain,angular gyrus,39.0,frozen,,,single nucleus,,False,True,83,years,,"scrnaSeq,ATACSeq"
+1332,H20.33.005,1997_A05,FACS well,brain,angular gyrus,39.0,frozen,,,single nucleus,,False,True,90+,years,,"scrnaSeq,ATACSeq"
+1333,H21.33.022,1997_B05,FACS well,brain,angular gyrus,39.0,frozen,,,single nucleus,,False,True,82,years,,"scrnaSeq,ATACSeq"
+1334,H21.33.039,1997_C05,FACS well,brain,angular gyrus,39.0,frozen,,,single nucleus,,False,True,88,years,,"scrnaSeq,ATACSeq"
+1335,H21.33.001,2001_A08,FACS well,brain,angular gyrus,39.0,frozen,,,single nucleus,,False,True,80,years,,"scrnaSeq,ATACSeq"
+1336,H20.33.015,2001_B08,FACS well,brain,angular gyrus,39.0,frozen,,,single nucleus,,False,True,88,years,,"scrnaSeq,ATACSeq"
+1337,H21.33.004,2001_C08,FACS well,brain,angular gyrus,39.0,frozen,,,single nucleus,,False,True,90+,years,,"scrnaSeq,ATACSeq"
+1338,H21.33.002,2070_A05,FACS well,brain,angular gyrus,39.0,frozen,,,single nucleus,,False,True,70,years,,"scrnaSeq,ATACSeq"
+1339,H21.33.022,2070_B05,FACS well,brain,angular gyrus,39.0,frozen,,,single nucleus,,False,True,82,years,,"scrnaSeq,ATACSeq"
+1340,H21.33.027,2070_C05,FACS well,brain,angular gyrus,39.0,frozen,,,single nucleus,,False,True,90+,years,,"scrnaSeq,ATACSeq"
+1341,H21.33.033,2075_C10,FACS well,brain,angular gyrus,39.0,frozen,,,single nucleus,,False,True,83,years,,"scrnaSeq,ATACSeq"
+1342,H21.33.013,2075_B10,FACS well,brain,angular gyrus,39.0,frozen,,,single nucleus,,False,True,90+,years,,"scrnaSeq,ATACSeq"
+1343,H20.33.015,2075_A10,FACS well,brain,angular gyrus,39.0,frozen,,,single nucleus,,False,True,88,years,,"scrnaSeq,ATACSeq"
+1344,H20.33.025,2094_A07,FACS well,brain,angular gyrus,39.0,frozen,,,single nucleus,,False,True,90+,years,,"scrnaSeq,ATACSeq"
+1345,H20.33.019,2094_B07,FACS well,brain,angular gyrus,39.0,frozen,,,single nucleus,,False,True,87,years,,"scrnaSeq,ATACSeq"
+1346,H21.33.039,2094_C07,FACS well,brain,angular gyrus,39.0,frozen,,,single nucleus,,False,True,88,years,,"scrnaSeq,ATACSeq"
+1347,H21.33.028,2100_A11,FACS well,brain,angular gyrus,39.0,frozen,,,single nucleus,,False,True,72,years,,"scrnaSeq,ATACSeq"
+1348,H21.33.035,2100_B11,FACS well,brain,angular gyrus,39.0,frozen,,,single nucleus,,False,True,90+,years,,"scrnaSeq,ATACSeq"
+1349,H20.33.046,2121_A04,FACS well,brain,insular cortex,13.0,frozen,,,single nucleus,,False,True,90+,years,,"scrnaSeq,ATACSeq"
+1350,H20.33.029,2121_B04,FACS well,brain,insular cortex,13.0,frozen,,,single nucleus,,False,True,90+,years,,"scrnaSeq,ATACSeq"
+1351,H20.33.020,2121_C04,FACS well,brain,insular cortex,13.0,frozen,,,single nucleus,,False,True,81,years,,"scrnaSeq,ATACSeq"
+1352,H20.33.011,2134_A05,FACS well,brain,insular cortex,13.0,frozen,,,single nucleus,,False,True,90+,years,,"scrnaSeq,ATACSeq"
+1353,H20.33.013,2134_B05,FACS well,brain,insular cortex,13.0,frozen,,,single nucleus,,False,True,90+,years,,"scrnaSeq,ATACSeq"
+1354,H20.33.015,2134_C05,FACS well,brain,insular cortex,13.0,frozen,,,single nucleus,,False,True,88,years,,"scrnaSeq,ATACSeq"
+1355,H20.33.017,2150_A07,FACS well,brain,insular cortex,13.0,frozen,,,single nucleus,,False,True,69,years,,"scrnaSeq,ATACSeq"
+1356,H20.33.018,2150_B07,FACS well,brain,insular cortex,13.0,frozen,,,single nucleus,,False,True,81,years,,"scrnaSeq,ATACSeq"
+1357,H20.33.008,2150_C07,FACS well,brain,insular cortex,13.0,frozen,,,single nucleus,,False,True,90+,years,,"scrnaSeq,ATACSeq"
+1358,H21.33.028,2175_A09,FACS well,brain,insular cortex,13.0,frozen,,,single nucleus,,False,True,72,years,,"scrnaSeq,ATACSeq"
+1359,H21.33.033,2175_B09,FACS well,brain,insular cortex,13.0,frozen,,,single nucleus,,False,True,83,years,,"scrnaSeq,ATACSeq"
+1360,H21.33.001,2184_A06,FACS well,brain,insular cortex,13.0,frozen,,,single nucleus,,False,True,80,years,,"scrnaSeq,ATACSeq"
+1361,H20.33.027,2184_B06,FACS well,brain,insular cortex,13.0,frozen,,,single nucleus,,False,True,90+,years,,"scrnaSeq,ATACSeq"
+1362,H21.33.004,2184_C06,FACS well,brain,insular cortex,13.0,frozen,,,single nucleus,,False,True,90+,years,,"scrnaSeq,ATACSeq"
+1363,H20.33.035,2196_A05,FACS well,brain,insular cortex,13.0,frozen,,,single nucleus,,False,True,90+,years,,"scrnaSeq,ATACSeq"
+1364,H21.33.032,2196_B05,FACS well,brain,insular cortex,13.0,frozen,,,single nucleus,,False,True,90+,years,,"scrnaSeq,ATACSeq"
+1365,H21.33.036,2196_C05,FACS well,brain,insular cortex,13.0,frozen,,,single nucleus,,False,True,90+,years,,"scrnaSeq,ATACSeq"
+1366,H20.33.025,2211_A09,FACS well,brain,insular cortex,13.0,frozen,,,single nucleus,,False,True,90+,years,,"scrnaSeq,ATACSeq"
+1367,H20.33.005,2211_B09,FACS well,brain,insular cortex,13.0,frozen,,,single nucleus,,False,True,90+,years,,"scrnaSeq,ATACSeq"
+1368,H21.33.022,2211_C09,FACS well,brain,insular cortex,13.0,frozen,,,single nucleus,,False,True,82,years,,"scrnaSeq,ATACSeq"
+1369,H20.33.019,2217_A04,FACS well,brain,insular cortex,13.0,frozen,,,single nucleus,,False,True,87,years,,"scrnaSeq,ATACSeq"
+1370,H20.33.036,2217_B04,FACS well,brain,insular cortex,13.0,frozen,,,single nucleus,,False,True,90+,years,,"scrnaSeq,ATACSeq"
+1371,H21.33.002,2217_C04,FACS well,brain,insular cortex,13.0,frozen,,,single nucleus,,False,True,70,years,,"scrnaSeq,ATACSeq"
+1372,H20.33.012,2223_A08,FACS well,brain,insular cortex,13.0,frozen,,,single nucleus,,False,True,90+,years,,"scrnaSeq,ATACSeq"
+1373,H21.33.035,2223_B08,FACS well,brain,insular cortex,13.0,frozen,,,single nucleus,,False,True,90+,years,,"scrnaSeq,ATACSeq"
+1374,H21.33.039,2223_1_D08,FACS well,brain,insular cortex,13.0,frozen,,,single nucleus,,False,True,88,years,,"scrnaSeq,ATACSeq"
+1375,H19.33.004,2228_A05,FACS well,brain,insular cortex,13.0,frozen,,,single nucleus,,False,True,80,years,,"scrnaSeq,ATACSeq"
+1376,H21.33.018,2228_B05,FACS well,brain,insular cortex,13.0,frozen,,,single nucleus,,False,True,89,years,,"scrnaSeq,ATACSeq"
+1377,H21.33.038,2228_C05,FACS well,brain,insular cortex,13.0,frozen,,,single nucleus,,False,True,84,years,,"scrnaSeq,ATACSeq"
+1378,H21.33.003,2239_A06,FACS well,brain,insular cortex,13.0,frozen,,,single nucleus,,False,True,78,years,,"scrnaSeq,ATACSeq"
+1379,H21.33.027,2239_C06,FACS well,brain,insular cortex,13.0,frozen,,,single nucleus,,False,True,90+,years,,"scrnaSeq,ATACSeq"
+1380,H21.33.026,2351_B09,FACS well,brain,insular cortex,13.0,frozen,,,single nucleus,,False,True,90+,years,,"scrnaSeq,ATACSeq"
+1381,H20.33.011,1467_C08,FACS well,brain,caudate nucleus,,frozen,,,single nucleus,,False,True,90+,years,,"scrnaSeq,ATACSeq"
+1382,H20.33.025,1476_A06,FACS well,brain,caudate nucleus,,frozen,,,single nucleus,,False,True,90+,years,,"scrnaSeq,ATACSeq"
+1383,H20.33.017,1476_B06,FACS well,brain,caudate nucleus,,frozen,,,single nucleus,,False,True,69,years,,"scrnaSeq,ATACSeq"
+1384,H20.33.015,1476_C06,FACS well,brain,caudate nucleus,,frozen,,,single nucleus,,False,True,88,years,,"scrnaSeq,ATACSeq"
+1385,H20.33.027,1485_A05,FACS well,brain,caudate nucleus,,frozen,,,single nucleus,,False,True,90+,years,,"scrnaSeq,ATACSeq"
+1386,H20.33.019,1485_B05,FACS well,brain,caudate nucleus,,frozen,,,single nucleus,,False,True,87,years,,"scrnaSeq,ATACSeq"
+1387,H20.33.001,1485_C05,FACS well,brain,caudate nucleus,,frozen,,,single nucleus,,False,True,82,years,,"scrnaSeq,ATACSeq"
+1388,H20.33.039,1498_B06,FACS well,brain,caudate nucleus,,frozen,,,single nucleus,,False,True,90+,years,,"scrnaSeq,ATACSeq"
+1389,H20.33.040,1498_C06,FACS well,brain,caudate nucleus,,frozen,,,single nucleus,,False,True,90+,years,,"scrnaSeq,ATACSeq"
+1390,H20.33.018,1531_A05,FACS well,brain,caudate nucleus,,frozen,,,single nucleus,,False,True,81,years,,"scrnaSeq,ATACSeq"
+1391,H20.33.013,1531_B05,FACS well,brain,caudate nucleus,,frozen,,,single nucleus,,False,True,90+,years,,"scrnaSeq,ATACSeq"
+1392,H20.33.035,1531_C05,FACS well,brain,caudate nucleus,,frozen,,,single nucleus,,False,True,90+,years,,"scrnaSeq,ATACSeq"
+1393,H20.33.001,1981_A09,FACS well,brain,angular gyrus,39.0,frozen,,,single nucleus,,False,True,82,years,,"scrnaSeq,ATACSeq"
+1394,H21.33.026,1981_B09,FACS well,brain,angular gyrus,39.0,frozen,,,single nucleus,,False,True,90+,years,,"scrnaSeq,ATACSeq"
+1395,H21.33.032,1981_C09,FACS well,brain,angular gyrus,39.0,frozen,,,single nucleus,,False,True,90+,years,,"scrnaSeq,ATACSeq"
+1396,H20.33.011,1987_A05,FACS well,brain,angular gyrus,39.0,frozen,,,single nucleus,,False,True,90+,years,,"scrnaSeq,ATACSeq"
+1397,H21.33.013,1987_B05,FACS well,brain,angular gyrus,39.0,frozen,,,single nucleus,,False,True,90+,years,,"scrnaSeq,ATACSeq"
+1398,H21.33.038,1987_C05,FACS well,brain,angular gyrus,39.0,frozen,,,single nucleus,,False,True,84,years,,"scrnaSeq,ATACSeq"
+1399,H20.33.013,1991_A09,FACS well,brain,angular gyrus,39.0,frozen,,,single nucleus,,False,True,90+,years,,"scrnaSeq,ATACSeq"
+1400,H20.33.033,1991_B09,FACS well,brain,angular gyrus,39.0,frozen,,,single nucleus,,False,True,68,years,,"scrnaSeq,ATACSeq"
+1401,H20.33.037,1991_C09,FACS well,brain,angular gyrus,39.0,frozen,,,single nucleus,,False,True,90+,years,,"scrnaSeq,ATACSeq"
+1402,H20.33.018,2007_A06,FACS well,brain,angular gyrus,39.0,frozen,,,single nucleus,,False,True,81,years,,"scrnaSeq,ATACSeq"
+1403,H20.33.020,2007_B06,FACS well,brain,angular gyrus,39.0,frozen,,,single nucleus,,False,True,81,years,,"scrnaSeq,ATACSeq"
+1404,H20.33.017,2022_A05,FACS well,brain,angular gyrus,39.0,frozen,,,single nucleus,,False,True,69,years,,"scrnaSeq,ATACSeq"
+1405,H20.33.028,2022_B05,FACS well,brain,angular gyrus,39.0,frozen,,,single nucleus,,False,True,90+,years,,"scrnaSeq,ATACSeq"
+1406,H20.33.036,2027_A09,FACS well,brain,angular gyrus,39.0,frozen,,,single nucleus,,False,True,90+,years,,"scrnaSeq,ATACSeq"
+1407,H21.33.018,2027_B09,FACS well,brain,angular gyrus,39.0,frozen,,,single nucleus,,False,True,89,years,,"scrnaSeq,ATACSeq"
+1408,H20.33.012,2065_A09,FACS well,brain,angular gyrus,39.0,frozen,,,single nucleus,,False,True,90+,years,,"scrnaSeq,ATACSeq"
+1409,H20.33.005,2065_B09,FACS well,brain,angular gyrus,39.0,frozen,,,single nucleus,,False,True,90+,years,,"scrnaSeq,ATACSeq"
+1410,H20.33.037,2065_C09,FACS well,brain,angular gyrus,39.0,frozen,,,single nucleus,,False,True,90+,years,,"scrnaSeq,ATACSeq"
+1411,H20.33.031,2109_A08,FACS well,brain,insular cortex,13.0,frozen,,,single nucleus,,False,True,87,years,,"scrnaSeq,ATACSeq"
+1412,H20.33.033,2109_B08,FACS well,brain,insular cortex,13.0,frozen,,,single nucleus,,False,True,68,years,,"scrnaSeq,ATACSeq"
+1413,H20.33.016,2109_C08,FACS well,brain,insular cortex,13.0,frozen,,,single nucleus,,False,True,90+,years,,"scrnaSeq,ATACSeq"
+1414,H20.33.037,2117_A11,FACS well,brain,insular cortex,13.0,frozen,,,single nucleus,,False,True,90+,years,,"scrnaSeq,ATACSeq"
+1415,H20.33.039,2117_B11,FACS well,brain,insular cortex,13.0,frozen,,,single nucleus,,False,True,90+,years,,"scrnaSeq,ATACSeq"
+1416,H20.33.040,2117_C11,FACS well,brain,insular cortex,13.0,frozen,,,single nucleus,,False,True,90+,years,,"scrnaSeq,ATACSeq"
+1417,H20.33.026,2169_A06,FACS well,brain,insular cortex,13.0,frozen,,,single nucleus,,False,True,75,years,,"scrnaSeq,ATACSeq"
+1418,H20.33.001,2169_B06,FACS well,brain,insular cortex,13.0,frozen,,,single nucleus,,False,True,82,years,,"scrnaSeq,ATACSeq"
+1419,H20.33.028,2169_C06,FACS well,brain,insular cortex,13.0,frozen,,,single nucleus,,False,True,90+,years,,"scrnaSeq,ATACSeq"
+1420,H20.33.018,2252_A07,FACS well,brain,insular cortex,13.0,frozen,,,single nucleus,,False,True,81,years,,"scrnaSeq,ATACSeq"
+1421,H20.33.028,2252_B07,FACS well,brain,insular cortex,13.0,frozen,,,single nucleus,,False,True,90+,years,,"scrnaSeq,ATACSeq"
+1422,H20.33.033,2252_C07,FACS well,brain,insular cortex,13.0,frozen,,,single nucleus,,False,True,68,years,,"scrnaSeq,ATACSeq"
+1423,H20.33.020,2284_B09,FACS well,brain,angular gyrus,39.0,frozen,,,single nucleus,,False,True,81,years,,"scrnaSeq,ATACSeq"
+1424,H20.33.028,2284_A09,FACS well,brain,angular gyrus,39.0,frozen,,,single nucleus,,False,True,90+,years,,"scrnaSeq,ATACSeq"
+1425,H20.33.037,2284_C09,FACS well,brain,insular cortex,13.0,frozen,,,single nucleus,,False,True,90+,years,,"scrnaSeq,ATACSeq"
+1426,H20.33.033,M1HX_220317_151_2_B01,FACS well,brain,caudate nucleus,,frozen,,,single nucleus,,False,True,68,years,,scrnaSeq
+1427,H20.33.035,M1HX_220317_157_2_A01,FACS well,brain,caudate nucleus,,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+1428,H21.33.039,M1HX_220317_159_2_C01,FACS well,brain,caudate nucleus,,frozen,,,single nucleus,,False,True,88,years,,scrnaSeq
+1429,H20.33.025,M1HX_220321_151_1_C01,FACS well,brain,caudate nucleus,,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+1430,H21.33.018,M1HX_220321_155_1_D01,FACS well,brain,caudate nucleus,,frozen,,,single nucleus,,False,True,89,years,,scrnaSeq
+1431,H21.33.022,M1HX_220328_155_1_B01,FACS well,brain,caudate nucleus,,frozen,,,single nucleus,,False,True,82,years,,scrnaSeq
+1432,H21.33.028,M1HX_220328_159_1_C01,FACS well,brain,caudate nucleus,,frozen,,,single nucleus,,False,True,72,years,,scrnaSeq
+1433,H21.33.035,M1HX_220411_401_2_A01,FACS well,brain,caudate nucleus,,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+1434,H20.33.028,M1HX_220411_403_2_B01,FACS well,brain,caudate nucleus,,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+1435,H20.33.029,M1HX_220411_405_2_C01,FACS well,brain,caudate nucleus,,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+1436,H20.33.037,M1HX_220414_159_2_D01,FACS well,brain,caudate nucleus,,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+1437,H21.33.019,M1HX_220629_151_1_C01,FACS well,brain,caudate nucleus,,frozen,,,single nucleus,,False,True,75,years,,scrnaSeq
+1438,H21.33.003,M1HX_220707_151_2_A01,FACS well,brain,caudate nucleus,,frozen,,,single nucleus,,False,True,78,years,,scrnaSeq
+1439,H21.33.004,M1HX_220707_155_2_B01,FACS well,brain,caudate nucleus,,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+1440,H21.33.027,M1HX_221116_154_1_A01,FACS well,brain,caudate nucleus,,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+1441,H20.33.046,M2HX_220316_251_1_A01,FACS well,brain,caudate nucleus,,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+1442,H21.33.026,M2HX_220316_255_1_B01,FACS well,brain,caudate nucleus,,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+1443,H21.33.001,M2HX_220419_430_2_A01,FACS well,brain,caudate nucleus,,frozen,,,single nucleus,,False,True,80,years,,scrnaSeq
+1444,H21.33.032,M2HX_220419_434_2_B01,FACS well,brain,caudate nucleus,,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+1445,H21.33.036,M2HX_220419_435_2_C01,FACS well,brain,caudate nucleus,,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+1446,H21.33.002,M2HX_220425_431_1_A01,FACS well,brain,caudate nucleus,,frozen,,,single nucleus,,False,True,70,years,,scrnaSeq
+1447,H20.33.001,M2HX_220425_433_1_B01,FACS well,brain,caudate nucleus,,frozen,,,single nucleus,,False,True,82,years,,scrnaSeq
+1448,H21.33.033,M2HX_220425_435_1_C01,FACS well,brain,caudate nucleus,,frozen,,,single nucleus,,False,True,83,years,,scrnaSeq
+1449,H20.33.015,M2HX_220425_437_2_A01,FACS well,brain,caudate nucleus,,frozen,,,single nucleus,,False,True,88,years,,scrnaSeq
+1450,H20.33.016,M2HX_220426_430_2_B01,FACS well,brain,caudate nucleus,,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+1451,H20.33.031,M2HX_220426_432_2_C01,FACS well,brain,caudate nucleus,,frozen,,,single nucleus,,False,True,87,years,,scrnaSeq
+1452,H20.33.039,M2HX_220426_435_2_B01,FACS well,brain,caudate nucleus,,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+1453,H21.33.038,M2HX_220502_431_1_B01,FACS well,brain,caudate nucleus,,frozen,,,single nucleus,,False,True,84,years,,scrnaSeq
+1454,H20.33.017,M2HX_220502_433_2_A01,FACS well,brain,caudate nucleus,,frozen,,,single nucleus,,False,True,69,years,,scrnaSeq
+1455,H20.33.036,M2HX_220502_434_1_C01,FACS well,brain,caudate nucleus,,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+1456,H20.33.026,M2HX_220502_436_2_B01,FACS well,brain,caudate nucleus,,frozen,,,single nucleus,,False,True,75,years,,scrnaSeq
+1457,H21.33.013,M2HX_220503_430_2_C01,FACS well,brain,caudate nucleus,,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+1458,H19.33.004,M2HX_220504_432_2_A01,FACS well,brain,caudate nucleus,,frozen,,,single nucleus,,False,True,80,years,,scrnaSeq
+1459,H20.33.020,M2HX_220504_433_2_A01,FACS well,brain,caudate nucleus,,frozen,,,single nucleus,,False,True,81,years,,scrnaSeq
+1460,H20.33.027,M2HX_220510_431_1_A01,FACS well,brain,caudate nucleus,,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+1461,H20.33.027,M2HX_220510_432_1_A01,FACS well,brain,caudate nucleus,,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+1462,H20.33.012,M2HX_220510_433_1_B01,FACS well,brain,caudate nucleus,,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+1463,H20.33.012,M2HX_220510_434_1_B01,FACS well,brain,caudate nucleus,,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+1464,H20.33.018,M2HX_220510_435_1_C01,FACS well,brain,caudate nucleus,,frozen,,,single nucleus,,False,True,81,years,,scrnaSeq
+1465,H20.33.018,M2HX_220510_436_1_C01,FACS well,brain,caudate nucleus,,frozen,,,single nucleus,,False,True,81,years,,scrnaSeq
+1466,H20.33.019,M2HX_220519_431_1_B01,FACS well,brain,caudate nucleus,,frozen,,,single nucleus,,False,True,87,years,,scrnaSeq
+1467,H20.33.040,M2HX_220519_433_2_A01,FACS well,brain,caudate nucleus,,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+1468,H20.33.011,M2HX_220519_434_2_B01,FACS well,brain,caudate nucleus,,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+1469,H21.33.001,M2HX_220606_431_1_A01,FACS well,brain,caudate nucleus,,frozen,,,single nucleus,,False,True,80,years,,scrnaSeq
+1470,H21.33.032,M2HX_220606_433_2_A01,FACS well,brain,caudate nucleus,,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+1471,H21.33.036,M2HX_220606_435_1_A01,FACS well,brain,caudate nucleus,,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+1472,H20.33.013,M2HX_220621_431_1_A01,FACS well,brain,caudate nucleus,,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+1473,H20.33.005,M2HX_220621_433_1_B01,FACS well,brain,caudate nucleus,,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+1474,H20.33.008,M2HX_220621_435_2_A01,FACS well,brain,caudate nucleus,,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq
+1475,H20.33.008,M2HX_220621_436_1_A01,FACS well,brain,caudate nucleus,,frozen,,,single nucleus,,False,True,90+,years,,scrnaSeq

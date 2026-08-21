@@ -1,0 +1,8 @@
+Muller glia: kdr
+Retinal ganglion cells: pou4f2
+Horizontal cells: lhx1a
+Amacrine cells: tfap2a
+Cone cells: ntng2a
+Rod cells: gnat1
+Bipolar cells: vsx1
+Microglia: ptprc

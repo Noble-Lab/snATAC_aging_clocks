@@ -1,0 +1,34 @@
+name: reprod
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python=3.10
+  - numpy=1.26.*
+  - pandas
+  - scipy
+  - scikit-learn=1.6.*
+  - statsmodels
+  - matplotlib
+  - anndata
+  - scanpy
+  - pyranges
+  - pyliftover
+  - gseapy
+  - shap
+  - xgboost
+  - h5py
+  - pytables
+  - openpyxl
+  - requests
+  - tqdm
+  - leidenalg
+  - python-igraph
+  - pip
+  - r-base
+  - bioconductor-genomicranges
+  - bioconductor-rtracklayer
+  - bioconductor-rgreat
+  - meme
+  - pip:
+      - pyensembl
