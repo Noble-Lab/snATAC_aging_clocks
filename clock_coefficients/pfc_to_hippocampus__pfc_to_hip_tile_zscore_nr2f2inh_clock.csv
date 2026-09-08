@@ -1,0 +1,1401 @@
+project,clock_name,modality,cell_type,feature,coefficient,importance,rank,model_type
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_1015,0.5130980004462558,,154,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_1171,-0.739678894439476,,29,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_1192,0.4728275054262869,,195,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_1249,-0.5563758207861138,,110,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_1289,-0.7332888352299844,,30,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_1294,0.6450117539792879,,58,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_1355,0.5061931265038561,,161,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_136,-0.746454202233377,,28,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_1399,1.5024662701462967,,3,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_14,-0.6090117829134221,,75,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_1453,0.5432948242821296,,121,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_1457,-0.4721971080622495,,198,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_150,-0.5834041884935371,,95,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_1505,0.8008811544853275,,22,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_1513,0.6370153523927915,,63,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_1517,-0.5207611158486409,,138,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_1547,0.5147000547872184,,148,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_1591,0.5532514869026992,,113,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_1607,-0.4846950322635905,,189,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_1628,0.6346501747122307,,64,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_1636,-0.9074620461153644,,16,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_1671,0.5204506956115715,,140,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_1689,0.5301117167903662,,129,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_1703,-0.5824779983772101,,96,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_1789,0.6074356172393078,,78,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_1902,0.5191483437633458,,141,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_1925,0.713508933503116,,34,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_1942,-0.7310281825259657,,31,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_2027,-0.6039123189933668,,81,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_2063,-0.5206819931811684,,139,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_2080,0.611714955689974,,74,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_2103,0.5913096279614066,,88,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_212,0.5470304102234282,,116,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_2227,0.5745514513884697,,102,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_2229,-0.5451330652767556,,117,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_2295,-0.8609105609516041,,19,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_23,0.4740650554119903,,193,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_2339,-0.544797053754571,,119,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_2366,-0.5770314026725887,,100,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_2368,-0.4877121461724041,,185,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_2404,0.4955277336679051,,173,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_2412,0.9354672626072276,,15,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_2413,-0.7064290898408648,,35,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_2418,0.496959532310698,,172,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_2441,0.5338562104685505,,126,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_2459,-0.5165083128276015,,146,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_2482,0.5586347788162604,,108,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_2487,-0.4899144029498393,,181,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_2495,-0.5146171901223718,,149,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_2503,-0.5011378476451092,,167,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_2504,0.5031254135905728,,166,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_2550,0.5107429981392271,,158,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_2563,0.6423951842893303,,60,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_2570,-0.8478020980217672,,21,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_2600,0.5449693723710503,,118,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_2602,-0.5044340601894538,,164,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_2609,0.4894166592758754,,182,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_2642,-0.6885086437318548,,41,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_2643,0.4854984101793475,,187,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_2708,0.4726397257640759,,197,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_2749,-0.6120213508408816,,73,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_2785,-0.658735318763217,,52,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_2815,-0.5388768227701914,,125,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_2844,0.552353494285274,,114,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_2845,-0.533257369833147,,127,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_2921,-0.4727705353567159,,196,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_2935,1.0783100606623546,,8,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_2942,-0.5005253669504335,,168,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_2943,-0.5187404516104814,,143,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_295,-0.5248548728599305,,135,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_2952,0.5396951556440608,,124,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_3036,0.7011220208238538,,39,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_3058,0.5117948064184885,,156,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_3067,-0.6165720944625581,,71,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_3108,0.5725328138127321,,103,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_3127,0.8782905708191572,,18,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_3144,-0.669191118996562,,48,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_3154,-0.6531208535401071,,54,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_3175,0.6660669564036175,,49,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_3190,-0.6047108594677761,,80,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_3268,0.4849126824457107,,188,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_3274,-0.5845565582888061,,93,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_3284,0.6897310086906324,,40,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_3330,-0.6535770575001879,,53,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_3342,0.7024775439188296,,38,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_3379,-0.5722943588611819,,104,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_3445,-0.540645523442014,,122,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_3486,0.5141850250395934,,150,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_3498,0.4747449704932346,,192,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_3511,1.19586478808165,,6,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_3541,0.6130933285782544,,72,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_3553,-0.5164621005953435,,147,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_3566,0.5808446926708123,,98,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_3578,-0.5599689799329175,,107,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_3581,0.7480441189172565,,26,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_3591,0.6210632632075866,,69,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_3608,-0.6460165003220825,,57,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_3612,0.5124492507105858,,155,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_3622,-0.4886835442962605,,184,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_3636,-0.5252514766916139,,134,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_3708,0.4914921133282418,,178,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_3723,0.6084430799554509,,76,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_3740,-0.6384475045536202,,61,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_3744,0.6753107570283785,,46,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_3760,-0.5550669623006983,,112,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_3772,1.24392825881237,,4,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_3799,0.5269462612137841,,133,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_3823,-0.5003990611028993,,169,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_3841,0.6018390501874551,,82,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_3842,-0.5098225292755395,,160,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_3859,-0.7141393111185016,,33,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_3873,-0.6003564261575803,,84,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_3880,-0.638310385084812,,62,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_3895,0.8485638486275112,,20,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_3900,-0.6494713378526327,,55,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_3913,0.5137355351948569,,152,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_3915,-0.4903570337395025,,180,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_3929,0.5859723200361457,,91,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_393,-0.5821020603633189,,97,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_3932,1.6943553144582604,,2,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_3938,0.7177014033255826,,32,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_3961,-0.70249853540894,,37,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_3971,-0.5284461817342438,,131,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_3999,-0.5568504016734072,,109,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_4014,0.5137217744212623,,153,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_4086,-0.5110243730821469,,157,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_4129,-0.6814182561680439,,43,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_4130,0.5765066755429521,,101,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_4156,-0.521895141898168,,136,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_4181,-0.5910506836639547,,89,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_4191,-0.513886520201767,,151,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_4204,-0.5289250940715549,,130,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_4213,0.9769880381147472,,11,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_4217,-0.5961888927054942,,87,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_4236,-0.5001275522313761,,170,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_4271,-0.5889285972880983,,90,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_4282,-0.6082401910650014,,77,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_4284,0.4917051038424502,,177,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_4322,0.5189275336498851,,142,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_4323,0.9422931484616904,,14,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_4330,0.9059995760921752,,17,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_4337,0.4931349083019194,,175,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_4339,0.6470438958261431,,56,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_4345,0.5994908002976318,,85,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_4350,0.9784600552557386,,10,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_4364,0.5107350161399351,,159,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_4378,0.4908664594822038,,179,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_4384,-0.974744209694809,,12,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_4410,0.547943204467024,,115,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_4436,-0.5660724765832899,,105,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_4442,0.5805613468378624,,99,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_4445,-0.7944632119547649,,23,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_4448,-0.6658099719455112,,50,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_4463,1.8856261883114875,,1,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_4466,0.485920955596562,,186,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_4476,0.6602446411439831,,51,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_4497,-0.6769147466595793,,45,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_4500,0.4732693458569398,,194,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_4530,0.6752400786383548,,47,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_4534,-0.5184454453972878,,144,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_4547,-0.6248483635785432,,66,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_4571,-0.4937804950142261,,174,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_4576,-0.4998344451641106,,171,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_4578,-0.5551420584266481,,111,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_4582,0.4759887776324685,,191,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_4624,-0.9543082527073704,,13,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_4651,-0.5844414628404032,,94,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_4666,0.6872517326579385,,42,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_4704,-0.4929201131728791,,176,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_4767,-0.7757072777748574,,24,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_4771,0.7039340962797688,,36,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_4794,-0.521163779219439,,137,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_4796,0.6802053213391316,,44,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_4803,-0.5060351340139132,,162,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_4831,-2.0274613244948307,,0,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_4840,0.617513498651739,,70,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_4885,-0.6234338761586601,,67,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_4888,-0.6008810560656462,,83,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_4895,-0.6424202304765794,,59,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_4896,-0.5040874848262463,,165,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_4901,-0.4891996289827287,,183,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_4902,0.4838772658920061,,190,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_4903,0.747726290995676,,27,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_4909,-0.5277551270770956,,132,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_4914,0.4715400760433936,,199,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_4921,-0.5633422537425247,,106,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_4932,0.5971953458106004,,86,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_4959,0.7676032189365823,,25,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_4961,-0.5169341774252345,,145,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_4962,-0.5315881271350237,,128,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_685,0.5849255351386208,,92,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_706,0.5400752746200549,,123,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_718,-1.0907066904975091,,7,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_753,0.6225900865142793,,68,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_796,0.5434771989369519,,120,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_866,-1.2132051162105717,,5,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_902,-0.6047588930828884,,79,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_917,0.6286357154704973,,65,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_919,-0.5045124595080238,,163,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,All cells,tile_970,-1.0465393013173634,,9,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_1000,0.4104444880084035,,58,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_1152,0.4669532986189929,,39,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_1155,0.4578781345477336,,40,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_1191,-0.725625126283546,,7,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_1282,0.2986532634553959,,196,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_1372,-0.5300818582476164,,24,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_1380,-0.3464892039447906,,127,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_1399,0.3497348802597643,,126,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_1403,0.3302608857406642,,149,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_1427,-0.3898799862897848,,84,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_1433,0.300772450095132,,193,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_1446,0.4876543020069976,,33,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_1484,0.3170878351211158,,163,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_1503,0.4218394341307979,,46,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_1540,0.3452274913388071,,130,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_1547,0.3031193814159832,,187,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_1572,0.3300638826114274,,150,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_1598,-0.3084603513119331,,177,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_1616,-0.311059418244686,,173,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_1626,0.4104522214947993,,57,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_1673,0.3132247867929911,,168,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_1691,0.3897597719378604,,85,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_1795,0.3577355912753501,,112,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_184,0.3449142719623198,,132,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_1928,-0.5024779721302052,,29,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_1950,0.434238595782867,,45,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_2015,0.3037588604466016,,185,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_2039,-0.357282229765722,,113,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_2051,-0.3516088241126592,,124,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_2072,-0.4152158165028087,,54,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_2080,0.6034566192142015,,19,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_215,0.312562036080693,,170,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_2153,-0.4153561199828846,,53,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_2157,-0.3035363156264417,,186,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_2177,-0.3054758996655151,,181,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_2204,-1.1106247246368437,,1,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_2216,-0.7299132087876814,,6,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_2233,0.2996135327051982,,194,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_2245,-0.4158469841925886,,51,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_2276,-0.3655706347287561,,106,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_2291,-0.398783830648843,,72,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_2316,0.387027032866598,,89,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_2323,-0.3795953619815134,,99,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_2358,0.3999169037629287,,70,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_2376,0.3275563094071148,,152,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_2410,-0.311742918987992,,171,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_2413,0.3557831596363092,,118,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_2419,0.3127366597273535,,169,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_2442,-0.3406349446396078,,137,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_2473,0.3091527797043079,,176,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_2491,-0.4084625785064074,,59,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_2510,0.6065992767069444,,18,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_2544,-0.3112686482223145,,172,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_2558,-0.3815235198483621,,95,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_2563,-0.4026217618826199,,63,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_2598,-0.6868690028486566,,9,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_2617,-0.3038792042314271,,184,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_2635,-0.3705731958953657,,102,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_2671,0.453587976005115,,43,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_2688,-0.3560153969625724,,116,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_2693,0.4211750818751205,,47,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_2732,-0.3305919509374849,,148,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_2870,0.3340960193426087,,143,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_2894,0.4004322511343453,,67,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_2921,-1.3812346605804178,,0,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_2952,-0.3714544870194794,,101,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_2965,-0.3017451175477669,,190,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_3011,0.3872865232286763,,88,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_3056,-0.3984322456285678,,73,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_3059,-0.4936707503838144,,30,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_3073,0.3057613182633856,,180,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_3090,0.3175588506400277,,161,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_3100,0.4449264099791797,,44,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_3197,0.3355583608303877,,141,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_3217,-0.31913134000588,,157,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_3218,0.309697507675489,,175,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_3251,-0.3226252095216256,,155,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_3264,0.327944750166127,,151,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_3281,0.5184101987815422,,25,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_3308,-0.3151732449364574,,165,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_3316,-0.5083210971991958,,27,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_3357,-0.4073704476935698,,60,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_3364,0.4011328158190743,,64,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_3379,-0.323981990273765,,154,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_3440,-0.6561202097702429,,12,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_3442,-0.354420752189155,,120,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_3458,-0.3837877751499602,,93,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_3459,-0.3569334960579287,,115,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_3464,-0.3180014664033098,,159,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_3471,-0.3569903484680755,,114,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_3480,-0.3891202546852863,,86,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_3482,0.3360433122218882,,140,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_3534,0.3578977820571262,,111,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_3538,0.3270705616845548,,153,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_3556,0.3988873826850381,,71,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_3575,-0.455448777361224,,41,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_3593,0.6163051256835073,,16,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_3654,0.4030841137702629,,61,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_3687,0.3053546667215846,,183,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_3704,-0.2987520564931856,,195,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_3705,0.3558938731423646,,117,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_3716,0.3107093268066113,,174,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_3722,0.4157582552088396,,52,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_3723,0.3328781388907385,,144,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_3730,0.3629097055472578,,108,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_3735,0.3939194310677412,,78,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_3747,0.3017553922667767,,189,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_3762,-0.3887217097965966,,87,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_3769,-0.3328644270834963,,145,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_3772,0.4886285923562077,,32,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_3807,0.6197275821973028,,15,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_3819,0.390751163140197,,83,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_3830,0.3076037246650748,,178,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_3838,-0.4003505207713147,,68,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_3884,0.3179499646608811,,160,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_3932,0.7911914202601227,,4,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_3935,-0.6288124798441972,,14,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_3940,-0.8110644952711118,,3,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_3953,-0.3225222356979539,,156,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_3961,-0.3845713192851252,,92,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_3970,-0.3017405039024173,,191,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_40,0.3661067014715832,,105,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_4010,-0.3690317361164395,,103,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_4014,1.10497847232015,,2,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_4028,0.4896638658783551,,31,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_4071,-0.4006987526741914,,65,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_4118,0.365479035831801,,107,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_4123,0.4760774128600409,,37,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_4132,0.3159965641907974,,164,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_4181,-0.3060722930570702,,179,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_4190,0.5784128427146568,,21,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_4198,0.3346789905045689,,142,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_4203,0.5943470387581613,,20,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_4217,-0.3846007756800477,,91,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_4232,0.2972798293622327,,198,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_4263,-0.4028756833079491,,62,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_4281,0.5587396404448168,,23,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_4282,-0.3952462393396261,,77,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_4293,-0.5101998709261868,,26,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_4300,0.3667294914453597,,104,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_4322,0.7580191150739314,,5,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_4323,0.3604572840401836,,110,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_4324,-0.3452476605783418,,129,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_4339,0.4537815605945129,,42,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_4345,-0.4006470976956338,,66,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_4350,0.5723015739600644,,22,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_4384,-0.3810469642409694,,96,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_4393,-0.3172507114625437,,162,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_4411,0.33942139549426,,138,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_4412,0.3319840544823726,,146,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_4427,-0.6573807724780873,,11,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_4440,0.4138007103743785,,56,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_4442,0.3016530548894034,,192,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_4444,-0.6097102752199772,,17,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_4452,-0.3548568215338669,,119,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_4463,0.4197818494306589,,48,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_4482,0.3833883999924818,,94,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_4484,-0.3182753383687483,,158,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_4520,0.3421469318881802,,134,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_4537,-0.4771181465835721,,36,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_4545,-0.376902456730442,,100,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_4550,0.3462047300275864,,128,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_4578,-0.6952696508847097,,8,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_4583,0.3974175729399014,,75,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_4592,0.5045511945073577,,28,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_4651,-0.6777166228233344,,10,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_4657,0.3980832366819587,,74,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_4683,0.3931048965629766,,79,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_4688,-0.3379200217392613,,139,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_4692,0.3451013325582753,,131,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_4708,0.4167000191740877,,50,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_4711,-0.3147682915687046,,166,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_4725,-0.4812719177177605,,35,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_4726,-0.485017981895499,,34,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_4727,0.3923050635653793,,81,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_4732,-0.3413707850481513,,135,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_4751,0.3626900813252559,,109,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_476,0.6295755978534462,,13,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_4783,0.3516287533501475,,122,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_4909,-0.4686294650010406,,38,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_4914,0.3806844247584131,,97,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_4924,0.305407707806447,,182,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_4932,-0.3319761273011998,,147,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_4940,0.3925230370771525,,80,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_4956,0.419748398401509,,49,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_4991,-0.3413170965237097,,136,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_550,0.3143410893851776,,167,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_653,-0.2968411653388597,,199,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_668,0.3516105806015313,,123,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_699,-0.4149644624871251,,55,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_709,-0.3503519798400877,,125,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_754,0.3030106398827863,,188,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_763,0.3920176477081792,,82,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_788,-0.3973372272327074,,76,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_809,-0.400085062074911,,69,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_849,0.3448941793507598,,133,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_850,-0.2973553025901083,,197,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_860,0.3802870109289722,,98,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_933,0.3535292099884902,,121,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Astro,tile_945,-0.3850652645991073,,90,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_1106,-1.086822802705535,,2,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_1111,-0.3980856031560706,,137,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_1118,-0.353119739386598,,195,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_118,-0.4730015581507661,,73,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_1250,-0.6003554490369095,,30,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_14,-0.5359200285305257,,53,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_1419,0.489809070366783,,65,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_150,-0.5435732202371139,,48,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_1534,-0.6147928921117605,,29,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_1564,-0.536248569159151,,52,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_1586,-0.3647596503258943,,177,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_1605,0.4755771424651152,,72,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_1610,-0.5520074871942875,,45,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_1638,-0.4085306992605849,,122,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_1687,0.4172658094316292,,116,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_1720,0.364238740300311,,178,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_1823,0.4355554013040061,,97,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_1849,0.4413700840734434,,92,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_1886,-0.6394702601226311,,22,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_1891,-0.6650183321102646,,19,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_1895,0.3713384912295399,,167,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_1902,0.432254855610113,,100,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_1942,-0.8629262625578807,,7,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_1950,0.4254212549852446,,107,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_2059,-0.3659473456544201,,174,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_2080,0.7441734854450771,,13,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_2103,0.3540488289172436,,191,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_2194,-0.3711031521937777,,169,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_2215,0.4234390827821833,,111,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_2229,-0.3947869286182869,,139,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_2289,0.3536742278980762,,193,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_2295,-0.5913617036966502,,33,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_2354,-0.8043308288501488,,10,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_2368,-0.5709893059341138,,38,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_2413,-0.3691700057833488,,172,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_2418,0.3819424593340677,,158,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_2441,0.351197128349293,,199,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_2447,0.3829083998432944,,155,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_2449,-0.4223410583401927,,113,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_2493,0.4148817958005892,,119,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_2502,-0.5695865764606686,,39,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_2503,-0.8500286487362838,,8,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_2504,0.36588903918122,,175,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_2510,-0.3533523502945494,,194,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_251,0.5382068218707621,,49,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_2513,0.5343680053699648,,54,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_2518,-0.4792516536960316,,69,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_2569,0.371123827811462,,168,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_2600,0.4670034147175022,,76,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_2638,0.4052823358301066,,127,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_2642,-0.6351746934968631,,23,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_2685,0.4060902802612633,,125,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_2686,0.5970757369913617,,31,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_2750,-0.4664462390944325,,77,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_2785,-0.6705418481479952,,17,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_2789,-0.3600032347830471,,184,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_2794,-0.4296373221441133,,103,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_2815,-0.4382322277436177,,94,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_2827,0.4036307329362445,,129,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_2844,0.8046259377931858,,9,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_2886,0.3794394215147028,,161,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_2889,0.5494292644768375,,46,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_2942,-0.4598120830481439,,80,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_2954,-0.5204489273250019,,59,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_3002,0.4883909595082437,,66,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_3015,0.5457793495856351,,47,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_3026,-0.7801643198097746,,12,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_3036,0.3854042988869519,,152,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_3067,-0.4330328432538959,,99,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_3101,-0.382789650066823,,156,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_3120,-0.5603239426251473,,42,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_3148,0.4022911273853561,,131,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_3171,0.431075402720307,,101,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_3175,0.398844910991128,,136,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_3179,0.375630264526911,,163,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_3199,0.5899120837077216,,34,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_3210,0.3635060356425069,,179,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_3227,0.5886308519820412,,36,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_3235,-0.4150796817827754,,118,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_3268,0.3648467752214123,,176,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_3284,0.3875819715245449,,151,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_3296,-0.4475548711774815,,90,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_3404,-0.6658086555522086,,18,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_3424,-0.3935825474841751,,141,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_3445,-0.8935700865291338,,5,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_3452,-0.6171914414688716,,27,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_3476,0.5558612252622772,,43,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_3494,-0.4523309617519528,,87,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_3498,0.6485061856443264,,21,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_351,-0.4166962469394891,,117,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_3511,0.3583206600074851,,187,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_3538,0.5364117484072142,,51,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_3541,0.4353165640527328,,98,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_3553,-0.3596049941932447,,185,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_3581,0.4297095898300953,,102,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_3591,0.4549706696970408,,83,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_3592,-0.6576358884675224,,20,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_3596,0.3836270274748939,,153,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_3597,-0.4242280340000267,,110,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_3633,0.4524405478452809,,86,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_3636,-0.616477903100259,,28,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_367,-0.4245553611606825,,109,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_3720,-0.4256093312309902,,106,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_3735,0.4027696037709734,,130,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_3740,-0.3729468279869348,,164,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_3760,-0.4258553102314036,,104,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_3801,0.3722837731521646,,165,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_3830,-0.3701822552655802,,171,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_3833,0.5246510797822015,,57,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_3837,0.3566991370462608,,190,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_3838,0.4058102728650095,,126,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_3850,-0.3581077176961585,,188,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_3865,0.3997725542283527,,134,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_3866,-0.6195689896264854,,26,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_3880,-0.3769393928673984,,162,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_3884,0.3900843863813116,,146,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_3900,-0.3630638647625506,,180,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_3915,-0.6246075109391891,,25,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_393,-0.8874129455153533,,6,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_3931,-0.3820349650268492,,157,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_3932,1.1511738088109322,,1,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_3944,-0.6740873537518488,,16,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_3996,0.5253661280158248,,56,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_40,-0.5200294379982684,,60,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_4035,0.4092671677398052,,121,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_4042,-0.4488142226151301,,89,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_4043,0.4502988106916447,,88,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_406,-0.4780603405293038,,71,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_4062,0.3940533828689178,,140,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_4066,0.4411090094444381,,93,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_4071,-0.4252068293325954,,108,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_4072,-0.562154620550205,,41,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_4089,0.5622421657313701,,40,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_4120,-0.4638276009368167,,78,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_4125,0.3999694646815131,,133,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_4130,0.3709731507581175,,170,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_4150,-0.8016434227837717,,11,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_4152,-0.3879197663127955,,148,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_4191,-0.3935222151927763,,142,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_4203,0.40120339322227,,132,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_4206,-0.3817160624482995,,159,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_4213,0.4536310703078464,,84,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_4235,-0.35382810565706,,192,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_4242,-0.379627420704926,,160,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_4249,0.3611097325679429,,182,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_4258,-0.3924835104344687,,143,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_4282,-0.4183378089199331,,115,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_4304,-0.4910619083627328,,64,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_4318,-0.4066195747172452,,124,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_4323,0.408421245828853,,123,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_4328,-0.3912919778282863,,145,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_4330,0.5380773050440242,,50,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_434,0.5045220112931411,,62,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_4345,0.3832716817569541,,154,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_4350,0.3881943723241014,,147,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_4354,0.3520731795444012,,197,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_4442,0.4366768895772638,,96,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_4448,-1.038112308243774,,3,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_4461,-0.3613701420229347,,181,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_4530,0.4372446955115373,,95,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_4545,-0.4787612436416028,,70,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_4547,-0.4195684725093264,,114,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_4550,-0.5557348429806375,,44,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_4562,-0.4536199521480268,,85,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_4576,-0.5091130816585795,,61,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_4586,-0.4807931100198108,,68,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_4588,0.591505126238409,,32,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_4624,-0.9537508121322388,,4,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_4639,-0.3914355815151726,,144,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_4641,-0.4613895137487647,,79,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_4666,0.5032966789765339,,63,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_4670,-0.3583539914317983,,186,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_4707,0.7096481932419797,,15,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_4742,-0.4231286379077014,,112,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_4767,-0.4686429261318954,,75,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_4783,0.3992418106588278,,135,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_4811,-0.3579245823951983,,189,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_4831,-1.4680699644804602,,0,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_4834,-0.4467916668831778,,91,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_4835,-0.3878211960438671,,149,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_4863,-0.3682811077673397,,173,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_4885,-0.3967607899325994,,138,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_4892,-0.5893578153929695,,35,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_4895,-0.3531141842542207,,196,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_4899,0.7274145073420322,,14,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_4901,-0.387738735006116,,150,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_4920,-0.5334189060264578,,55,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_4925,-0.3607203779706889,,183,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_4932,0.6323940445843211,,24,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_4940,-0.4556859634626727,,82,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_4965,-0.4037192399321745,,128,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_4991,-0.5833362715593156,,37,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_530,0.4592575163118331,,81,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_622,0.5243408868245091,,58,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_668,-0.4257170859495457,,105,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_796,0.4092917999858063,,120,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_896,-0.3717815697481504,,166,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_922,-0.4702586926327081,,74,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_959,0.351359263700615,,198,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Excitatory,tile_98,-0.4810690349944907,,67,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_100,-0.338783062083534,,175,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_1019,-0.4727310083923844,,60,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_1029,0.3750130713886112,,129,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_1087,-0.3664885685316719,,145,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_1118,-0.3706253977739625,,138,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_1142,0.3508109204258623,,161,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_1181,-0.3878042450879285,,121,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_1269,0.4080327076720658,,111,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_1297,0.3738410557328369,,133,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_1355,0.3272827517580642,,198,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_1387,-0.5097243429997635,,49,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_1399,0.3813624731407615,,125,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_14,-0.3582253349587093,,151,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_1419,0.5379204741987412,,41,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_1425,-0.3366286020900388,,178,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_1433,0.4490097355333202,,75,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_1446,0.438040624771064,,79,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_1565,-0.3403103165306226,,171,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_1586,-0.3499446515650141,,162,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_1617,-0.4291748389749727,,94,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_1691,-0.3591933020268744,,149,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_1692,-0.3390296920847813,,173,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_1737,0.4647166838203353,,64,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_1822,-0.7152598752791357,,15,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_1823,0.4177663041821475,,99,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_1827,-0.4103106716066762,,108,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_1832,0.4529025287153539,,73,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_1916,0.3858245262031556,,122,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_1924,0.5242839353001055,,46,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_1942,-0.4590453819720693,,69,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_1988,0.5343646647189226,,43,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_1994,-0.3296138608079757,,194,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_2064,-0.3537930635100118,,157,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_2124,-0.4044196798855885,,112,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_2174,-0.3352767884401844,,181,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_2189,-0.3321931217699375,,188,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_2276,-0.3278083249953337,,196,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_2321,0.3339538553270016,,185,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_2360,-0.4568834160263299,,71,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_2366,-0.4830714228922398,,54,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_2375,-0.4989382670118945,,51,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_2397,-0.4675774940644812,,63,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_2474,0.4620032113512545,,66,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_2491,-0.3686529164522714,,142,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_2517,-0.4315786865403216,,91,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_2518,0.4784932634631884,,59,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_2563,-0.3990951779461467,,117,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_2567,0.3483205318870117,,164,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_2582,-0.3304906725982722,,192,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_259,0.3355608143160392,,179,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_2598,0.3342102592927216,,184,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_2600,0.3749861046390924,,130,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_2629,-0.3342395463475637,,183,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_2672,-0.3297294323153945,,193,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_2674,0.5665812267689986,,28,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_2711,0.509202331293546,,50,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_2715,-0.563531788406463,,29,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_2716,-0.4320578167601459,,90,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_2741,0.3354456869835395,,180,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_2794,-0.3591617962326009,,150,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_2815,-0.4170807957343433,,100,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_287,-0.3737531365589912,,134,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_2885,0.3317575218396811,,190,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_2942,-0.4793404546516428,,58,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_2952,0.5370773424090538,,42,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_3012,-0.4594332813596533,,68,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_3013,-0.4346959910254868,,84,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_3032,-0.4160238892633125,,102,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_3036,0.4111533266555097,,107,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_3101,-0.3275050093835618,,197,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_3141,-0.3694389908787303,,140,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_3149,0.4299599367277022,,92,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_3165,0.4335146048877654,,87,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_3179,-0.3352023544931377,,182,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_3190,-0.3734019387322488,,135,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_3235,-0.5536617585204058,,35,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_3238,0.5429270960245186,,39,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_3308,0.4023981115040363,,114,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_333,-0.4391467422225676,,78,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_3386,-0.5235605054542073,,47,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_3388,-0.4545425763656737,,72,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_3404,-0.3623195874779138,,147,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_3445,-1.0066750763310353,,3,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_3470,-0.3289086667615343,,195,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_3476,0.685588222451645,,17,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_3491,0.3383428144941217,,176,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_3498,0.5686640748098486,,26,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_3503,-0.3838330178779399,,123,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_3504,-0.5398763428928335,,40,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_3506,-0.3549365721218289,,156,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_351,0.3969869082382758,,118,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_3511,0.4795094264702623,,57,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_3531,-0.3272009387538773,,199,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_3592,-0.8392141461403244,,7,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_3597,0.5909430425320885,,22,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_3598,-0.3528998834739834,,158,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_3633,0.4377184720404745,,80,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_3656,0.3396420714038369,,172,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_3686,0.5342072109849989,,44,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_3735,0.3447025318026105,,166,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_3760,-0.3595364981577346,,148,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_3763,-0.7273280511387993,,14,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_3783,-0.3376072422604834,,177,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_3813,-0.8142788959970435,,8,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_3886,0.4642040167322618,,65,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_3904,-0.3838012616975417,,124,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_3915,-0.4262847733360722,,97,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_3929,0.436912546703944,,82,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_3932,0.8539321555972439,,6,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_3955,-0.5623696102020008,,30,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_3961,-0.6893886164599667,,16,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_3980,0.4011653394903356,,115,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_40,-0.7890268918478724,,11,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_4012,-0.4520139414245218,,74,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_4014,-0.6664416693559361,,19,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_4055,-0.3435901097603512,,168,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_406,-0.9408963863980964,,4,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_4110,-0.572502881267495,,25,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_4120,-0.7631206501092345,,13,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_4130,0.3894159561573458,,120,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_4170,-0.5952932095699662,,20,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_4190,0.5801731819971291,,24,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_4191,-0.4293433559817302,,93,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_4197,0.3551770379703102,,155,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_4208,0.3964907006047153,,119,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_4234,0.5500829530938643,,36,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_4242,-0.4377173595444266,,81,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_4249,0.4152804802679826,,105,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_4258,0.3444928697517418,,167,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_4263,-0.3748278734940131,,131,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_4281,-0.4828683094173108,,55,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_4282,-0.4889738039550996,,52,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_4323,0.5874058934449975,,23,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_4337,-0.4365660711084145,,83,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_4345,0.4085246441307507,,109,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_4371,0.3479137824023924,,165,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_4391,-0.4170217096399716,,101,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_440,-0.3336584189677806,,186,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_4452,0.379146779752407,,127,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_4517,0.3791936110841128,,126,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_4522,0.4082469587273556,,110,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_4524,-0.5682316882740981,,27,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_4545,-0.3693552462673272,,141,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_4560,0.3741876646598875,,132,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_4583,0.4715677149156015,,61,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_4595,-0.4345920022899736,,85,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_4597,-0.4436464449662156,,76,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_4606,-0.4324547554541549,,89,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_4611,0.4272471001436388,,95,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_4612,0.7927350130903165,,10,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_4624,-1.209485099072366,,1,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_4641,-0.3733914325759986,,136,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_4651,-0.5466850320841891,,38,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_4652,-0.5327595753099569,,45,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_4700,0.7640221745758661,,12,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_4702,0.4859832028425142,,53,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_4720,-0.4145921482311895,,106,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_4732,0.3557277412524203,,153,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_4760,-0.4214064680144976,,98,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_4783,0.3573489493443467,,152,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_4784,0.4344883028303571,,86,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_4796,0.3679280833011706,,144,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_4823,0.3321768716690161,,189,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_4831,-1.2998152329946642,,0,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_4834,-0.4154854224386199,,104,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_4840,0.4158689131458663,,103,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_4863,0.3492025184012919,,163,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_488,-0.3723610652021915,,137,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_4882,0.3680513988776167,,143,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_4884,0.3316940757539268,,191,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_4894,-1.0870915095260203,,2,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_4902,0.5493835332754906,,37,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_4904,0.3514572672058695,,160,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_4923,0.4395702517760764,,77,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_4930,0.5590190142372037,,32,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_4940,-0.370623317443474,,139,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_4949,-0.4263482667432156,,96,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_4951,0.5932774545364903,,21,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_498,-0.4594492933533949,,67,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_4986,-0.4006133586936253,,116,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_4994,-0.4715181394173923,,62,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_538,0.3553355165926383,,154,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_585,0.4329867552073614,,88,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_627,-0.5550950395335983,,33,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_630,-0.6808730504389722,,18,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_650,-0.3515434024007838,,159,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_74,0.4578869139982353,,70,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_788,-0.3426355224896844,,170,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_789,0.3658546016636655,,146,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_808,0.3322037228442476,,187,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_860,0.4042359726469139,,113,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_916,-0.5595745645079274,,31,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_918,0.3387840229710259,,174,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_922,-0.9002425137604722,,5,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_933,0.5538101407739281,,34,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_958,-0.8011812226618495,,9,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_967,0.5122949331212874,,48,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_975,0.3789548507791382,,128,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_976,0.3431084551653519,,169,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Inhibitory,tile_993,-0.4798903625195206,,56,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_1005,0.3132746064292992,,120,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_1028,0.4864734672211185,,29,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_1140,-0.3421852764972379,,93,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_1151,-0.3809985161706119,,61,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_1152,0.2863876306617048,,153,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_1153,0.2666456829465151,,172,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_1191,0.2535087063300746,,192,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_1196,0.2565354783615274,,189,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_1242,0.2740983715997253,,164,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_1262,0.2614368562601888,,181,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_1352,-0.3406160764827359,,96,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_1353,0.5395188490485009,,20,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_1363,-0.3470809216445964,,87,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_1389,0.6255198169668156,,10,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_1417,0.3250957781123012,,110,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_1425,0.3426590768965807,,92,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_1433,0.3607509950765579,,74,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_1543,0.2622323175580174,,180,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_1565,0.63069016375907,,9,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_1617,0.2925879138994102,,147,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_1626,0.3327638417543597,,103,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_1666,-0.3034883299741958,,131,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_1687,-0.7169327930615434,,6,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_1703,-0.2684064123523547,,171,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_1786,-0.3101291246432111,,124,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_1820,-0.3188992705309711,,114,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_1822,-0.2905433872912927,,150,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_1891,-0.3887941328894486,,56,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_1902,0.2527551903932901,,196,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_1925,0.2933230763439655,,145,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_1978,-0.3366669019677052,,101,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_2004,0.5668420772067907,,18,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_2015,0.4579280790252856,,36,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_2064,-0.2779655631564068,,161,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_2072,-0.5148464067374298,,25,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_2080,0.524796004794561,,23,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_2134,-0.3164122943584988,,118,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_2157,0.5850126492090311,,14,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_2167,-0.3006259925785139,,136,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_2168,-0.3047552051738533,,129,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_217,0.2780797160075238,,160,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_2194,-0.3303730936624014,,106,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_2293,0.2559080492232543,,190,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_2316,0.4604423649467314,,35,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_2399,0.2934243331083637,,144,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_2413,0.2973968123147039,,141,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_2418,-0.7873069701546159,,4,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_2444,0.3475979112219738,,86,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_2450,0.4312067638369933,,42,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_2544,-0.2533197915187516,,193,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_2609,0.3869139429148628,,57,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_2614,-0.3352295238131394,,102,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_2664,0.320251247834438,,112,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_2674,0.2582704326944146,,185,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_2686,-0.3513584840711105,,80,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_2703,-0.442376006384441,,40,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_2718,-0.4160931878198171,,46,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_2720,-0.3454627536811698,,89,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_2732,0.3614157148395389,,73,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_2741,0.3046412599585896,,130,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_2772,0.3716330891042602,,66,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_279,-0.3073419223348454,,126,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_2883,0.4617031671027213,,34,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_2885,-0.3664136664328777,,70,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_2931,0.254013010255199,,191,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_3039,0.3185086899010479,,115,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_3056,-0.2586041150891571,,184,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_3059,-0.2857520368311152,,154,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_3101,0.4003689244919638,,52,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_3104,-0.4649035500631267,,33,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_3149,0.2689947881995423,,170,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_3185,0.2758646004777821,,163,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_3194,0.3117537073715005,,121,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_3196,0.3601183542315166,,76,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_3217,0.2530380065147397,,194,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_3226,0.3149994560879048,,119,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_3235,0.2568663089990342,,188,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_3268,-0.3696521001156913,,67,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_3316,-0.4030055473003334,,51,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_3334,-0.3595868738973799,,77,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_3371,0.263636473452929,,176,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_3388,-0.449603780319237,,39,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_3420,-0.2921197290288067,,148,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_3421,0.2798841113611579,,157,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_3434,-0.6245498554143777,,11,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_3439,0.3103811487453329,,123,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_3442,0.4691259214715379,,32,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_3456,1.131325427445596,,1,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_3471,1.3149568539449046,,0,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_3488,0.5811769083289979,,16,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_3518,-0.2990723383304588,,139,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_3556,0.9358613138654592,,3,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_3576,0.7502719681342291,,5,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_3589,-0.4084032711333981,,50,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_3605,0.5359164345969272,,22,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_3607,0.2625317330249838,,179,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_3621,-0.2707063143364983,,169,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_3633,0.384800634674397,,59,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_3672,-0.3031922015653634,,133,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_3687,-0.4822434834059031,,31,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_3730,0.2732201914402682,,165,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_3731,0.3622570615393202,,72,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_3759,-0.4195169452827025,,44,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_3790,0.3374661493745446,,97,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_3798,-0.3326724466012662,,104,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_3822,-0.3031779575826137,,134,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_3832,-0.4203258612081591,,43,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_3833,0.5482682714560245,,19,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_3843,-0.2770280189607134,,162,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_3845,-0.2643442140518356,,174,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_3866,-0.2642711042662261,,175,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_3895,0.2871626454223493,,152,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_3915,-0.5923135623067883,,13,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_3935,0.3496649547704852,,82,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_3946,-0.3260114896476653,,109,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_3987,-0.3435593451906675,,91,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_3991,-0.347798195331128,,85,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_4002,-0.2890916546531474,,151,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_4022,0.3225191748595631,,111,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_4035,-0.5687949155302174,,17,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_4036,-0.3541911639079772,,78,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_4082,-0.4151342825140703,,47,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_4090,0.5846032476418278,,15,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_4098,-0.2571297016418177,,187,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_4111,-0.2926680952222549,,146,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_4120,0.26045033220765,,182,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_4129,-0.3055235518835673,,128,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_4140,0.2601922707444206,,183,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_4157,-0.3858319994404409,,58,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_4170,0.4542086523180303,,37,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_4213,-0.3371246237131674,,100,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_4242,-0.2958724558479736,,143,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_4249,-0.3484178805140367,,84,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_4263,-0.5078439376140058,,26,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_4267,0.3731436571228316,,65,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_4269,0.3058079547858996,,127,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_4280,-0.262635995244516,,178,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_428,0.3949805677136501,,54,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_4282,-0.2983273048924116,,140,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_4293,0.3170003570194666,,116,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_4296,0.3602042198253841,,75,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_4309,0.3371826216234829,,99,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_4323,0.3169375339270928,,117,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_4375,-0.4118194878610101,,48,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_4378,0.3946184926549925,,55,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_4387,0.2906742110223876,,149,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_4410,0.2576445743013674,,186,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_4422,0.515355887863034,,24,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_4448,-0.3004193938021601,,137,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_4530,1.03771756081847,,2,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_4534,0.3408734033733452,,95,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_4535,0.3263670817519356,,108,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_4581,-0.2792344070003887,,158,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_4612,0.252760617393428,,195,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_4641,-0.4180786625161481,,45,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_4651,-0.4112220458903073,,49,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_4652,0.3737976581578462,,64,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_4653,0.2996127263561455,,138,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_4683,0.3190793720207174,,113,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_4705,0.3671354006234101,,69,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_473,0.4539663287396246,,38,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_4732,-0.3019624745179542,,135,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_4733,-0.4831489920236818,,30,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_4755,-0.6568610965991155,,8,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_476,0.3784924497351866,,62,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_4761,-0.3536693724745181,,79,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_4783,0.3108863806172732,,122,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_4797,0.2656585654553668,,173,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_4822,0.3490133874216199,,83,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_4840,0.5055295355836633,,27,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_4844,0.3442349491690058,,90,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_4863,0.2520701712949365,,197,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_4864,0.375972867272429,,63,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_4889,0.4003497561909394,,53,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_4911,0.3323076192889252,,105,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_4920,-0.367988169425336,,68,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_4930,0.2719175446442167,,167,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_4940,-0.2824900050001842,,155,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_4962,-0.4901033465758601,,28,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_4970,0.2783684259748983,,159,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_4985,-0.3499010280881253,,81,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_4991,-0.3465575492958714,,88,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_500,0.3275298993720788,,107,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_502,-0.2520499494232658,,198,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_541,0.3089347277354905,,125,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_545,-0.5388445326610939,,21,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_589,0.3643079132913154,,71,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_605,0.4412475524392143,,41,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_622,0.6998457661392272,,7,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_657,0.2715649050364274,,168,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_684,0.296335231257584,,142,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_74,-0.3841029760481909,,60,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_812,0.6154998472420768,,12,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_849,0.3032872782381912,,132,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_860,-0.2731157539106598,,166,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_90,0.3373289977815985,,98,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_906,-0.2516715223054111,,199,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_932,-0.2630582388621985,,177,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_933,0.3417494161981766,,94,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Microglia,tile_946,-0.2805948092537347,,156,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_0,0.3997827926715861,,87,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_1025,0.3488473949477698,,137,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_1034,0.3283355975353821,,169,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_1038,0.3789416345180736,,106,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_1047,0.3348506357473181,,158,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_1270,-0.3430028429884126,,145,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_1294,0.3235695498240973,,181,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_1295,0.3831049301540008,,102,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_1321,-0.5154848328763992,,41,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_136,-0.4669088670147611,,59,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_1385,-0.3254216015190462,,176,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_1399,1.1959544769163246,,1,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_1408,0.3281108152663535,,170,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_1427,-0.4148696061457,,77,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_1439,0.3444915119965317,,142,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_1445,0.6174708358408849,,25,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_1461,0.3308864955456785,,164,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_1488,0.4110645395958325,,80,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_1500,-0.3372704870009467,,152,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_1505,0.6929217293636671,,19,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_1513,0.5423519481376916,,35,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_1529,-0.321444073478751,,183,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_1547,0.3211366603084045,,184,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_1561,-0.316550303770368,,195,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_1628,0.3240310986109765,,180,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_1636,-0.86254650930285,,8,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_1637,-0.4716532408294901,,58,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_1671,0.3356062221703293,,157,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_1732,-0.3463606033881845,,139,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_1789,0.6484125212670425,,23,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_2027,-0.6028354297844554,,26,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_2,-0.3331722703573743,,161,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_2040,-0.3593180430872734,,119,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_2063,-0.3281023279104924,,171,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_2076,0.4110828077084268,,79,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_2080,0.4287464927767277,,71,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_2102,-0.3584190847299498,,120,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_212,0.4751741630676592,,55,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_2163,0.3151352946216053,,199,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_2208,0.330031321747823,,165,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_2227,0.3151591208794426,,198,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_2281,-0.3885641955041938,,97,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_2292,0.3208343932904878,,186,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_2295,-0.5680062451310042,,31,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_2348,0.3982664031727299,,91,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_2412,0.7217431650433411,,15,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_2413,-0.3915378234551532,,94,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_2441,0.3368825311274577,,154,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_2449,0.371190339043634,,110,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_2459,-0.5138443791722367,,42,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_2482,0.3287826610227192,,167,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_2563,0.3850626206199809,,100,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_2569,0.3328716081391306,,162,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_2570,-0.8926687898669935,,7,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_2579,-0.4219339532581746,,76,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_2695,0.3560735460116114,,124,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_2844,0.3208573759205256,,185,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_2846,0.3496967917263032,,135,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_288,-0.3489484433376489,,136,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_2886,-0.3844522873251038,,101,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_2896,-0.4036306743261636,,85,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_2910,0.4784217907843037,,54,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_2935,0.8239827713422045,,10,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_2952,0.597050378175767,,27,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_2981,-0.3158553366949412,,197,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_2994,-0.5461017862864549,,33,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_3013,-0.3411915290735308,,148,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_3016,0.3898765024990249,,96,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_3026,-0.45091230187803,,64,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_3061,0.66493024549687,,20,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_3079,0.4658101328789186,,61,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_3093,0.4093509566539215,,81,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_3108,0.5027129105930511,,46,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_3129,-0.5021358481455864,,47,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_3140,0.324470928155457,,179,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_3144,-0.395128328789333,,93,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_3154,-0.6969885806327936,,18,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_3175,0.4269102723586456,,72,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_3194,0.4856936977915995,,52,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_3210,0.3287630440012919,,168,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_3211,-0.3394903899351734,,151,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_3264,0.3273687050566278,,172,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_3280,0.3165660527616303,,194,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_3312,-0.3272379418999293,,173,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_3320,0.5288301030201246,,37,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_3323,0.3992755122124821,,88,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_3379,-0.425877601492435,,73,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_3382,0.3699988017490166,,111,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_3399,0.4041568062615567,,83,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_347,0.3245212922655537,,178,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_3478,-0.4397597545128522,,69,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_3486,0.4232344875522528,,75,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_3489,-0.3908615551797554,,95,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_3511,0.5412201680463257,,36,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_3515,0.4401524988133233,,68,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_3568,-0.316605174356059,,193,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_357,-0.401534597473011,,86,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_3598,-0.3573759114963843,,123,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_3601,0.341618758735713,,146,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_3620,0.5000107853025052,,48,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_3639,-0.4460339411249902,,67,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_3717,-0.3162041241410508,,196,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_3744,0.5102235100953953,,44,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_3758,0.481726663063717,,53,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_3772,1.025717044080657,,3,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_3823,-0.5833690960984335,,30,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_3859,-0.3666407040879069,,112,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_3880,-0.319331161555842,,189,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_3895,0.7673148750768672,,14,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_3913,0.3193791862854968,,188,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_3918,0.318946560270418,,190,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_3932,1.185465213669038,,2,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_3935,-0.3510120099578536,,134,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_3946,0.6486788723692307,,22,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_4013,-0.3803231290389137,,103,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_4014,0.5091960792011155,,45,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_4043,0.33716354388885,,153,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_4057,0.3991763267190502,,90,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_4072,-0.4142948966156489,,78,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_4079,-0.4500134322921657,,65,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_4086,-0.3577264835426567,,122,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_4091,0.3851054449228703,,99,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_4100,-0.3258372577236675,,175,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_4111,0.3521379277913852,,133,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_4158,-0.3776124086647572,,107,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_4213,0.5252692341170596,,38,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_4240,-0.3758533914495395,,108,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_4271,-0.4739700100022553,,56,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_4281,-0.3793615745220076,,105,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_4298,-0.4384415458980654,,70,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_43,0.3450760274647331,,141,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_4309,-0.3436113417569076,,143,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_4322,0.5448710963547313,,34,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_4323,0.8566493973976459,,9,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_4330,0.7113509812124404,,16,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_4331,-0.3433849545151104,,144,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_4339,0.6648458426850491,,21,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_4350,0.4719237590042214,,57,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_4364,0.4614327440830473,,63,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_4366,-0.3339628589891465,,159,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_4370,-0.3536862992784351,,131,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_4384,-0.7111981617558838,,17,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_4391,0.6220907066880297,,24,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_4401,-0.3452027325501549,,140,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_4409,-0.9032583645144476,,6,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_4430,-0.331457535616691,,163,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_4445,-0.5131587835287312,,43,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_4451,-0.3626916065955174,,114,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_4463,2.4954100325425235,,0,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_4470,-0.5944095494622486,,28,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_4476,0.5164905540111612,,40,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_4488,0.3251057745300503,,177,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_4514,0.3552402903445503,,128,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_4530,0.4082667533594864,,82,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_4547,-0.3401216193088179,,149,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_4561,0.399250394488837,,89,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_4566,0.3628752341871792,,113,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_4575,-0.3269543653669434,,174,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_46,-0.4946645248753348,,49,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_4615,0.3335808280413329,,160,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_4623,-0.5238629276729987,,39,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_4628,-0.3398373431869411,,150,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_4636,0.3356272027231744,,156,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_4640,0.4041556189080711,,84,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_4674,0.3296493182598156,,166,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_4698,0.3581589629316652,,121,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_4704,-0.494066234329744,,50,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_4725,0.3558853800746784,,125,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_4729,-0.3208170642131724,,187,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_4744,0.3412009343752006,,147,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_4751,-0.397844688670267,,92,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_4771,0.3366935142542041,,155,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_4794,-0.3626585897085772,,115,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_4796,0.3728462444686559,,109,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_4803,-0.5462643928067892,,32,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_4831,-0.9932160738068284,,4,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_4845,-0.4862473497137168,,51,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_4875,0.3546880057407587,,129,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_4886,-0.3797998830043482,,104,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_4890,-0.4497584904977147,,66,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_4895,-0.4243774225617434,,74,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_4897,0.388556960800855,,98,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_4903,0.3624059698954295,,116,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_4921,-0.4665391697859119,,60,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_4948,-0.9383266159128592,,5,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_4952,-0.3558846612320172,,126,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_4958,-0.3181049950150166,,191,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_4961,-0.5852866569575882,,29,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_4983,0.3607938502798013,,117,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_558,-0.3597189231123884,,118,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_678,-0.3476897223485441,,138,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_685,0.3171165557438166,,192,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_706,0.3533503204040939,,132,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_718,-0.8065488960056774,,11,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_753,0.462382757210692,,62,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_806,-0.3224286699963781,,182,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_866,-0.7962044343970823,,13,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_939,-0.3556219231158501,,127,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_964,-0.3537821267894577,,130,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,Oligo,tile_970,-0.7993996137741924,,12,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_0,0.3879789707567447,,51,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_1008,0.2987648387127624,,132,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_1151,0.6652135018723704,,3,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_1191,-0.3432029875703202,,83,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_1205,-0.4916433488412372,,16,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_1242,-0.6550285935108774,,4,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_1305,-0.2647718853646512,,198,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_1350,0.3614236339280832,,64,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_135,0.5373772457756503,,11,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_1353,0.311462667952755,,118,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_1390,-0.2945599220103326,,138,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_1399,0.7518402074998703,,2,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_1422,0.3002254806587158,,129,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_1428,-0.3260901629722028,,98,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_1467,0.3714346958467018,,58,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_1492,0.2690791713964534,,187,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_1499,-0.2912599522539222,,145,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_1512,-0.3223449551244024,,102,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_1513,0.4227111108340636,,41,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_1609,-0.3524586890464105,,69,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_1618,-0.2987477792040985,,133,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_1640,-0.2814325732256981,,160,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_1687,0.2971992090469694,,134,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_1707,-0.2708016242549097,,181,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_1730,0.3128411055413574,,116,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_1734,0.2667115426090099,,193,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_1813,-0.2823935676195248,,158,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_1845,-0.284896094318496,,154,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_185,0.3897113980430089,,49,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_1851,0.2659301237729252,,195,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_1909,0.2767988499377014,,170,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_1939,-0.4078971635578691,,42,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_1996,-0.2830709222586067,,157,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_2015,0.4625615636484615,,19,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_2033,0.3613403051402249,,65,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_2037,-0.5483674504518684,,10,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_2092,0.3163561834975517,,109,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_210,-0.3230043030256098,,101,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_2113,-0.3009668472810438,,126,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_2143,0.3006414575561791,,128,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_2148,0.2810720613977556,,163,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_2175,-0.335954106166712,,89,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_2179,0.2694207924694685,,185,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_2180,-0.2756935688948561,,172,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_2182,0.3177428986265848,,108,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_2194,-0.3050327320444349,,121,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_2197,0.3425140676002439,,85,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_2223,-0.2680553429311215,,189,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_2273,0.2804773490951608,,164,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_2276,-0.2879279675111719,,149,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_2316,0.3466915129748988,,79,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_2397,-0.3049277866273784,,122,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_2405,-0.3352334313155612,,90,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_2413,0.450338206636945,,27,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_2447,-0.2746642050054991,,174,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_2491,-0.3350316802828034,,91,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_2507,0.2939127969934523,,141,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_2554,0.3314745463382346,,93,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_2559,0.3442315993395324,,81,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_259,0.2776912068414177,,168,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_2635,-0.4425248929178849,,33,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_2711,-0.2868879205167335,,151,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_2733,0.3185208328569023,,106,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_2772,0.8320276771790451,,1,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_2775,-0.2666345672209124,,194,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_2782,0.270821332857903,,180,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_2799,-0.2866055260560973,,152,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_2875,-0.3008511416381326,,127,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_2919,0.294672806524821,,137,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_295,-0.3142994028791059,,113,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_3013,-0.27270106528793,,177,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_3033,-0.3703223131289642,,59,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_3034,-0.3260396660736898,,99,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_3053,-0.273301778384638,,176,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_3058,-0.5992214021884044,,7,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_3080,0.347847450633884,,77,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_3123,-0.492716302721445,,15,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_3182,-0.4074763170272979,,43,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_3219,-0.30445745750068,,123,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_3224,0.2679838189493514,,190,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_3253,-0.3178215251758101,,107,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_3278,-0.4555421105328296,,23,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_3287,0.3936411173115472,,47,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_3308,-0.2813792248486008,,161,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_3312,-0.4515908352256751,,26,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_3325,0.4503222827996161,,28,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_3330,-0.4425301528472405,,32,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_3333,0.2733889482981924,,175,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_3356,-0.2915122109958284,,144,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_3388,-0.2766520093818531,,171,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_3389,0.2704948374220307,,183,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_3399,0.3634825864381341,,62,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_3407,0.448968002702733,,29,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_3416,-0.3493140113253471,,75,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_3421,-0.4526269609625518,,25,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_3511,0.3282666674276391,,96,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_3512,-0.4343391283820919,,36,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_3516,-0.3131469992817505,,114,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_3541,0.2901652689341046,,146,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_3556,0.4475353633779415,,31,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_3569,0.4265278102787998,,39,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_3578,-0.3660863360350803,,61,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_3581,0.3907570337802715,,48,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_3586,-0.3438701113567493,,82,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_3594,-0.278462381710134,,166,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_3599,-0.3585291327010096,,66,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_3654,0.2796753376295127,,165,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_3703,0.3149258291038023,,112,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_3706,-0.2888072222221265,,147,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_3709,0.2988669813274947,,131,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_3744,0.3498817546081443,,74,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_3753,0.272633609324717,,178,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_3759,0.389638112177187,,50,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_3763,-0.5214111965890191,,12,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_3826,0.3129098179660921,,115,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_3833,-0.2855205862166041,,153,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_3900,-0.3398898841680519,,87,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_3930,0.275622007059791,,173,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_393,-0.3734259381606611,,56,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_3932,0.267900727395208,,191,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_3933,0.6287248800023324,,5,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_3935,-0.3078161818811117,,120,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_3938,0.282302829139923,,159,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_3954,0.2836356770873833,,155,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_3955,-0.2783493645940917,,167,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_3974,0.2655229710756822,,196,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_3982,-0.4897792077196183,,17,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_4022,-0.3231846142683247,,100,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_4034,0.3725242719002771,,57,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_4044,-0.2874460988060558,,150,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_4083,0.3333298364082939,,92,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_4098,-0.4967575229955667,,14,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_4111,0.3632791348503492,,63,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_4116,-0.3783695726331493,,54,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_4118,0.374068214751726,,55,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_4130,0.3849282954158387,,53,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_4156,-0.2952853419527585,,136,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_4165,0.3308068788838867,,94,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_4200,0.2668519205593722,,192,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_4212,0.42727202111079,,38,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_4242,0.401452351156478,,46,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_4263,-0.4280092422640962,,37,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_4311,0.2918803925774405,,143,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_4334,-0.3223132858455698,,103,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_4346,-0.3032655690541003,,124,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_4350,0.3011894606963791,,125,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_4351,-0.3377808697712675,,88,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_4372,0.2691249559028658,,186,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_4384,-0.5159676982475883,,13,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_4419,0.2772272198760789,,169,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_4426,0.3519180431933916,,71,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_4440,0.2707895213716558,,182,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_4442,-0.2832573963426151,,156,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_4514,0.3298318211190469,,95,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_4585,0.405184343311552,,45,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_4588,0.3000042286312203,,130,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_46,-0.3157378256820777,,110,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_4606,0.4571239875220315,,22,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_462,0.3108036159773102,,119,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_4627,0.3187539704483098,,105,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_4634,0.4262461926930602,,40,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_4657,0.3554578074460457,,68,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_4668,0.2944384895095948,,139,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_4680,-0.3523123231652774,,70,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_4707,-0.4610552611985939,,21,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_4720,-0.4054805747739389,,44,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_4731,-0.2699676623779727,,184,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_4738,0.3491450234572275,,76,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_4753,0.2713048028435832,,179,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_4755,0.3669472640463427,,60,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_4784,0.3557128048688334,,67,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_4816,-0.3207479619102288,,104,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_4831,-0.4620596250788953,,20,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_4882,-0.2810827740054162,,162,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_4883,-0.3500608973043897,,73,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_4894,-0.2884295821184828,,148,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_4895,-0.2651100933914726,,197,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_4898,0.2684668325231353,,188,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_4908,0.3477538897389381,,78,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_4921,-0.3154302893863571,,111,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_4930,0.5619281990083786,,9,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_4932,0.3450744715099452,,80,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_4940,0.4781570391966591,,18,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_4947,0.5979615536489974,,8,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_4957,0.4357080812689417,,35,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_4959,0.2939602246179436,,140,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_4999,0.6189045882208923,,6,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_595,-0.3876631290040918,,52,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_643,-0.3426372167832831,,84,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_650,0.2930841129947,,142,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_700,0.2642043911665269,,199,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_711,0.3267740380494581,,97,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_718,-0.4544969084884506,,24,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_734,-0.3407930222656732,,86,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_806,-0.3115302494706713,,117,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_831,-0.9177084716771504,,0,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_860,0.4419473595426579,,34,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_87,-0.295336306167438,,135,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_970,-0.4479318783791554,,30,RidgeCV
+pfc_to_hippocampus,pfc_to_hip_tile_zscore_NR2F2inh_clock,ATAC,OPC,tile_975,0.3513107751448017,,72,RidgeCV

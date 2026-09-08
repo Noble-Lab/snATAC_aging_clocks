@@ -1,0 +1,1401 @@
+project,clock_name,modality,cell_type,feature,coefficient,importance,rank,model_type
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr10:1022377-1022877,0.0106324110752529,,142,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr10:109418762-109419262,-0.0100663302538522,,175,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr10:47449415-47449915,0.0102809894628231,,157,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr10:49177311-49177811,0.0098623497298768,,188,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr10:95195983-95196483,-0.0110808458191318,,109,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr1:1000615-1001115,-0.0107601169725396,,133,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr1:10779155-10779655,0.0107666777357244,,131,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr1:10788570-10789070,0.0107752302754961,,130,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr1:109687486-109687986,0.0167528971753334,,12,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr1:111253832-111254332,-0.01230530141725,,68,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr1:111271419-111271919,-0.0114525063672041,,92,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr11:1760352-1760852,0.0108571464427579,,126,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr1:149708493-149708993,0.0164976723158037,,14,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr11:64971888-64972388,-0.0110764742310431,,110,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr1:169945176-169945676,-0.0100270533564919,,178,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr1:202004615-202005115,0.0112536741157935,,103,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr1:207811881-207812381,0.0172848033718328,,8,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr1:207883218-207883718,0.0103795290006955,,151,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr12:125983275-125983775,-0.0097216365771049,,198,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr12:14249300-14249800,0.0101118537221708,,173,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr12:19202356-19202856,-0.0097701263852302,,193,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr12:19239524-19240024,-0.0109750763306559,,115,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr12:30896535-30897035,0.0120077174281205,,78,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr1:233656329-233656829,0.0119273264624805,,83,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr1:243101467-243101967,-0.0163959739980899,,15,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr12:71157890-71158390,0.0145340864806272,,28,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr12:71158500-71159000,0.01417080481537,,34,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr12:84895950-84896450,0.0102387481929135,,159,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr12:84911231-84911731,0.0101744428768463,,164,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr12:84912557-84913057,0.0136263825538537,,43,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr12:85016359-85016859,0.0139220438768788,,38,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr13:112709817-112710317,0.0106780013998962,,138,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr13:114055898-114056398,0.0097946821473377,,191,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr1:31218659-31219159,0.0137085525182166,,42,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr1:31239609-31240109,0.0101698173640666,,166,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr13:25358042-25358542,0.0138813166995081,,39,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr1:3423316-3423816,0.0109514703917005,,120,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr13:77601827-77602327,0.0107614424045694,,132,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr14:106843992-106844492,0.0100138606648095,,180,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr14:106844589-106845089,0.0111109505410152,,106,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr14:19750950-19751450,0.0109682422786896,,118,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr14:19800597-19801097,0.0283694149568294,,0,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr14:73536855-73537355,-0.0120331147332558,,76,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr14:91126086-91126586,0.0109703665602014,,117,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr16:10013280-10013780,0.0101099202147316,,174,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr16:10039341-10039841,0.0099821552108145,,183,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr16:10126715-10127215,0.0109332917415588,,122,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr16:22211674-22212174,0.0103419066916842,,153,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr16:22220649-22221149,0.0104012066250317,,148,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr16:28538825-28539325,0.0139850419516636,,37,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr16:3484616-3485116,0.0107934709739971,,129,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr1:63842926-63843426,-0.0101332935337048,,171,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr16:76287350-76287850,0.0097510195002126,,196,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr16:78490638-78491138,0.0109362934342187,,121,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr16:79592112-79592612,0.0114673190561936,,90,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr16:83199967-83200467,0.0107129109095438,,135,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr16:83247699-83248199,0.0150613341325149,,26,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr16:89201648-89202148,-0.0105567988895745,,143,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr16:9316541-9317041,0.012050367151101,,75,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr16:9365225-9365725,0.0106970594809664,,136,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr16:9931957-9932457,0.0103519691572578,,152,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr16:9969662-9970162,0.0101738593844337,,165,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr16:9970725-9971225,0.0116464214601565,,85,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr17:13974163-13974663,-0.0099506942428438,,186,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr17:19063588-19064088,0.0127488535799107,,62,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr17:20896083-20896583,-0.0123856531103868,,67,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr17:36182855-36183355,-0.0145692298900163,,27,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr17:36199075-36199575,-0.0118512936609087,,84,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr17:36204980-36205480,-0.0113659824382066,,98,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr17:36210456-36210956,-0.0101800970707619,,162,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr17:5643572-5644072,-0.0122035771712819,,70,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr17:79812856-79813356,-0.0101346591388117,,170,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr17:79813399-79813899,-0.0097923214401887,,192,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr18:15197505-15198005,0.01102492855114,,114,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr18:38010943-38011443,0.0109746623052002,,116,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr18:52392088-52392588,0.0108526088781875,,127,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr18:52395090-52395590,0.0110980252327268,,107,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr18:58043916-58044416,-0.0160024663465181,,19,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr18:58051744-58052244,-0.0106374604212137,,141,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr18:58057214-58057714,-0.0157521016221201,,22,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr18:58064424-58064924,-0.0099928844376696,,181,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr18:58104999-58105499,-0.0108965651941254,,125,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr18:62611895-62612395,0.0129214126412322,,58,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr18:712485-712985,-0.0103390297310561,,154,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr18:7460069-7460569,0.010390042253785,,149,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr18:77522060-77522560,-0.0097203076084512,,199,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr1:9182148-9182648,0.0126891818784249,,63,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr1:9182883-9183383,0.0113168968954783,,101,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr19:19514140-19514640,-0.0110918982278271,,108,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr19:48398598-48399098,-0.0127513905122952,,61,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr19:51887720-51888220,-0.0121135469174739,,72,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr19:52353725-52354225,0.0109650629300139,,119,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr19:5827889-5828389,-0.0178535543612027,,6,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr20:20210209-20210709,0.0109052005192829,,124,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr2:100500908-100501408,-0.0111919171460286,,105,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr2:131425067-131425567,-0.0102217050590032,,160,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr21:44106986-44107486,-0.0110492450037163,,112,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr2:145038119-145038619,0.0143325087102201,,32,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr21:46150358-46150858,0.0159649118628181,,20,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr2:15846613-15847113,0.0103839558764973,,150,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr2:160365850-160366350,-0.0103116805963108,,155,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr2:165648801-165649301,-0.011387928909017,,95,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr2:171553802-171554302,0.0160774266620815,,17,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr21:8213048-8213548,-0.0216853562234867,,2,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr21:8396412-8396912,-0.0112767134555418,,102,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr2:186734904-186735404,-0.0145083871929993,,29,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr2:200477661-200478161,0.0129692560493625,,57,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr22:17486212-17486712,0.0104837315973623,,146,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr2:233466879-233467379,0.0100472573861066,,177,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr2:233868045-233868545,-0.0100221867608062,,179,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr2:240132480-240132980,0.0120187213949958,,77,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr2:242020482-242020982,0.01343625566197,,47,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr22:44129929-44130429,-0.0101201110229357,,172,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr22:50089615-50090115,-0.0115949980057243,,86,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr2:30239891-30240391,-0.0099830688653039,,182,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr2:3483226-3483726,-0.0133776794398086,,50,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr2:38960203-38960703,-0.0144246215308839,,31,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr2:48607200-48607700,-0.0109307768290618,,123,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr2:9260313-9260813,0.0110375786383891,,113,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr2:9262826-9263326,0.0113550910621262,,99,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr2:9303648-9304148,0.0129830826869989,,56,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr3:125990197-125990697,-0.0102079218210404,,161,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr3:13144181-13144681,0.009733829178604,,197,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr3:148727218-148727718,0.011373823488759,,97,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr3:148790784-148791284,0.015137378238801,,25,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr3:148815596-148816096,0.020685406165105,,3,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr3:15325162-15325662,-0.0108293028823396,,128,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr3:89172056-89172556,0.0100634021335929,,176,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr3:9101207-9101707,0.0119604162604067,,81,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr4:10457177-10457677,-0.0122972969824506,,69,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr4:10461161-10461661,-0.0170657541436805,,10,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr4:1511600-1512100,-0.0160736091410618,,18,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr4:1626155-1626655,0.0101355518893515,,169,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr4:178090599-178091099,0.0135263642368746,,45,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr4:55008291-55008791,0.0143271455411611,,33,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr4:55311791-55312291,0.016353423483792,,16,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr4:68062482-68062982,0.0106599499914803,,139,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr4:8400930-8401430,0.0131483573883783,,53,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr4:85784311-85784811,0.0140252886940627,,36,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr4:9380978-9381478,-0.0113538990267631,,100,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr5:156093939-156094439,0.0112003432111471,,104,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr5:170809494-170809994,-0.0101784813154801,,163,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr5:170862004-170862504,-0.0170561347531293,,11,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr5:170896626-170897126,-0.0135575579617373,,44,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr5:170982064-170982564,-0.0098801392547361,,187,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr5:24391782-24392282,-0.0107173386241553,,134,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr5:25963618-25964118,0.0101687791265823,,167,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr5:43008465-43008965,0.0121494435994943,,71,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr5:43017809-43018309,0.0157345123998675,,23,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr5:77972607-77973107,-0.0097596440183906,,195,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr6:105176048-105176548,0.0126776360708404,,64,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr6:134469076-134469576,0.0099711038373097,,184,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr6:162976143-162976643,0.0119462867018148,,82,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr6:170185261-170185761,0.0132555648508105,,51,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr6:26224882-26225382,-0.0171031075257713,,9,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr6:3484882-3485382,0.0097665338968692,,194,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr6:35601865-35602365,0.0106579573159252,,140,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr6:35650061-35650561,0.0133849468380326,,49,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr7:102671549-102672049,-0.0153926325797387,,24,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr7:116499398-116499898,0.0114581980430312,,91,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr7:116511613-116512113,0.0138353123636369,,40,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr7:116524579-116525079,0.0144646869928181,,30,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr7:116525999-116526499,0.0141208117936352,,35,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr7:116527971-116528471,0.0119710580900615,,80,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr7:116545574-116546074,0.0166927929458914,,13,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr7:116553789-116554289,0.0134960559857866,,46,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr7:124451250-124451750,0.0114770975341657,,89,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr7:147638913-147639413,0.0183328686245295,,5,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr7:148113584-148114084,0.010682673244157,,137,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr7:157319808-157320308,0.011491034495054,,88,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr7:158878215-158878715,0.0177077889194626,,7,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr7:25753334-25753834,0.0104223024735324,,147,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr7:25849409-25849909,0.0114960913507013,,87,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr7:25854995-25855495,0.0248117120147462,,1,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr7:25856877-25857377,0.0137195987120196,,41,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr7:57203466-57203966,0.0131918216984416,,52,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr7:57404423-57404923,0.0127735726710956,,59,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr7:57995452-57995952,0.012109718196214,,73,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr7:6663723-6664223,-0.0102966536383994,,156,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr7:75237546-75238046,-0.0133873020125019,,48,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr7:99975927-99976427,0.0105453436965075,,144,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr8:104895956-104896456,0.0124054714885345,,66,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr8:11423483-11423983,0.011441273011578,,93,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr8:11449136-11449636,0.0098239736873736,,189,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr8:115586831-115587331,0.015788178469216,,21,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr8:23416046-23416546,-0.0105324448582329,,145,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr8:2563774-2564274,0.0119941517438705,,79,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr8:2623148-2623648,0.0125068387026608,,65,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr8:2630065-2630565,0.0098186847510892,,190,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr9:130908027-130908527,-0.0114147014142178,,94,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr9:21974645-21975145,0.0120847209926865,,74,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr9:40222747-40223247,-0.0101635846858052,,168,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr9:41643615-41644115,-0.0193140862775567,,4,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr9:62897651-62898151,-0.013084731317314,,54,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr9:65386664-65387164,0.0102631611555248,,158,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr9:74497029-74497529,0.0130497507395369,,55,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr9:74543108-74543608,0.0113802143319505,,96,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chr9:99356524-99357024,0.0127692135335938,,60,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chrX:20663235-20663735,-0.0110494494783193,,111,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,All cells,chrY:15455938-15456438,-0.0099665459467958,,185,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr10:103708789-103709289,-0.0061211725759758,,128,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr10:116132865-116133365,0.0058381991390673,,168,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr10:116256498-116256998,0.0057490417586071,,188,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr10:119378667-119379167,0.0069276702778232,,58,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr10:35632929-35633429,-0.0064311604718224,,96,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr10:55048792-55049292,0.0057133016416137,,199,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr10:70254087-70254587,0.0071833982732703,,49,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr10:70272163-70272663,0.0062119257821306,,119,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr10:70272709-70273209,0.005848762602327,,165,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr10:75409410-75409910,0.0068464184799714,,65,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr10:83896195-83896695,-0.0079744557176391,,28,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr1:1000615-1001115,-0.0079209146784675,,29,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr11:117793519-117794019,-0.0073929344737096,,40,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr11:126423750-126424250,-0.0066573170245335,,81,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr11:15937581-15938081,0.00576566796173,,184,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr1:115959779-115960279,0.0064221463849194,,97,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr1:116003021-116003521,0.0057608518526626,,186,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr1:158818837-158819337,-0.0064756208482657,,92,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr11:60900993-60901493,0.005972158472199,,145,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr1:163166773-163167273,-0.0068471046430763,,64,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr1:163167973-163168473,-0.0068082209166263,,66,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr1:196523986-196524486,0.0066804018293947,,80,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr1:205317500-205318000,0.0069539554560638,,55,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr1:205319493-205319993,0.007316527703705,,43,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr1:207811881-207812381,0.005979370509394,,144,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr1:207820822-207821322,0.0077183905082162,,31,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr12:126726411-126726911,-0.0101345659374237,,4,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr12:126727523-126728023,-0.0085894436142242,,23,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr12:126734312-126734812,-0.0059591558034223,,147,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr12:129966133-129966633,-0.0060012347085088,,139,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr12:130254494-130254994,0.0086248455916527,,20,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr12:1530065-1530565,-0.0113627894713945,,0,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr12:1530785-1531285,-0.008155585356668,,26,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr1:218494401-218494901,0.0068728114448959,,63,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr1:227415836-227416336,-0.0057257022724996,,194,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr12:3205062-3205562,-0.0064824046209393,,89,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr1:233613707-233614207,-0.0067536942175831,,71,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr1:233677682-233678182,-0.0071634049471716,,50,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr1:235649716-235650216,-0.0072254864819155,,45,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr12:4269203-4269703,-0.0057530566665446,,187,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr1:24318161-24318661,-0.0064776643937112,,91,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr12:6700529-6701029,-0.0075678696002517,,38,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr12:90245387-90245887,0.0076706490218733,,34,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr12:90343934-90344434,0.0059060985396065,,154,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr12:93892779-93893279,-0.0061732050538172,,122,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr12:95548518-95549018,-0.0069760899381081,,52,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr1:30218308-30218808,0.0059082568070484,,153,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr13:113351414-113351914,0.0069604715752358,,54,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr13:52848408-52848908,-0.00688468285616,,62,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr14:100586498-100586998,-0.0059047893442249,,155,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr14:100587026-100587526,-0.006512003192278,,88,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr14:101518629-101519129,0.0065246256854965,,87,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr14:103705175-103705675,0.0063638990568396,,102,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr1:43836392-43836892,0.0064015874170771,,99,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr14:66174388-66174888,0.0069323307025695,,57,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr14:77219527-77220027,0.0064508129399763,,94,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr14:80378163-80378663,-0.0067449070578258,,73,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr14:94599111-94599611,0.0058784769193059,,160,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr1:5493929-5494429,0.006019729318426,,137,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr15:52261654-52262154,0.0059621061663562,,146,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr15:52289552-52290052,0.0067981035849399,,68,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr15:67943984-67944484,0.0061265598292965,,127,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr1:57422244-57422744,-0.0062647889522449,,111,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr1:57423869-57424369,-0.0058373751931714,,170,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr15:83612820-83613320,0.0082763180052155,,24,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr1:60091375-60091875,0.0059376846723768,,150,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr1:60448721-60449221,0.0106428807279285,,2,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr16:33643020-33643520,0.0058906885529862,,159,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr16:3484616-3485116,0.0058034534929114,,176,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr1:65401417-65401917,0.0059101303237644,,152,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr16:67446101-67446601,-0.0060675007515744,,131,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr16:73127324-73127824,-0.0059004582568818,,158,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr16:8373683-8374183,0.0066210082312847,,82,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr16:88823729-88824229,0.0061034096929954,,130,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr17:17486183-17486683,0.0059431989332734,,149,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr17:32602354-32602854,-0.0061141891690829,,129,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr17:40436971-40437471,-0.0062985413712556,,109,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr17:43412649-43413149,-0.0068007122502953,,67,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr17:50048735-50049235,-0.0060344703963699,,135,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr17:66975641-66976141,-0.0062289880850028,,117,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr17:66976687-66977187,-0.0066887072464581,,79,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr17:66978430-66978930,-0.0063104562732843,,105,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr17:82228737-82229237,-0.0066207161081733,,83,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr17:9875385-9875885,0.0064009996019085,,100,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr18:37612485-37612985,-0.0087365117341547,,17,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr18:479295-479795,0.0059438618377751,,148,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr18:56299320-56299820,0.0061348914071796,,126,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr1:85798919-85799419,0.0057899704004906,,179,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr18:79423788-79424288,0.005723965413175,,195,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr18:79751088-79751588,0.0057842658272719,,181,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr19:13339831-13340331,-0.0072036158800277,,46,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr19:5827889-5828389,-0.0078005599263253,,30,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr19:6720486-6720986,0.0058725686984303,,163,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr1:999014-999514,-0.0061416873825924,,125,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr20:11497651-11498151,0.0066997752553743,,78,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr20:59381432-59381932,-0.0058375056274113,,169,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr20:59835732-59836232,0.0066068488142356,,84,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr20:6162260-6162760,0.0076231517985306,,36,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr2:122852290-122852790,-0.0059016173762339,,157,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr21:32977140-32977640,0.0058249782906658,,172,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr21:44322561-44323061,0.007685896318103,,32,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr2:16013079-16013579,0.0061984934995119,,120,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr2:179338579-179339079,0.0059027939898986,,156,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr2:208183909-208184409,-0.0071977129491064,,48,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr2:209457942-209458442,0.0061964085483138,,121,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr2:217972460-217972960,0.0062799314250376,,110,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr2:221924536-221925036,0.0057232045904734,,196,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr2:224370642-224371142,0.0069397338736176,,56,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr22:29480834-29481334,-0.0062181949662227,,118,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr22:35555605-35556105,-0.0058770761406262,,161,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr2:235903849-235904349,-0.0057453988600736,,189,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr2:235917409-235917909,-0.0060622130175237,,132,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr2:237482469-237482969,0.0057176469854864,,198,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr2:240133498-240133998,0.0062590905754463,,113,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr22:43324963-43325463,-0.005990583609037,,141,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr22:43330541-43331041,-0.0058235362820076,,173,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr22:43343171-43343671,-0.0068871257847747,,61,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr2:26401639-26402139,0.0060127518977889,,138,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr2:2762899-2763399,-0.0086298979130619,,19,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr2:44937381-44937881,0.0067159118252977,,75,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr2:55954727-55955227,0.0063893322445734,,101,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr2:55957017-55957517,0.0104036458728255,,3,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr3:127065661-127066161,0.0060473664917742,,134,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr3:13548820-13549320,-0.0076717288011344,,33,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr3:16375526-16376026,0.0060005627125039,,140,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr3:172174807-172175307,-0.0059124918881971,,151,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr3:191005735-191006235,0.0058340545566093,,171,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr3:62962633-62963133,-0.0057928487518337,,178,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr3:96813168-96813668,0.0062614749323857,,112,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr4:119455664-119456164,-0.0057773562475851,,182,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr4:140150798-140151298,0.0058750775420605,,162,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr4:151719278-151719778,0.0062413204297003,,114,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr4:25171161-25171661,-0.0058007957364952,,177,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr4:38259711-38260211,-0.0058146814067549,,174,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr4:823458-823958,-0.0058428495297382,,166,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr4:89836961-89837461,0.0064320706491543,,95,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr4:92303624-92304124,-0.0069003498673423,,59,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr4:92305399-92305899,-0.0089520617586482,,12,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr5:117262405-117262905,0.0059883785440752,,143,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr5:140569168-140569668,0.0057869886683563,,180,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr5:140608989-140609489,0.007009773870609,,51,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr5:159799615-159800115,-0.0057187815548847,,197,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr5:160133377-160133877,0.0061593451389999,,123,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr5:83674044-83674544,-0.0067144189185024,,76,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr6:112209135-112209635,0.0065266330477943,,86,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr6:129130054-129130554,0.0057398746221842,,191,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr6:16239534-16240034,0.0061589338422409,,124,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr6:16242999-16243499,0.0062403037565511,,115,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr6:16258309-16258809,0.0057617574568237,,185,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr6:165987946-165988446,-0.0067867952009551,,69,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr6:26157756-26158256,-0.0088487821716483,,14,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr6:26171740-26172240,-0.0072460444374522,,44,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr6:26183481-26183981,-0.0094880348316586,,8,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr6:26188888-26189388,-0.0094411186880186,,10,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr6:26195237-26195737,-0.0096620128189701,,5,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr6:26197050-26197550,-0.0091298304802085,,11,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr6:26199206-26199706,-0.0094929438502627,,7,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr6:26204302-26204802,-0.0094539602174456,,9,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr6:26216625-26217125,-0.0095651852130629,,6,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr6:26223872-26224372,-0.0081322864874903,,27,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr6:26224882-26225382,-0.0067456881635863,,72,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr6:41428994-41429494,0.006025090583498,,136,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr6:43787382-43787882,-0.0060517186785148,,133,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr6:44000284-44000784,-0.0076126422756703,,37,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr6:56241045-56241545,0.0067039427678721,,77,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr6:56247278-56247778,0.0064630723645028,,93,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr7:102304738-102305238,-0.0074447595214941,,39,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr7:103547551-103548051,0.0057306639230026,,192,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr7:12737310-12737810,0.0073526320879414,,42,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr7:136509450-136509950,-0.0073728552108618,,41,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr7:151409841-151410341,-0.0106753483943958,,1,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr7:151410478-151410978,-0.0068941681124885,,60,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr7:151428213-151428713,-0.0063556358341855,,103,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr7:156224076-156224576,-0.0058036029015158,,175,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr7:157429162-157429662,-0.0063092798194195,,106,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr7:158879435-158879935,0.0057726706870463,,183,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr7:32668676-32669176,0.0058397255027179,,167,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr7:32670519-32671019,0.0086211987838324,,21,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr7:437748-438248,0.0059904566012891,,142,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr7:55722884-55723384,-0.0087543990902342,,16,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr7:72335467-72335967,-0.0085940482908717,,22,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr7:72336027-72336527,-0.0067851397699604,,70,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr7:72336782-72337282,-0.0082263884878219,,25,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr7:768103-768603,0.0088349808804665,,15,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr7:95874482-95874982,-0.0064071917201836,,98,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr8:11201436-11201936,-0.0067362530589507,,74,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr8:135169127-135169627,-0.0065497574244233,,85,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr8:141415761-141416261,0.0069642326326495,,53,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr8:141672044-141672544,-0.005855027439059,,164,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr8:20700473-20700973,-0.0063052284741448,,107,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr8:23416046-23416546,-0.0057293387915477,,193,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr8:33722197-33722697,0.0089434316191034,,13,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr8:40153203-40153703,-0.0087335314185612,,18,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr8:40153782-40154282,-0.0076515694618597,,35,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr9:131097791-131098291,-0.0063223731133996,,104,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr9:136175830-136176330,-0.0062381498941959,,116,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chr9:66269787-66270287,-0.0064799945048698,,90,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chrX:45265151-45265651,0.0072030676632601,,47,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chrX:68017609-68018109,-0.0063017088825818,,108,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Astro,chrY:12269193-12269693,-0.0057406671868722,,190,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr10:101512661-101513161,0.0063447528142992,,89,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr10:116227826-116228326,0.0058972619452726,,153,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr10:123668521-123669021,-0.0060535013077025,,124,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr10:22854978-22855478,-0.0071028445307721,,36,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr10:26946325-26946825,-0.0060532831166407,,125,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr10:29700126-29700626,-0.005681499350621,,190,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr10:43781420-43781920,-0.0058798114215297,,154,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr10:83736001-83736501,0.0068063484161307,,51,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr1:105928587-105929087,-0.0058235093379232,,162,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr11:107617040-107617540,-0.005737958303425,,178,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr11:108595147-108595647,-0.006208973828189,,99,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr11:110798124-110798624,-0.0056633684799334,,194,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr1:112538938-112539438,0.0080475658228263,,10,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr11:128116382-128116882,-0.006084090002774,,117,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr11:130472305-130472805,-0.0057502147082788,,175,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr11:130510307-130510807,-0.0076405825201695,,21,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr1:118514691-118515191,0.0056848870931238,,189,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr11:30944493-30944993,-0.0059523041102325,,145,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr1:148352118-148352618,-0.0057222325799332,,180,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr11:55771632-55772132,-0.0063718299103594,,85,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr1:16226798-16227298,-0.0069014512178355,,44,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr1:171352490-171352990,-0.0062037604932352,,101,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr11:73258268-73258768,-0.0066026681713291,,65,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr1:17808776-17809276,-0.0060516670682655,,126,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr1:187299375-187299875,-0.0065469226938489,,72,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr11:95028308-95028808,-0.0059696957375887,,143,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr12:104699749-104700249,-0.0077447426351467,,17,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr12:106901147-106901647,-0.0063653478168027,,86,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr12:118490883-118491383,-0.0063643558927466,,87,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr1:212438729-212439229,-0.0059204443299204,,148,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr12:127260515-127261015,-0.0080250880548998,,11,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr12:127307483-127307983,-0.0085356686434457,,5,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr1:217141706-217142206,-0.0057677014533778,,171,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr1:227766729-227767229,0.0060130653201198,,134,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr12:31041538-31042038,-0.0060380556935598,,129,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr1:234649850-234650350,-0.0073717590994767,,27,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr1:237905540-237906040,-0.0067324407701647,,56,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr1:243101467-243101967,-0.0061590576282476,,107,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr1:247459400-247459900,0.0066986949518895,,59,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr12:63164867-63165367,-0.0056312028126528,,199,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr12:92242807-92243307,0.0057892584242106,,167,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr13:22926250-22926750,-0.0067611109525103,,54,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr13:24540791-24541291,-0.0065550804866441,,71,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr13:25515379-25515879,-0.0056865849591238,,188,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr13:70223822-70224322,-0.0068077251233167,,50,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr13:97404478-97404978,0.0057620730158893,,172,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr14:103281419-103281919,-0.0066666507116078,,61,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr14:20998976-20999476,-0.0060474190333971,,127,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr14:23881161-23881661,-0.007047167210758,,37,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr14:30277262-30277762,-0.0057876372187004,,168,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr14:53956695-53957195,0.0060435038174209,,128,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr14:68594752-68595252,-0.0081599746611377,,9,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr14:75354590-75355090,-0.0070387159122167,,38,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr14:75522917-75523417,-0.0064747934230226,,78,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr14:89673808-89674308,-0.0059147093710038,,149,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr15:22280717-22281217,-0.0060631900489899,,121,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr15:34665668-34666168,0.0060661589931923,,119,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr15:39892565-39893065,-0.0056670970743846,,192,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr15:70508455-70508955,-0.0067115262019048,,58,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr15:70763366-70763866,-0.0063763128325673,,83,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr16:17696295-17696795,-0.0059283962721951,,147,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr16:3189001-3189501,-0.0060200586706815,,132,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr16:3601918-3602418,0.0067781833345692,,52,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr16:49445704-49446204,-0.0059054471890515,,151,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr16:51524971-51525471,0.0056319839441381,,198,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr16:74741981-74742481,-0.0057384679490317,,177,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr16:756359-756859,-0.0060764953425127,,118,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr16:9031040-9031540,-0.0064213484759618,,81,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr17:36103475-36103975,-0.007194592312733,,32,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr17:36204980-36205480,-0.0077753192337656,,16,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr17:36812704-36813204,-0.0061204845858945,,113,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr17:55674100-55674600,-0.0059041961656985,,152,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr17:67434130-67434630,-0.005818920169693,,163,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr1:78054460-78054960,-0.0061285365183131,,111,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr18:13298658-13299158,-0.0056554878913375,,196,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr18:31463818-31464318,-0.0063760605725217,,84,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr18:47186757-47187257,-0.0067775860705789,,53,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr18:66314983-66315483,-0.0065731900027018,,70,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr1:87398574-87399074,-0.0061820589205749,,106,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr19:48147742-48148242,-0.0057169855686484,,181,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr19:5827889-5828389,-0.0087228807671492,,3,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr20:57875876-57876376,-0.0061156118537255,,114,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr20:60641862-60642362,-0.0068681011067369,,46,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr2:100500908-100501408,-0.0099216643708137,,1,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr2:104426127-104426627,-0.0058417768371113,,158,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr2:104495949-104496449,-0.0057060117026417,,185,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr21:25633933-25634433,-0.0060575554789666,,122,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr21:25661107-25661607,-0.0063157341827479,,90,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr2:12606521-12607021,-0.0059836725046269,,139,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr21:39976752-39977252,-0.0069541936451775,,43,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr21:44726491-44726991,-0.0061414809282906,,109,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr2:144827289-144827789,0.005843483839819,,157,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr21:45950611-45951111,-0.0059491884080523,,146,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr2:14702256-14702756,0.005792087423127,,165,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr2:151630408-151630908,-0.0077919463090332,,15,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr22:26907484-26907984,-0.0059742913176767,,141,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr2:231015481-231015981,-0.0057901240309531,,166,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr2:234001360-234001860,-0.0061943584558096,,103,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr22:37171419-37171919,-0.0077107520822038,,18,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr22:38516245-38516745,-0.0056646173374758,,193,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr22:44698978-44699478,-0.0075780552567013,,22,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr22:46490424-46490924,-0.0062120819650019,,98,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr22:46494759-46495259,-0.0064446811605152,,80,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr2:26654404-26654904,-0.0067116714501517,,57,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr2:3117587-3118087,0.0064165190802989,,82,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr2:31283828-31284328,-0.0056684019845396,,191,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr2:47707782-47708282,-0.0079690603463764,,12,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr2:47710194-47710694,-0.0058313718673106,,160,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr2:56367038-56367538,-0.0065791722829982,,68,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr2:59052838-59053338,-0.0062570590984584,,93,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr2:71207570-71208070,-0.0068091788234359,,49,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr2:85817897-85818397,-0.0062598018662838,,92,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr2:98032315-98032815,-0.0058645749663629,,155,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr3:10106124-10106624,-0.0071938101345378,,33,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr3:109570254-109570754,-0.0076607108354285,,20,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr3:109580945-109581445,-0.0062768696801608,,91,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr3:125812340-125812840,-0.0057115295907695,,183,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr3:13186271-13186771,-0.0057076805947019,,184,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr3:134663772-134664272,-0.006013129242276,,133,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr3:13609734-13610234,-0.0070070457826541,,41,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr3:143264351-143264851,-0.0061390522753777,,110,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr3:154901357-154901857,-0.0070260798802267,,40,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr3:168719618-168720118,-0.0059664534335098,,144,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr3:183492711-183493211,-0.0061966793187656,,102,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr3:184642592-184643092,-0.0056572484290151,,195,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr3:187231310-187231810,-0.0056997125922199,,186,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr3:29418358-29418858,-0.0059734637626605,,142,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr3:64976443-64976943,-0.0066121546782996,,62,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr3:70182000-70182500,-0.0061851534571476,,105,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr3:70243385-70243885,-0.0082322045891057,,7,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr3:86929006-86929506,-0.0059073583883305,,150,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr4:10461161-10461661,-0.0078472005202628,,13,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr4:135186012-135186512,-0.0072176852757055,,31,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr4:146063001-146063501,-0.006010801748563,,135,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr4:147808386-147808886,-0.0060536332224229,,123,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr4:147811972-147812472,-0.0066116642186361,,63,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr4:147823070-147823570,-0.0069908292844234,,42,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr4:1511600-1512100,-0.0062554413833458,,94,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr4:160450785-160451285,0.0060096835388228,,136,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr4:186204211-186204711,0.0070273633696345,,39,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr4:29201413-29201913,-0.0072851485241457,,29,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr4:305231-305731,-0.0059832198701956,,140,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr4:47671824-47672324,-0.007304638554216,,28,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr4:55801480-55801980,-0.0068133740980165,,48,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr4:68675370-68675870,-0.0064973569520011,,75,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr4:9380978-9381478,-0.0065814888907669,,67,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr4:96131165-96131665,-0.0060254345729927,,131,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr5:101580514-101581014,-0.0061866012955359,,104,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr5:10810283-10810783,-0.0071215222387821,,34,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr5:111762856-111763356,-0.0058443873639571,,156,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr5:111763361-111763861,-0.0057718027748147,,170,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr5:111887469-111887969,-0.0066103576992276,,64,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr5:111929849-111930349,-0.0063582109661617,,88,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr5:111936426-111936926,-0.0057448618813584,,176,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr5:111955501-111956001,-0.0057582060425737,,174,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr5:138475007-138475507,-0.0066728977155365,,60,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr5:155826536-155827036,-0.0058412741062573,,159,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr5:163539952-163540452,-0.0067577041739744,,55,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr5:165525275-165525775,-0.0074259749606705,,25,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr5:168589982-168590482,-0.0058253550767529,,161,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr5:17501535-17502035,-0.0056541422097409,,197,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr5:179060140-179060640,-0.0082448404040345,,6,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr5:237912-238412,0.0064765285745125,,77,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr5:37570772-37571272,-0.0060640951060129,,120,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr5:52957264-52957764,-0.0064567385156494,,79,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr6:118746743-118747243,-0.0068635352734433,,47,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr6:14918237-14918737,-0.0057937345564015,,164,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr6:151703266-151703766,-0.0060895964314659,,116,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr6:26224882-26225382,-0.0059904388887871,,137,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr6:26234699-26235199,-0.0071195621059907,,35,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr6:26240071-26240571,-0.0069010429661036,,45,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr6:26272704-26273204,-0.0074754564974839,,24,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr6:27091558-27092058,-0.0088318132738071,,2,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr6:27592649-27593149,-0.0081795916353963,,8,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr6:71913428-71913928,-0.0062356624181392,,95,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr7:102671549-102672049,-0.01350752797232,,0,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr7:117680234-117680734,-0.0085870401363005,,4,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr7:117683700-117684200,-0.0078084035313522,,14,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr7:131253462-131253962,0.0065756095215645,,69,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr7:25635991-25636491,-0.0057593639548185,,173,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr7:55105897-55106397,-0.0057131480754029,,182,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr7:73656949-73657449,-0.0057225317355549,,179,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr7:75624055-75624555,-0.0065897142979308,,66,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr7:82884320-82884820,-0.0062294709564515,,96,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr8:123622559-123623059,-0.0075711836807497,,23,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr8:132980990-132981490,-0.0072674832921488,,30,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr8:2185613-2186113,-0.0076674797378481,,19,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr8:23416046-23416546,-0.0074223902161431,,26,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr8:91346520-91347020,-0.0062081259104215,,100,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr9:100574875-100575375,0.0056891789912531,,187,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr9:11164336-11164836,-0.0065177439401523,,73,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr9:114470056-114470556,-0.0062195806183609,,97,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr9:135473354-135473854,-0.0064850088606193,,76,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr9:14566497-14566997,-0.0061234247331232,,112,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr9:40222747-40223247,-0.0057731567121934,,169,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr9:41643615-41644115,-0.0059882266462814,,138,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr9:68929125-68929625,-0.0061499816727348,,108,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr9:70127254-70127754,0.0060316212426489,,130,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr9:83141848-83142348,0.0064996770999189,,74,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Excitatory,chr9:98958165-98958665,-0.0061057571688185,,115,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr10:107483270-107483770,-0.0052794643847648,,111,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr10:111567731-111568231,-0.0052989294027593,,108,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr10:43278281-43278781,-0.0064037080242789,,22,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr10:70478361-70478861,-0.004965413634949,,192,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr10:72637343-72637843,-0.0057542046442106,,49,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr1:1000615-1001115,-0.0058330034273766,,44,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr1:1001759-1002259,-0.0052944833657722,,109,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr1:1034550-1035050,-0.0056378114222635,,62,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr11:102709506-102710006,-0.0051305276124489,,146,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr1:112272033-112272533,0.0054467227449791,,83,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr11:124577967-124578467,-0.0056823388480117,,55,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr11:124700156-124700656,-0.0050193276628515,,179,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr1:1201250-1201750,-0.0051271290166702,,147,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr1:12756656-12757156,-0.0109505564913402,,1,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr1:12758541-12759041,-0.0061828641277394,,30,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr11:43422995-43423495,-0.0052034498106867,,125,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr11:45414228-45414728,-0.005257767318708,,113,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr1:162735588-162736088,-0.0059349566686252,,39,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr11:66970703-66971203,-0.0052178230269638,,122,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr11:70847860-70848360,-0.0053169195867981,,101,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr11:72452263-72452763,-0.0052292386879032,,119,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr1:179926456-179926956,-0.0051473551154144,,141,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr11:849524-850024,-0.0080301966048968,,3,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr1:193658620-193659120,0.00566630304504,,57,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr1:199522903-199523403,-0.0051947647049589,,126,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr1:20322039-20322539,-0.0070053000060631,,15,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr1:203259697-203260197,0.0057251620002298,,52,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr1:208329204-208329704,-0.0052541014977134,,115,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr12:119496071-119496571,0.0049871341949487,,187,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr12:127162897-127163397,-0.0054826287412199,,79,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr12:131093134-131093634,-0.0052215955932838,,121,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr1:222900859-222901359,-0.0052999731558551,,107,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr1:225361135-225361635,-0.005028065338055,,172,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr1:243101467-243101967,-0.0071102293903924,,11,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr1:244382082-244382582,-0.0060580764899788,,35,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr12:48236135-48236635,-0.0051581669598044,,135,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr12:7439964-7440464,-0.0050566995545259,,163,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr12:84747103-84747603,-0.004956631800693,,194,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr12:92243992-92244492,0.0054577062946374,,82,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr12:98581118-98581618,-0.0058432425156757,,42,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr13:102492484-102492984,-0.0049738767095621,,190,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr13:68813926-68814426,-0.007560216904049,,5,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr13:99191689-99192189,0.0053449718209711,,94,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr13:99192813-99193313,0.0050386722648341,,170,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr1:40477032-40477532,-0.0050322410747368,,171,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr14:101242537-101243037,-0.0052808350714823,,110,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr14:101506922-101507422,-0.0056200854514697,,64,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr14:104406675-104407175,-0.0070822554004159,,12,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr14:19800597-19801097,0.0065983379464721,,19,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr14:20982564-20983064,-0.0051535235233279,,138,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr14:34332109-34332609,-0.0058347268875148,,43,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr14:65080908-65081408,0.0069399145072984,,16,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr1:48036629-48037129,-0.0053640207805499,,90,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr14:87108675-87109175,-0.0056580797880775,,61,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr15:100093753-100094253,-0.0061624013709813,,31,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr15:100802433-100802933,-0.0062044726142129,,28,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr15:101795377-101795877,-0.005726442447579,,51,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr1:52482525-52483025,0.0050184809186665,,180,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr15:68062966-68063466,-0.0055285160042797,,73,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr15:80275881-80276381,-0.0052255840739388,,120,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr15:83372630-83373130,-0.0053656855157614,,89,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr15:91783742-91784242,-0.0051151493891142,,149,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr16:20073696-20074196,-0.0057530360370106,,50,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr16:86662124-86662624,-0.0054327287646678,,84,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr16:86700015-86700515,-0.007160231769231,,9,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr1:69401876-69402376,-0.0061286713722156,,32,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr17:43412649-43413149,-0.005370695348506,,88,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr17:50314308-50314808,-0.0053011118247365,,106,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr17:55436469-55436969,-0.0052553853885761,,114,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr17:5958253-5958753,-0.0053784261408429,,87,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr17:73325449-73325949,-0.0058833926398758,,40,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr17:73855921-73856421,-0.0051611370150624,,133,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr17:7436903-7437403,-0.0049786519972637,,188,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr17:7438009-7438509,-0.0055906100621408,,68,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr17:74514229-74514729,-0.0066983435313972,,18,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr17:77607202-77607702,-0.0055929887527866,,67,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr17:79810046-79810546,-0.0057017567773975,,53,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr17:79813399-79813899,-0.0052153047121642,,123,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr18:4096473-4096973,-0.0056289227120548,,63,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr18:47279965-47280465,-0.0054133216379217,,85,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr18:51523581-51524081,-0.0052140536434496,,124,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr18:60247160-60247660,0.0049906245627439,,185,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr19:10068978-10069478,-0.0076700693087721,,4,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr19:10305435-10305935,-0.0051200098180209,,148,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr19:11694804-11695304,-0.0062123349012947,,27,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr19:11697253-11697753,-0.0097782675765745,,2,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr19:17966821-17967321,-0.0051744371571632,,130,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr19:42819938-42820438,-0.004993642156082,,184,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr1:9452732-9453232,-0.0050538737946697,,164,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr19:45428633-45429133,-0.0050851076315655,,159,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr19:46887261-46887761,-0.0054865529921369,,78,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr19:51521782-51522282,-0.0057817664828921,,47,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr19:51799263-51799763,-0.0053431286188254,,95,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr19:52196162-52196662,-0.005173115225921,,131,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr19:55156250-55156750,-0.0053489293777555,,92,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr19:55166478-55166978,-0.0056659127371129,,58,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr19:55278870-55279370,-0.0049516019231764,,197,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr19:5827889-5828389,-0.0068073679054347,,17,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr19:6130877-6131377,-0.0122408286159866,,0,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr19:875980-876480,-0.0053028884392958,,105,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr1:999930-1000430,-0.0051146073324821,,150,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr19:9996175-9996675,-0.0050862732363279,,157,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr20:21002447-21002947,-0.0051744446350913,,129,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr20:31452531-31453031,-0.006008404998556,,37,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr20:51884495-51884995,-0.0050520540990917,,165,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr20:755822-756322,-0.005801048625056,,46,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr2:102182226-102182726,-0.0050044818400115,,183,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr2:110149721-110150221,-0.005147541857287,,140,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr2:114046471-114046971,-0.0055101982244793,,75,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr2:129060969-129061469,-0.0049671152627482,,191,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr21:33962506-33963006,-0.0052590764800043,,112,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr2:217692149-217692649,0.0051452368641492,,142,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr22:30537711-30538211,-0.0053289713698479,,98,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr2:236214359-236214859,-0.0059749678933601,,38,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr2:238190215-238190715,-0.0050801846328322,,160,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr2:2684673-2685173,-0.00501933217644,,178,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr2:37619955-37620455,-0.0063676498281732,,23,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr2:43086427-43086927,-0.0051328897918057,,145,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr2:48126182-48126682,-0.005137103992695,,144,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr2:71749563-71750063,-0.0050622560999137,,162,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr2:97195250-97195750,-0.0050970746976353,,152,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr2:98394638-98395138,-0.0050504740563384,,166,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr3:110758074-110758574,-0.0056107389470187,,65,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr3:118272916-118273416,-0.0051538984683429,,137,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr3:130619160-130619660,-0.0050954465727064,,153,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr3:134658498-134658998,-0.0056595427775187,,60,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr3:182061436-182061936,-0.0053230974450297,,100,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr3:186186717-186187217,-0.0049763839905019,,189,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr3:191761948-191762448,0.0055158140280244,,74,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr3:198113519-198114019,-0.0049383628437962,,199,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr3:31077140-31077640,-0.0055515416274146,,71,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr3:74643619-74644119,0.0050225053887053,,175,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr3:81003897-81004397,-0.0051419088515092,,143,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr3:81293165-81293665,-0.0071664291738158,,8,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr3:81564970-81565470,-0.0051718567570357,,132,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr4:100644161-100644661,0.0063021563028588,,25,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr4:106541170-106541670,-0.0054688753627564,,80,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr4:11741272-11741772,-0.0050052155197338,,182,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr4:12301509-12302009,-0.007025564687264,,14,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr4:15921263-15921763,-0.0054991664630796,,76,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr4:169108475-169108975,-0.0052366126709892,,118,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr4:169117705-169118205,-0.0050936174386947,,154,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr4:23333842-23334342,-0.0051774834607087,,128,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr4:24922377-24922877,-0.0053167612962427,,102,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr4:35915273-35915773,0.0056046933035892,,66,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr4:47631644-47632144,0.0060749060622737,,34,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr4:48792326-48792826,0.0055520603671633,,70,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr4:6568662-6569162,-0.005108571215342,,151,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr4:76219249-76219749,0.0056720183068855,,56,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr4:97893043-97893543,-0.0050504153981667,,167,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr5:110203639-110204139,-0.0056972970399583,,54,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr5:159799615-159800115,-0.005049089571638,,168,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr5:168801574-168802074,-0.0053311300679859,,97,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr5:169626698-169627198,-0.0049531320139079,,196,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr5:177558182-177558682,-0.0063535912149418,,24,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr5:39835288-39835788,-0.0050232456756545,,174,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr5:6191414-6191914,-0.0058511585686068,,41,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr5:79771234-79771734,-0.0061022222046791,,33,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr6:1610202-1610702,-0.0050692626621027,,161,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr6:169269441-169269941,-0.0050265371428299,,173,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr6:33927513-33928013,-0.0064386710688979,,21,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr6:34006082-34006582,-0.0054660541319489,,81,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr6:7760975-7761475,-0.0049552080828952,,195,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr6:7976607-7977107,-0.0051564195034565,,136,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr6:81451726-81452226,-0.0055646813815969,,69,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr7:101278436-101278936,-0.0071238103839136,,10,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr7:108083886-108084386,-0.0053545331376968,,91,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr7:109003715-109004215,-0.0054911632257365,,77,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr7:115862250-115862750,0.0049597586583831,,193,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr7:148807424-148807924,0.0051605350332187,,134,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr7:1992379-1992879,-0.0062791448279501,,26,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr7:31214705-31215205,-0.0051508263673521,,139,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr7:36650372-36650872,-0.0051786159164253,,127,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr7:55336183-55336683,-0.0050419420810715,,169,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr7:68918556-68919056,-0.0054001318968072,,86,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr7:73636254-73636754,-0.0052489305191373,,116,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr7:94275971-94276471,-0.0050858338349369,,158,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr7:95550100-95550600,0.0050196338414528,,177,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr7:98691709-98692209,-0.0053350795598626,,96,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr8:106128989-106129489,-0.0050879543878578,,156,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr8:129644562-129645062,-0.0049506345460579,,198,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr8:133217738-133218238,-0.0053243425941779,,99,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr8:138793313-138793813,-0.0073859234110767,,7,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr8:141043337-141043837,-0.0055387904006081,,72,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr8:19767321-19767821,0.005237542279108,,117,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr8:21051497-21051997,-0.0061920339407319,,29,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr8:22133156-22133656,-0.0050205051791586,,176,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr8:28285165-28285665,-0.0064915468193483,,20,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr8:72420409-72420909,-0.0050919920106816,,155,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr8:95801793-95802293,-0.0049899821093234,,186,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr8:98456680-98457180,-0.0053484309671966,,93,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr9:119950996-119951496,-0.0058293843227709,,45,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr9:130748008-130748508,-0.0070465149743693,,13,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr9:134607138-134607638,-0.0057671492153665,,48,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr9:137302080-137302580,-0.0056651603129843,,59,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr9:16787681-16788181,-0.0053075988486027,,103,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr9:75039008-75039508,-0.0050107948757977,,181,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr9:77476112-77476612,-0.0075406988676923,,6,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chr9:96293439-96293939,-0.0053048406913994,,104,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Inhibitory,chrX:68195560-68196060,-0.0060439451659847,,36,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr10:103111073-103111573,0.0070381376170832,,181,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr10:103659899-103660399,0.0089704574785513,,39,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr10:119818393-119818893,-0.0069915853557884,,190,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr10:127530820-127531320,0.0077011625381115,,116,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr10:127534225-127534725,0.0075676583950069,,126,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr10:133294130-133294630,0.0084756537566355,,54,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr10:21509454-21509954,-0.0078857369258546,,91,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr10:21510151-21510651,-0.0074688869940334,,135,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr10:27844126-27844626,0.0070893078965062,,177,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr10:813203-813703,-0.0071015177260548,,176,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr10:93364079-93364579,0.0079756869278856,,87,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr1:109788064-109788564,-0.0075574379478269,,127,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr11:109707350-109707850,0.0086714015139718,,47,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr11:109747714-109748214,0.009356590571902,,30,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr11:109751492-109751992,0.0073099092874023,,153,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr11:114059340-114059840,0.0083489394882906,,61,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr11:114139602-114140102,0.0104512059530307,,14,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr11:114162664-114163164,0.0074429311698227,,140,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr11:130525582-130526082,0.0084287379594865,,59,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr11:130527586-130528086,0.0097138460777457,,25,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr11:14189869-14190369,0.0069560442175904,,199,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr1:11501458-11501958,-0.0081792561530685,,72,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr1:116874818-116875318,0.0070013110087184,,189,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr11:17921873-17922373,0.0073320220150288,,150,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr11:21625955-21626455,0.009944995504995,,23,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr11:44407566-44408066,0.0071633353525631,,167,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr11:44409780-44410280,0.0081508831923412,,74,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr1:153544960-153545460,0.007649298583177,,118,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr1:159854594-159855094,0.0103984693699884,,16,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr1:161726799-161727299,0.0073781918273021,,145,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr11:65607004-65607504,-0.0080414953389564,,83,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr1:166490122-166490622,0.0101262074360237,,20,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr1:168341007-168341507,0.009598913897221,,26,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr1:201469031-201469531,0.0104455295856452,,15,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr12:122946834-122947334,0.0073660944022711,,146,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr1:218463142-218463642,0.0095369973947263,,28,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr1:219088857-219089357,0.0071833106976966,,163,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr12:8452990-8453490,0.0072264653259527,,158,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr12:8540863-8541363,0.0077414794166984,,112,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr13:71290875-71291375,0.0071782582402022,,164,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr13:91154876-91155376,0.0075011152845336,,133,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr14:20179227-20179727,0.0081871275080705,,71,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr14:24329670-24330170,0.0078292263402701,,100,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr14:71231616-71232116,0.0084385661953299,,58,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr15:42111881-42112381,0.0070837946354815,,178,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr15:59166414-59166914,0.0075213506437591,,130,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr15:59169309-59169809,0.0077615924763609,,110,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr15:59170191-59170691,0.0088878688229599,,40,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr15:59174775-59175275,0.0070224010927097,,185,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr15:87875287-87875787,0.010780404756162,,11,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr15:87902954-87903454,0.0090680731280885,,36,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr15:87940021-87940521,0.0083089233617831,,62,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr15:93862733-93863233,0.0080565382450993,,82,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr15:93882108-93882608,0.0088871642093808,,41,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr15:99915904-99916404,0.0073643842540322,,148,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr16:10553140-10553640,0.0087832131290099,,45,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr16:10560953-10561453,0.0074435686116106,,139,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr16:2091108-2091608,-0.0082254179340674,,69,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr16:4140619-4141119,0.0073387492797205,,149,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr16:4142275-4142775,0.0074025541611868,,142,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr16:56625403-56625903,0.0071530487363171,,169,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr16:56657573-56658073,0.0072685222000747,,155,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr16:6827201-6827701,0.0078501267478882,,97,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr16:82192659-82193159,0.0072682475477022,,156,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr16:84898017-84898517,0.0076260645046218,,121,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr16:84907581-84908081,0.0079853899750514,,86,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr16:84913268-84913768,0.0070634807671334,,180,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr16:9344568-9345068,0.0118933474596374,,2,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr16:9365225-9365725,0.0105101940978313,,13,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr16:9388718-9389218,0.0080962611349445,,79,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr16:9475761-9476261,0.0075064846910218,,131,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr17:41614746-41615246,0.0087991032764374,,44,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr17:50954181-50954681,0.0110948335480089,,5,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr18:43011442-43011942,-0.0078107491575607,,101,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr18:812798-813298,-0.0084580245070926,,56,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr19:13339831-13340331,0.0069623274704061,,197,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr19:31022941-31023441,0.0082162981190211,,70,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr19:46123450-46123950,0.0091494847947206,,34,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr19:46133264-46133764,0.0071195275748583,,171,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr19:46185018-46185518,0.0081431311961551,,76,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr19:51887720-51888220,-0.0085734600471184,,51,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr19:57527096-57527596,-0.0095512276694731,,27,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr19:58347466-58347966,0.0082911718118182,,65,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr20:16450895-16451395,0.0072255320776663,,159,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr20:16474287-16474787,0.0069608945727367,,198,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr20:3307025-3307525,0.0086513361956501,,49,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr20:39357975-39358475,0.0073313716244307,,151,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr20:39986516-39987016,0.0070235944260842,,184,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr2:118954632-118955132,0.0082471288241627,,68,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr2:119288815-119289315,0.0075034761726868,,132,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr2:130727424-130727924,0.007863221704358,,94,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr2:135255186-135255686,0.0111574309796856,,4,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr2:142868128-142868628,0.0070268072808377,,183,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr2:157782035-157782535,-0.0075305102213594,,129,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr2:184577677-184578177,0.0076455640756782,,120,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr2:1910712-1911212,0.0087418529530919,,46,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr2:1936382-1936882,0.0077283910741645,,114,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr2:1949172-1949672,0.0082656735150242,,67,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr2:1990667-1991167,0.010061898462386,,21,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr22:16601131-16601631,0.0071320624898757,,170,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr22:22546347-22546847,0.0069872703912079,,192,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr22:32137880-32138380,0.0079886508448465,,84,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr2:241109368-241109868,-0.0076161968801184,,122,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr22:49657426-49657926,0.0094892787185632,,29,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr22:50089615-50090115,-0.011271997566651,,3,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr2:29223920-29224420,0.0077772380885031,,106,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr2:31214146-31214646,0.0077646137182498,,109,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr2:31219532-31220032,0.0092324739314572,,32,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr2:33086616-33087116,0.007878733892829,,92,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr2:45889016-45889516,0.0082995903679051,,64,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr3:10845297-10845797,0.0069664802930693,,196,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr3:112395418-112395918,-0.0080814610614982,,80,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr3:126961118-126961618,0.0071186786025733,,172,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr3:135228926-135229426,0.0081480625528904,,75,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr3:140569079-140569579,0.0074513033544019,,137,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr3:143482555-143483055,0.0073867908470531,,143,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr3:143600825-143601325,0.0080697251557081,,81,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr3:143602018-143602518,0.0092720287517985,,31,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr3:194867428-194867928,0.0070299206013292,,182,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr3:195161983-195162483,0.0088292839613205,,43,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr3:196019411-196019911,0.0069769562586664,,194,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr3:24810818-24811318,0.0079615007674871,,89,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr3:34361905-34362405,0.0108760994838483,,10,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr3:5974727-5975227,0.0106898790605716,,12,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr3:64685712-64686212,-0.0075332460386067,,128,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr3:64815653-64816153,-0.0078103828700234,,102,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr3:69542512-69543012,0.0074439834703946,,138,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr3:71542722-71543222,0.0090426550800328,,38,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr3:84710226-84710726,0.0072174851172447,,160,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr4:141329039-141329539,0.0110513339382011,,6,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr4:141330427-141330927,0.0081699389340839,,73,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr4:141332724-141333224,0.0081362986608506,,77,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr4:141333416-141333916,0.0085609470536779,,52,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr4:141636282-141636782,0.0080969651687427,,78,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr4:141636789-141637289,0.007838755212569,,98,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr4:141642084-141642584,0.0070189852964862,,187,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr4:148376070-148376570,-0.0084552741133518,,57,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr4:1626155-1626655,0.0123336454728128,,0,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr4:184897928-184898428,0.007647915574869,,119,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr4:25007530-25008030,0.0073786147162793,,144,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr4:25085615-25086115,0.0076012918263665,,124,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr4:54439880-54440380,0.0073660274712802,,147,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr4:74886465-74886965,0.0091558943960916,,33,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr5:102531439-102531939,0.0077716244419414,,107,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr5:136308357-136308857,0.007324639028468,,152,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr5:136309866-136310366,0.0077523706247699,,111,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr5:140596248-140596748,0.0077922755263556,,105,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr5:168328685-168329185,0.0072719425115513,,154,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr5:168347306-168347806,0.0076026721856343,,123,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr5:17109862-17110362,-0.0078040955324402,,103,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr5:178461059-178461559,0.0071843764407419,,162,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr5:24376576-24377076,-0.00797465869295,,88,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr5:24391782-24392282,-0.0109795522170616,,8,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr5:24397658-24398158,-0.0070736476239328,,179,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr5:36403959-36404459,0.0086066985801224,,50,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr5:6765631-6766131,0.0090615349414412,,37,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr5:76294510-76295010,0.0071761085495903,,165,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr5:86668191-86668691,-0.0071953779533017,,161,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr5:95081396-95081896,0.0083069428408193,,63,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr5:95087545-95088045,0.0078532537737886,,96,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr6:110415418-110415918,0.0090906096093229,,35,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr6:129671803-129672303,0.0077704416281172,,108,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr6:151493753-151494253,0.0085128912292394,,53,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr6:151690786-151691286,0.0078756168355098,,93,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr6:158708120-158708620,-0.0074816613746358,,134,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr6:26224882-26225382,-0.0072670500063648,,157,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr6:48109818-48110318,0.0109583758977901,,9,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr6:48110945-48111445,0.0102946704267679,,18,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr6:62286036-62286536,0.0076754419803148,,117,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr7:122886390-122886890,0.0074578673941617,,136,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr7:21580133-21580633,0.009949203795506,,22,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr7:23468981-23469481,-0.0077978317178927,,104,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr7:23470252-23470752,-0.0101638744948483,,19,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr7:23471031-23471531,-0.0098550255439031,,24,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr7:23474113-23474613,-0.0079090018452118,,90,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr7:25840368-25840868,0.0079857084084998,,85,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr7:26279363-26279863,0.0071104947954262,,174,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr7:37694145-37694645,0.0071136718382353,,173,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr8:121811725-121812225,0.0070198048049785,,186,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr8:1466512-1467012,0.0110021079991253,,7,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr8:25184416-25184916,0.0122302879974284,,1,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr8:25237055-25237555,0.0078556316654394,,95,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr8:46917605-46918105,0.0071062340790068,,175,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr8:47025835-47026335,0.0077122962859226,,115,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr8:56117740-56118240,-0.0077299057469691,,113,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr8:867295-867795,0.0078381932337998,,99,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr8:869577-870077,0.0086623091176693,,48,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr8:9316929-9317429,0.0082741134330199,,66,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr8:949348-949848,0.0083642377814323,,60,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr8:979651-980151,0.0103573883274461,,17,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr8:987477-987977,0.0071625898431989,,168,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr9:127131171-127131671,-0.0075722617411848,,125,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr9:127133238-127133738,-0.0070148795367413,,188,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr9:127133787-127134287,-0.0069751543885294,,195,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr9:91503684-91504184,0.0069812755486945,,193,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chr9:91516699-91517199,0.0071710247157725,,166,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chrX:116009831-116010331,0.0088328525323873,,42,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chrX:31266718-31267218,0.0084631721623546,,55,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chrX:47637674-47638174,0.0074175940820862,,141,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Microglia,chrX:66639105-66639605,0.0069900397281315,,191,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr10:1022377-1022877,0.013580173678737,,198,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr10:11742184-11742684,-0.0137742548934735,,181,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr10:122494794-122495294,0.0140114293802734,,171,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr10:127932424-127932924,-0.0144792413637539,,148,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr10:70052593-70053093,0.0147166279196838,,134,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr10:95183490-95183990,-0.013739170301647,,185,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr1:10663580-10664080,0.0159077264839112,,96,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr1:10776177-10776677,0.0148830653540406,,130,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr1:10779155-10779655,0.0155834558064448,,108,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr1:10788570-10789070,0.0157995256522871,,102,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr1:109687486-109687986,0.0154724035333962,,112,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr11:14358783-14359283,-0.0212328503225822,,20,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr11:1448356-1448856,0.0140613571865884,,167,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr11:19597777-19598277,0.0152316528860661,,118,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr1:120811707-120812207,-0.0149582476525132,,128,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr1:120850699-120851199,-0.0158008467739693,,101,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr11:45658540-45659040,0.017658215013501,,60,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr11:45665576-45666076,0.014389906991337,,152,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr1:149708493-149708993,0.0164436663809776,,83,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr11:57427614-57428114,0.013786034912205,,177,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr1:15756295-15756795,-0.0143216958458293,,156,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr11:64971888-64972388,-0.0149848526504927,,127,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr11:9003786-9004286,-0.0172137179726591,,68,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr1:207519613-207520113,0.0136320800849968,,191,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr1:207811881-207812381,0.0287376817175197,,0,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr12:19236609-19237109,-0.0183176532711182,,51,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr12:19239524-19240024,-0.0145380622976043,,142,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr12:71157890-71158390,0.0210195262318127,,25,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr12:71158500-71159000,0.0189159347344015,,43,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr12:84877304-84877804,0.0137468807504504,,184,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr12:84895950-84896450,0.0170112109648411,,72,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr12:84898644-84899144,0.0137757598594933,,180,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr12:84899218-84899718,0.0141473248716193,,162,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr12:84911231-84911731,0.0192632942366171,,39,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr12:84912557-84913057,0.0225822970474187,,14,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr12:84986552-84987052,0.01434729504895,,154,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr12:85016359-85016859,0.0173382319977253,,66,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr13:112709817-112710317,0.0159107300393978,,95,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr1:31215933-31216433,0.0140962175047545,,165,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr1:31218659-31219159,0.014685137948436,,135,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr1:31239609-31240109,0.0141468103004009,,163,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr13:25358042-25358542,0.0199282302574647,,35,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr13:25468547-25469047,0.013699337954759,,187,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr1:3423316-3423816,0.0143413591355689,,155,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr13:77601827-77602327,0.0151270225452735,,120,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr14:19750950-19751450,0.0141123681112881,,164,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr14:19800597-19801097,0.0276561028195312,,4,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr14:70188754-70189254,-0.0207469985306654,,27,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr1:54581601-54582101,0.0136342812020602,,190,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr16:10039341-10039841,0.0140583560575233,,168,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr16:10126715-10127215,0.0165248841279614,,82,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr16:10181473-10181973,0.0139529800703659,,174,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr16:28538825-28539325,0.016540647174503,,81,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr16:705682-706182,-0.0163964207741301,,84,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr16:79592112-79592612,0.0178202427823862,,56,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr16:79592952-79593452,0.0169192617532937,,73,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr16:79598453-79598953,0.0150650418875917,,121,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr16:79599765-79600265,0.0160366875349447,,89,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr16:79600532-79601032,0.0165416033580564,,80,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr16:81895347-81895847,-0.0138233918846035,,176,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr16:83247699-83248199,0.0187229489748973,,45,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr16:83312037-83312537,0.0152886723900088,,117,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr16:89201648-89202148,-0.0158726004748875,,98,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr16:9311157-9311657,0.0148465295338908,,131,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr16:9316541-9317041,0.0168589600110451,,74,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr16:9365225-9365725,0.014620097368717,,141,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr16:9372883-9373383,0.0165471751485086,,79,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr17:49403803-49404303,0.0160482604464779,,88,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr18:15197505-15198005,0.0168342583424865,,76,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr18:37996404-37996904,0.0136035825953271,,195,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr18:38010943-38011443,0.0139863077937774,,172,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr18:58043916-58044416,-0.0277553363253829,,3,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr18:58051744-58052244,-0.0137828602531661,,179,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr18:58057214-58057714,-0.0199834001150423,,33,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr18:58103445-58103945,-0.0137590156953913,,183,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr18:58104999-58105499,-0.0150400830101774,,123,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr18:58117941-58118441,-0.0153766093159681,,116,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr18:58314205-58314705,-0.0154764693230444,,111,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr18:58321957-58322457,-0.0158981671254643,,97,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr18:62611895-62612395,0.0191884548776277,,40,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr18:78979843-78980343,-0.0142265547043427,,158,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr18:79323427-79323927,-0.0151962479008059,,119,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr1:9163033-9163533,0.0211209248544416,,22,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr1:9163805-9164305,0.0203400865131159,,30,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr19:17830716-17831216,-0.0167291217422292,,78,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr1:9182148-9182648,0.0183144383732865,,52,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr1:9182883-9183383,0.0135791802534179,,199,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr19:18374272-18374772,0.0155584833033958,,109,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr19:47447421-47447921,-0.0172497676137724,,67,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr19:48398598-48399098,-0.0177724100434716,,57,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr19:49339336-49339836,-0.0146636550895403,,137,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr19:51887720-51888220,-0.0185528856499392,,50,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr19:52353725-52354225,0.0137639785944911,,182,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr19:57527096-57527596,-0.0168353476211442,,75,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr19:5827889-5828389,-0.0158380991507792,,99,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr20:20210209-20210709,0.0167546265395577,,77,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr20:36943457-36943957,0.0136099210682089,,193,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr20:9838740-9839240,-0.0159679130706636,,93,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr21:20618775-20619275,0.0145060923202806,,145,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr2:145036631-145037131,0.0137836588771816,,178,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr21:46150358-46150858,0.0194210314840192,,37,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr2:15846613-15847113,0.0157960689475875,,103,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr2:160365850-160366350,-0.014055058906688,,169,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr2:160407625-160408125,-0.0159406647756708,,94,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr2:171553802-171554302,0.0245934045271345,,11,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr21:8213048-8213548,-0.0230131236690858,,13,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr2:186734904-186735404,-0.0193592459265492,,38,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr2:200477661-200478161,0.0171033749349799,,70,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr2:237923570-237924070,-0.0145152823073322,,144,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr2:242020482-242020982,0.0207887810766558,,26,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr2:38960203-38960703,-0.0286489769850697,,1,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr2:39665155-39665655,-0.0147971821462188,,132,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr2:39665665-39666165,-0.0162027077019323,,86,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr2:39667630-39668130,-0.0140741285658907,,166,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr2:39671621-39672121,-0.0174866522092972,,63,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr2:39686481-39686981,-0.0139660930733355,,173,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr2:9258841-9259341,0.0141641499209696,,161,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr2:9262826-9263326,0.0203413445945549,,29,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr2:9297789-9298289,0.0156867562902038,,105,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr2:9298587-9299087,0.013599153261173,,196,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr2:9303648-9304148,0.0174288463539778,,64,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr3:13144181-13144681,0.0149215578946142,,129,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr3:139281414-139281914,0.0153859846940577,,114,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr3:141336967-141337467,0.0144194699321455,,149,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr3:148797816-148798316,0.01449988041059,,147,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr3:148815596-148816096,0.0275669117430043,,5,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr3:84904746-84905246,0.0145006038210886,,146,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr3:89114456-89114956,0.018015711638491,,54,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr3:89165575-89166075,0.0140478222197776,,170,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr3:89172056-89172556,0.0177428862765878,,58,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr3:89179593-89180093,0.0143849655122813,,153,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr3:89570785-89571285,0.0150614822050305,,122,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr3:89571691-89572191,0.0150230296555811,,125,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr3:9101207-9101707,0.0187016494484127,,47,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr4:10457177-10457677,-0.0254602984056196,,8,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr4:10461161-10461661,-0.0247490948313061,,9,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr4:1511600-1512100,-0.016023115427645,,91,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr4:55008291-55008791,0.0210749023014071,,23,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr4:55125353-55125853,0.0154233346190264,,113,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr4:55311791-55312291,0.0196790572989942,,36,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr4:8400930-8401430,0.0174051815524139,,65,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr4:85784311-85784811,0.0199442959731168,,34,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr5:170862004-170862504,-0.0246867603570347,,10,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr5:170896626-170897126,-0.0160318208997728,,90,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr5:176619105-176619605,-0.0143924340832674,,151,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr5:25963618-25964118,0.0155937251112705,,106,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr5:37834412-37834912,0.013871396472421,,175,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr5:43017809-43018309,0.0185550068038518,,49,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr5:57037308-57037808,0.0136844290616794,,188,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr5:74851834-74852334,0.0136052515360781,,194,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr6:104996148-104996648,0.0159747783116848,,92,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr6:105176048-105176548,0.01813519723197,,53,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr6:122753508-122754008,0.0136993747232398,,186,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr6:165184575-165185075,0.0146379884017109,,138,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr6:16583291-16583791,0.0158158446960867,,100,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr6:26224882-26225382,-0.0185705646402102,,48,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr6:35601865-35602365,0.0203532700925303,,28,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr6:35650061-35650561,0.0189880935832379,,42,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr7:116499398-116499898,0.0211794697778993,,21,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr7:116511613-116512113,0.0223316264623305,,16,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr7:116524579-116525079,0.0230891368773859,,12,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr7:116525999-116526499,0.0221053669699584,,17,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr7:116527971-116528471,0.0210299666871821,,24,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr7:116545574-116546074,0.0202341296443728,,31,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr7:116553789-116554289,0.0150268393801557,,124,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr7:116630897-116631397,0.013620610005663,,192,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr7:124451250-124451750,0.0171080282446499,,69,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr7:147638913-147639413,0.0263830065121386,,7,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr7:147639694-147640194,0.0146271621601518,,140,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr7:147640561-147641061,0.0142201553380303,,159,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr7:147762217-147762717,0.0147859877504313,,133,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr7:147941302-147941802,0.0157343461896249,,104,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr7:148113584-148114084,0.0190105216719932,,41,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr7:148114778-148115278,0.01462943715601,,139,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr7:158878215-158878715,0.0278963682041256,,2,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr7:25753334-25753834,0.0187072590198538,,46,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr7:25849409-25849909,0.0212499484066716,,19,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr7:25854995-25855495,0.0275509454741339,,6,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr7:25856877-25857377,0.0177148059410964,,59,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr8:11201436-11201936,-0.0187602197409859,,44,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr8:115586831-115587331,0.0176066254343575,,62,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr8:141128203-141128703,-0.014997204410717,,126,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr8:2623148-2623648,0.0146708815596756,,136,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr8:37899343-37899843,-0.0224954581688234,,15,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr8:40155576-40156076,0.0162465335578127,,85,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr8:66064098-66064598,0.0155199034506747,,110,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr9:108755495-108755995,0.0144017234034568,,150,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr9:137129574-137130074,-0.013666834777345,,189,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr9:21974645-21975145,0.0160940875815587,,87,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr9:41643615-41644115,-0.0145322327069839,,143,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr9:74497029-74497529,0.0217653220966905,,18,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr9:74498166-74498666,0.0201173492206931,,32,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr9:74506203-74506703,0.0153793929350375,,115,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr9:74526140-74526640,0.0142103973759783,,160,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr9:74543108-74543608,0.01795754028467,,55,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr9:74543861-74544361,0.0170335982952697,,71,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr9:74554932-74555432,0.0176305134804421,,61,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chr9:99356524-99357024,0.0142573357041205,,157,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chrX:118909848-118910348,0.0135928634634999,,197,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,Oligo,chrX:20663235-20663735,-0.0155869456722498,,107,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr10:113042617-113043117,-0.0062765716690546,,99,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr10:114631855-114632355,0.0057061061149154,,181,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr10:114684181-114684681,0.0069940851475947,,49,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr10:131961783-131962283,0.0056328965531744,,194,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr10:131962491-131962991,0.0061533081962491,,114,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr10:133325481-133325981,-0.006246743011421,,102,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr10:13827582-13828082,0.0057372149067413,,175,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr10:53431383-53431883,-0.0058375146201586,,159,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr10:59517942-59518442,0.0064625964320186,,82,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr1:1000615-1001115,-0.0078934111163784,,20,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr1:109280954-109281454,0.0056839871182414,,183,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr1:113095847-113096347,-0.0057289922822316,,178,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr11:135075698-135076198,0.0057610683512452,,170,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr11:15453333-15453833,-0.0057819449223469,,164,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr11:64971888-64972388,-0.0058707527085147,,154,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr11:80261781-80262281,-0.0059971434401942,,138,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr11:99069817-99070317,-0.0068164281907943,,59,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr1:205317500-205318000,0.0062559215908554,,101,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr1:207820822-207821322,0.0065768336987552,,73,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr1:207883218-207883718,0.0056238999782649,,198,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr12:101004728-101005228,-0.0057566874089825,,172,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr12:124359502-124360002,0.0067862776785658,,60,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr12:125093376-125093876,0.006410576229923,,85,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr12:20369217-20369717,-0.0059305244696934,,142,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr1:222386601-222387101,-0.0074498326297358,,36,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr1:226739997-226740497,-0.0061198900347781,,118,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr1:228457729-228458229,-0.007559919886471,,31,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr1:231174775-231175275,-0.0058939484002601,,151,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr1:24576146-24576646,0.0056429128553458,,192,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr1:29855113-29855613,-0.0068744911489405,,56,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr1:3080483-3080983,0.0064363730598298,,84,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr13:100547721-100548221,0.0063591683123049,,91,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr13:113951127-113951627,0.0058818481132323,,153,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr1:32939521-32940021,-0.0060074215651171,,135,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr13:32471439-32471939,-0.0057365418927513,,176,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr13:50071367-50071867,-0.0059203919154167,,144,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr1:36845889-36846389,0.0060460212100635,,129,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr1:37071772-37072272,-0.0058965284125585,,150,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr1:38498073-38498573,-0.0060313672790473,,130,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr1:39886803-39887303,-0.0056608592492665,,188,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr14:80974147-80974647,-0.0057995235656292,,161,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr15:25801875-25802375,0.0065312585302568,,77,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr1:54390658-54391158,0.0060137746748489,,134,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr1:54581601-54582101,0.0065021943915416,,80,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr15:46343583-46344083,-0.006075452779193,,124,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr15:47184257-47184757,-0.0060874467580412,,121,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr15:82059983-82060483,-0.0098957944801224,,6,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr15:89445700-89446200,-0.0074200135075483,,38,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr15:97406766-97407266,-0.0081869177001343,,16,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr16:1992147-1992647,-0.0076409890959955,,26,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr16:20203222-20203722,-0.0056458256327958,,191,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr16:27310490-27310990,-0.0059115678018297,,145,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr16:47627648-47628148,-0.0061364701387739,,117,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr16:51119438-51119938,0.0062392146956426,,104,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr16:54432401-54432901,0.0056674133376594,,186,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr16:57529989-57530489,0.0057583341999231,,171,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr16:66502999-66503499,0.006406384813751,,86,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr16:79592112-79592612,0.006050267625015,,127,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr16:87328758-87329258,0.0079068796210266,,19,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr16:87329562-87330062,0.0060004495041717,,137,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr17:13974163-13974663,-0.0056563910321905,,189,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr17:17158185-17158685,0.0062403951490059,,103,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr17:80743037-80743537,0.0062270191136576,,106,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr17:82846298-82846798,0.0078720125228812,,21,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr18:32753885-32754385,-0.0066006214542867,,72,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr18:48680784-48681284,0.0066600352802228,,66,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr18:60017064-60017564,-0.0096098774994927,,7,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr18:76265696-76266196,0.0070902380930528,,44,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr19:13888314-13888814,0.0068385660434492,,58,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr19:1669008-1669508,-0.0061471063152213,,115,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr19:17830716-17831216,-0.0061009325542432,,119,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr1:9181224-9181724,0.0075015469192315,,34,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr1:9182148-9182648,0.009153479851318,,11,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr1:9182883-9183383,0.0076351956729206,,27,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr1:9247904-9248404,0.0073574737473309,,41,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr19:3336761-3337261,0.0068940637856734,,54,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr19:35038096-35038596,-0.0057914228964977,,162,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr19:3632656-3633156,0.0093597394325439,,8,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr19:39692194-39692694,-0.0058387974562283,,158,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr19:47428088-47428588,-0.0058243648393888,,160,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr19:47573038-47573538,-0.0057781910208125,,165,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr19:5827889-5828389,-0.0091800620215397,,10,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr19:875980-876480,-0.0061679602556816,,113,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr19:9406836-9407336,-0.0074102565963152,,39,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr1:999930-1000430,-0.0076245867868049,,29,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr20:43303008-43303508,-0.0061372732993924,,116,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr20:57126605-57127105,0.0056654803023314,,187,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr2:105604891-105605391,0.0065579875778843,,74,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr2:119305407-119305907,0.0057764176342062,,166,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr2:133972794-133973294,0.0071739849819503,,42,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr21:45992987-45993487,0.005765727164744,,168,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr2:156196006-156196506,-0.0057458132444683,,173,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr2:160666314-160666814,-0.0056204163474328,,199,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr2:174843178-174843678,0.00589888159734,,149,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr2:183224948-183225448,-0.0068879445034733,,55,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr2:205685534-205686034,0.0059511145677687,,140,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr2:2188854-2189354,0.0078355629918509,,23,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr22:21942434-21942934,0.0057744215508122,,167,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr22:29480834-29481334,-0.0070658654541466,,46,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr2:240132480-240132980,0.0071576160723101,,43,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr22:49949285-49949785,0.005687713089072,,182,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr2:30239296-30239796,-0.006928219254588,,53,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr2:30239891-30240391,-0.0080131587534598,,17,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr2:38960203-38960703,-0.0074729313346424,,35,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr3:107218819-107219319,0.0062911295282718,,97,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr3:113816156-113816656,0.0067195561754093,,64,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr3:122964791-122965291,-0.0057418064181581,,174,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr3:13600984-13601484,-0.0060145542976666,,133,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr3:145865288-145865788,-0.0057839897848977,,163,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr3:195156463-195156963,0.0056241708777586,,197,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr3:37461363-37461863,-0.0062015098077279,,108,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr3:55526624-55527124,-0.0059880113243265,,139,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr3:74643619-74644119,0.0065269425067322,,78,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr3:86634263-86634763,-0.0057356084383662,,177,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr4:116925924-116926424,-0.0058994966747117,,148,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr4:118034110-118034610,-0.0060951535135173,,120,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr4:143705049-143705549,-0.0060609626366755,,125,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr4:148023611-148024111,0.0056506714189854,,190,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr4:151187247-151187747,-0.0059307956987935,,141,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr4:6633027-6633527,0.0076487461869459,,25,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr4:68993649-68994149,-0.0056746934447446,,184,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr4:94889892-94890392,-0.0067385450493772,,63,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr4:95537203-95537703,0.0069924559893855,,50,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr5:100903078-100903578,-0.006607066224753,,71,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr5:161547744-161548244,-0.0066113345156957,,70,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr5:170862004-170862504,-0.0080001586521849,,18,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr5:26155505-26156005,-0.0065064277811701,,79,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr5:38596936-38597436,0.0060039882728907,,136,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr5:43007508-43008008,0.0062650210444137,,100,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr5:43017809-43018309,0.0070854006309505,,45,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr5:88836397-88836897,0.0058593243124518,,156,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr6:134896948-134897448,-0.0060491368802162,,128,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr6:138282992-138283492,-0.0059055703519059,,146,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr6:147077140-147077640,0.0060824386143603,,123,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr6:150751268-150751768,-0.006296013779775,,96,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr6:16583291-16583791,0.0075386293348952,,33,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr6:168704202-168704702,-0.006374438913094,,89,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr6:24836058-24836558,0.0063465368390583,,92,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr6:26216625-26217125,-0.0156158031509113,,0,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr6:26223872-26224372,-0.0113925457404593,,3,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr6:26224882-26225382,-0.0128661778461871,,2,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr6:26240071-26240571,-0.0058563204960013,,157,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr6:26271273-26271773,-0.006192527409175,,110,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr6:26272704-26273204,-0.0083308801194017,,15,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr6:27132684-27133184,-0.0105188923919183,,4,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr6:27146747-27147247,-0.0100467376734408,,5,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr6:29005395-29005895,-0.0067411058738426,,61,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr6:31353053-31353553,-0.0056718892865199,,185,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr6:35057965-35058465,0.0069944139797159,,48,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr6:35058754-35059254,0.0057617259629884,,169,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr6:35059828-35060328,0.0065539725530053,,75,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr6:35077060-35077560,0.006194680719021,,109,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr6:35590528-35591028,0.007377465569094,,40,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr6:39243775-39244275,0.0062995388870419,,95,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr6:43686483-43686983,-0.0057139626666743,,179,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr6:5996081-5996581,0.0060246983798056,,131,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr6:6007300-6007800,0.0066490267488026,,67,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr6:6008563-6009063,0.0092173845948302,,9,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr7:151743591-151744091,0.0088739807771343,,13,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr7:158011961-158012461,0.0063234815208804,,93,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr7:158878215-158878715,0.0089444423948639,,12,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr7:158879435-158879935,0.0060578066738823,,126,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr7:159025005-159025505,0.0078123329488813,,24,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr7:159084244-159084744,0.0075466326944458,,32,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr7:159141525-159142025,0.0068465173378132,,57,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr7:159142684-159143184,0.0059039991194719,,147,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr7:38978544-38979044,0.0069713489679475,,51,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr7:39095844-39096344,0.0060844228407699,,122,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr7:41696368-41696868,0.0063080068322416,,94,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr7:44915010-44915510,-0.0058892522078545,,152,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr7:650542-651042,0.0070021416083268,,47,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr7:768769-769269,0.0058689243326109,,155,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr7:98178272-98178772,0.0065467633456556,,76,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr7:99975927-99976427,0.0074348721621059,,37,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr8:10772200-10772700,-0.0063968628058015,,87,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr8:109586173-109586673,-0.0067138469123016,,65,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr8:11361637-11362137,0.0062113682015841,,107,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr8:115585599-115586099,0.0063859915040056,,88,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr8:115586831-115587331,0.0133871686239815,,1,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr8:133486136-133486636,0.0066456769768034,,68,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr8:139215131-139215631,0.0057073113687043,,180,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr8:25184416-25184916,0.00787188150075,,22,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr8:25197097-25197597,0.0066358105809336,,69,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr8:25243810-25244310,0.0056401445432468,,193,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr8:25260441-25260941,0.0062891562163039,,98,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr8:25263016-25263516,0.0061842901892712,,111,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr8:60967475-60967975,0.0076331392817338,,28,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr8:95100971-95101471,0.0056262854380875,,196,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr9:10774060-10774560,-0.0067397586930175,,62,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr9:4828653-4829153,-0.006372443459558,,90,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr9:71121402-71121902,-0.0056272779651722,,195,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr9:84258269-84258769,0.0087459571510886,,14,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chr9:93161721-93162221,-0.0060228475889896,,132,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chrX:25002196-25002696,-0.00616862853938,,112,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chrX:25004396-25004896,-0.0059247066423231,,143,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chrX:42627263-42627763,-0.0075964328608868,,30,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chrX:42627766-42628266,-0.0064574256854468,,83,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chrX:43615646-43616146,0.0064697546280508,,81,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chrX:83507955-83508455,-0.0062315209187388,,105,RidgeCV
+pfc_internal_valid,all_PFC_357donor_ridge_clock,ATAC,OPC,chrY:21821644-21822144,-0.0069654006512709,,52,RidgeCV
