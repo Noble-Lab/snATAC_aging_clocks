@@ -14,9 +14,6 @@ code/
   seaad_alltissues_investigate/  scripts/, data/metadata/, cache/ (pre-built donor manifest)
   atac_processing_techniques/    scripts/, _external_deps/
   pfc_to_perturbation/           scripts (flat), data/ucsc_cache/, reference/
-docs/
-  REPRODUCIBILITY_REPORT.md
-  DATA_FLOW_DOCUMENTATION.md
 outputs/
   statistical_tests/              one CSV per (project, analysis) (generated, §5)
   clock_coefficients/              one CSV per (project, clock_name) (generated, §5)
@@ -42,6 +39,9 @@ To run the scripts:
    each project's figure(s) into this repo's `figures/<project>/`.
 
 ## 1. Reproduction environment
+
+It will take ~1 hour to install required dependencies.
+The environment was built and tested on Rocky Linux 9.8, using a Intel Xeon Silver 4214 with 380 GB of RAM. 
 
 ```bash
 micromamba create -y -p /path/to/envs/reprod -f code/environment/reprod_env.yml
